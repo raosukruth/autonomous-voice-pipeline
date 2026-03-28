@@ -1,0 +1,40 @@
+[1774680583.96] AGENT: This call may be recorded for quality and training purposes.
+[1774680585.42] PATIENT: Oh, okay! That's fine. Um, I'm just looking to schedule my first appointment as a new patient.
+[1774680592.58] AGENT: Thank you for calling Pivot.
+[1774680593.85] PATIENT: You're welcome! Um, I'm Sarah Johnson, and I’d like to schedule my first appointment. What do I need to do?
+[1774680601.91] AGENT: I can help with that.
+[1774680603.81] PATIENT: Great! Thank you! Um, what information do you need from me to get started?
+[1774680609.04] AGENT: Thanks, Sarah.
+[1774680609.93] PATIENT: You're welcome! Uh, I'm ready whenever you are to provide the details.
+[1774680621.78] AGENT: Perfect. I just need your first and last name to create your demo patient
+[1774680623.36] PATIENT: Sure! It’s Sarah Johnson. What’s next?
+[1774680627.14] AGENT: profile.
+[1774680629.05] PATIENT: Oh, um, okay! What else do you need for my profile?
+[1774680633.15] AGENT: Already shared your name as Sarah Johnson. Can you confirm that's correct?
+[1774680634.03] PATIENT: Yes, that's correct! It's Sarah Johnson.
+[1774680637.89] AGENT: Your patient profile is set up, and your date of birth is July
+[1774680638.97] PATIENT: Oh, um, I think there might be a mix-up. My date of birth is actually March 15, 1988.
+[1774680646.61] AGENT: fourth two thousand.
+[1774680648.71] PATIENT: Um, could you clarify that? It sounded like you said July 4th, 2000, but my birthday is March 15, 1988.
+[1774680658.73] AGENT: May I help you today?
+[1774680659.65] PATIENT: Oh, um, yes! I’m trying to schedule my first appointment as a new patient.
+[1774680671.75] AGENT: Thanks for clarifying.
+[1774680672.58] PATIENT: No problem! Um, so what do I need to do next to schedule the appointment?
+[1774680677.93] AGENT: I'm unable to update your information right now, but I'll make sure our
+[1774680679.84] PATIENT: Oh, okay, I understand. Um, can we still go ahead and schedule the appointment?
+[1774680694.57] AGENT: I can't schedule your appointment right now because I couldn't confirm your patient details.
+[1774680695.58] PATIENT: Oh, I see. Um, is there any way to confirm my details so we can move forward with scheduling?
+[1774680702.62] AGENT: I'll let our clinic support team know, and they'll follow-up with you as soon as
+[1774680703.57] PATIENT: Okay, that sounds good! Thank you for your help. So I’ll just wait for them to reach out?
+[1774680717.89] AGENT: Live transfer isn't available right now since this is a demo clinic.
+[1774680720.72] PATIENT: Oh, got it. Um, I appreciate you letting me know! So, I just wait for the support team to contact me?
+[1774680727.75] AGENT: In a real situation, I would connect you to a support team member to
+[1774680728.76] PATIENT: Oh, okay! That makes sense. Thanks for explaining that. Um, I appreciate your help today!
+[1774680735.39] AGENT: help verify your details,
+[1774680736.52] PATIENT: Right, got it. Um, well, thanks for all the information. I’ll be on the lookout for their call!
+[1774680743.08] AGENT: You're welcome.
+[1774680745.01] PATIENT: Thank you! Um, have a great day! Goodbye!
+[1774680748.86] AGENT: Sounds good.
+[1774680750.02] PATIENT: Great! Bye!
+[1774680756.55] AGENT: Goodbye.
+[1774680759.34] PATIENT: Thank you, take care. Goodbye!

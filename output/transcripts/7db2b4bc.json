@@ -1,0 +1,192 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774678464.364973
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, uh, alright then. That's fine, I guess. I'm just trying to reach Dr. Patterson's office, but I\u2019m not sure if I\u2019ve got the right number.",
+    "timestamp": 1774678465.797277
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling PivotPoint Ortho",
+    "timestamp": 1774678474.2090082
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, um, PivotPoint Ortho? Is this, uh, Dr. Patterson's office? I might have dialed the wrong number.",
+    "timestamp": 1774678475.590901
+  },
+  {
+    "speaker": "agent",
+    "text": "Yep.",
+    "timestamp": 1774678483.952215
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay. Well, I\u2019m looking to, uh, check on an appointment with Dr. Patterson. Can you help me with that?",
+    "timestamp": 1774678486.068459
+  },
+  {
+    "speaker": "agent",
+    "text": "This is Pivot Point Orthopedics.",
+    "timestamp": 1774678494.173055
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, I see. So, um, this isn't Dr. Patterson's office after all? I must\u2019ve mixed up the numbers. Sorry about that!",
+    "timestamp": 1774678495.592025
+  },
+  {
+    "speaker": "agent",
+    "text": "No worries at all.",
+    "timestamp": 1774678510.5127401
+  },
+  {
+    "speaker": "patient",
+    "text": "Thank you! Um, do you happen to know the number for Dr. Patterson\u2019s office, or should I just look it up?",
+    "timestamp": 1774678511.626085
+  },
+  {
+    "speaker": "agent",
+    "text": "You're connected to Pivot Point Orthopaedics where doctor Patterson practices.",
+    "timestamp": 1774678518.765808
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh! I see, I see. Sorry, I\u2019m a bit hard of hearing. So, uh, can you help me check my appointment with Dr. Patterson then?",
+    "timestamp": 1774678521.2415118
+  },
+  {
+    "speaker": "agent",
+    "text": "Can I assist you with your appoint",
+    "timestamp": 1774678529.861593
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, yes, please! I\u2019d like to, um, check my appointment details with Dr. Patterson. What do you need from me?",
+    "timestamp": 1774678531.2726688
+  },
+  {
+    "speaker": "agent",
+    "text": "I don't have a",
+    "timestamp": 1774678539.207825
+  },
+  {
+    "speaker": "patient",
+    "text": "I'm sorry, dear, I didn't quite catch that. What do you need from me?",
+    "timestamp": 1774678540.1717901
+  },
+  {
+    "speaker": "agent",
+    "text": "k?",
+    "timestamp": 1774678545.311166
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, could you repeat that? I didn\u2019t quite hear you.",
+    "timestamp": 1774678548.026826
+  },
+  {
+    "speaker": "agent",
+    "text": "No problem. To check your appointment,",
+    "timestamp": 1774678551.83439
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay! What do you need me to give you to check my appointment?",
+    "timestamp": 1774678552.775757
+  },
+  {
+    "speaker": "agent",
+    "text": "I just",
+    "timestamp": 1774678556.962498
+  },
+  {
+    "speaker": "patient",
+    "text": "Uh, I\u2019m sorry, I didn\u2019t catch that again. Can you please say it a bit louder?",
+    "timestamp": 1774678558.047298
+  },
+  {
+    "speaker": "agent",
+    "text": "I need your first and last name to look up your appointment.",
+    "timestamp": 1774678569.255771
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, right! It's George Miller. Sorry about that!",
+    "timestamp": 1774678571.26815
+  },
+  {
+    "speaker": "agent",
+    "text": "Could you please tell me your name?",
+    "timestamp": 1774678574.928245
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, yes! It's George Miller. Sorry if I didn\u2019t make that clear before.",
+    "timestamp": 1774678575.8273852
+  },
+  {
+    "speaker": "agent",
+    "text": "Your patient profile is set up, and your date of birth is July fourth",
+    "timestamp": 1774678584.780076
+  },
+  {
+    "speaker": "patient",
+    "text": "Uh, I think there\u2019s been a mix-up. My birthday is actually February 14, 1950. Is that what you have on file?",
+    "timestamp": 1774678586.796848
+  },
+  {
+    "speaker": "agent",
+    "text": "two thousand.",
+    "timestamp": 1774678594.93639
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, um, did you say 2000? No, my birthday is in 1950. I\u2019m a bit older than that!",
+    "timestamp": 1774678597.290973
+  },
+  {
+    "speaker": "agent",
+    "text": "How may I help you today with your appointment?",
+    "timestamp": 1774678604.423025
+  },
+  {
+    "speaker": "patient",
+    "text": "I just wanted to check on my appointment with Dr. Patterson. Do I have one scheduled?",
+    "timestamp": 1774678605.537516
+  },
+  {
+    "speaker": "agent",
+    "text": "I can't pull up your appointment details right now.",
+    "timestamp": 1774678620.819772
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, I see. That's okay. Um, should I call back later, or is there another way to check on it?",
+    "timestamp": 1774678622.1250272
+  },
+  {
+    "speaker": "agent",
+    "text": "I'll make sure our clinic support team",
+    "timestamp": 1774678629.7199419
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay! Thank you for that. So, they\u2019ll get back to me?",
+    "timestamp": 1774678632.141289
+  },
+  {
+    "speaker": "agent",
+    "text": "follows up with you. Please",
+    "timestamp": 1774678636.353206
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, could you repeat that? I didn't quite hear the last part.",
+    "timestamp": 1774678637.650739
+  }
+]

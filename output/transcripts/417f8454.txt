@@ -1,0 +1,27 @@
+[1774681107.90] AGENT: This call may be recorded for quality and training purposes.
+[1774681108.75] PATIENT: Okay, that's fine. I'm calling to cancel my upcoming appointment.
+[1774681113.41] AGENT: Thank you for calling Pivot.
+[1774681114.14] PATIENT: You're welcome. I’d like to cancel my appointment, please.
+[1774681118.45] AGENT: I can help.
+[1774681120.02] PATIENT: Great, thank you. Can you confirm the cancellation for me?
+[1774681124.42] AGENT: Before we get started,
+[1774681125.15] PATIENT: Sure, what do you need?
+[1774681127.19] AGENT: I
+[1774681127.88] PATIENT: Um, it seems like you got cut off. What were you saying?
+[1774681140.31] AGENT: To help you cancel your appointment, I'll need to create a demo patient profile for you.
+[1774681142.51] PATIENT: Uh, okay. What do you need from me to set that up?
+[1774681146.12] AGENT: Can I get your first and last name?
+[1774681147.12] PATIENT: Sure, it's Robert Davis.
+[1774681149.80] AGENT: I just need your
+[1774681150.51] PATIENT: I’m sorry, what else do you need?
+[1774681163.47] AGENT: I checked.
+[1774681165.37] PATIENT: Okay, so can we go ahead and cancel my appointment now?
+[1774681169.52] AGENT: And there are no upcoming appointments on file for you right now.
+[1774681170.35] PATIENT: Oh, really? I thought I had one scheduled. Can you check again?
+[1774681175.19] AGENT: There anything else I can help with?
+[1774681175.99] PATIENT: Um, no, I think that’s it. I appreciate your help, though. Thank you!
+[1774681184.53] AGENT: You're welcome.
+[1774681186.36] PATIENT: Alright, have a good day! Goodbye!
+[1774681189.61] AGENT: If you need anything else, just let me know.
+[1774681190.38] PATIENT: Will do, thanks! Goodbye!
+[1774681193.13] AGENT: Have a good day.

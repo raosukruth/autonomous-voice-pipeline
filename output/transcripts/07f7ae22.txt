@@ -1,0 +1,46 @@
+[1774599684.44] AGENT: This call may be recorded for quality and training purposes.
+[1774599685.24] PATIENT: Okay, that's fine. I’m just looking to schedule a follow-up appointment.
+[1774599690.37] AGENT: Thank you for calling.
+[1774599691.48] PATIENT: You're welcome! I’d like to schedule a follow-up appointment, please.
+[1774599695.87] AGENT: Before we schedule your
+[1774599697.62] PATIENT: Sure, what do you need from me?
+[1774599700.43] AGENT: Would you like to create a demo page?
+[1774599701.47] PATIENT: Um, I think you might have mixed up your questions. I just want to schedule a follow-up appointment.
+[1774599707.78] AGENT: I just need
+[1774599708.85] PATIENT: Okay, go ahead. What do you need from me?
+[1774599717.79] AGENT: I just need your first and last
+[1774599719.33] PATIENT: Sure! It's Michael Torres.
+[1774599721.93] AGENT: name to create your demo patient profile.
+[1774599722.95] PATIENT: Oh, I see. I just want to schedule a follow-up appointment, though. I don't need a demo profile. Can we just go ahead with the appointment?
+[1774599732.41] AGENT: Could you please provide them?
+[1774599733.10] PATIENT: Um, my name is Michael Torres. Do you need anything else?
+[1774599739.77] AGENT: Thanks, Michael. For your follow-up appointment,
+[1774599741.47] PATIENT: Great! What are the available times?
+[1774599744.78] AGENT: do you have a preferred provider or day and time, or would you like to hear the next available options?
+[1774599745.62] PATIENT: I don't have a specific provider in mind, so I’d appreciate hearing the next available options. Thank you!
+[1774599758.70] AGENT: Which provider would you like to see for your follow-up appointment?
+[1774599759.47] PATIENT: I usually see Dr. Smith, if she's available. Otherwise, I’m open to other options.
+[1774599765.61] AGENT: I can check their next available time for you.
+[1774599767.32] PATIENT: That would be great, thank you!
+[1774599778.57] AGENT: I don't see doctor Smith listed as a provider.
+[1774599779.56] PATIENT: Oh, that's strange. I’ve seen her before. Could you double-check for me?
+[1774599784.74] AGENT: At Tivic Point Orthopedics.
+[1774599785.70] PATIENT: Okay, that makes sense. Can you help me schedule an appointment with Dr. Smith there?
+[1774599791.48] AGENT: You like to book with doctor Judy Hauser, doctor
+[1774599793.08] PATIENT: Oh, I see. I don't think I've seen Dr. Hauser before. Can you tell me more about her, or should I just go ahead and book with her?
+[1774599801.84] AGENT: I
+[1774599802.64] PATIENT: Yes? What were you going to say?
+[1774599805.52] AGENT: I don't have
+[1774599807.27] PATIENT: Got it. So, can I just go ahead and book an appointment with Dr. Hauser then?
+[1774599820.27] AGENT: Yes. You can book a follow-up appointment with doctor
+[1774599822.27] PATIENT: Okay, perfect! When is the next available appointment with Dr. Hauser?
+[1774599827.42] AGENT: Judy Hauser. Would you like the next available time, or do you have a preferred day or time?
+[1774599828.15] PATIENT: I can take the next available time. That works for me!
+[1774599839.34] AGENT: The next available follow-up appointment with doctor Dube Hauser
+[1774599840.23] PATIENT: Okay, I understand. What date and time is that?
+[1774599844.18] AGENT: is Monday, March thirtieth at ten AM.
+[1774599846.86] PATIENT: That works for me! Please go ahead and book that appointment for March 30th at 10 AM with Dr. Hauser.
+[1774599853.95] AGENT: Your next available follow-up with doctor Doobie
+[1774599854.99] PATIENT: Just to clarify, is that Dr. Hauser you're referring to or someone else? I just want to make sure I have the right name.
+[1774599862.40] AGENT: What's
+[1774599863.23] PATIENT: Sorry, I didn’t catch that. Can you repeat that?

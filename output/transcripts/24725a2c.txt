@@ -1,0 +1,16 @@
+[1774588402.42] AGENT: This call may be recorded for quality and training purposes.
+[1774588403.72] PATIENT: Uh, okay, that's fine. My name is James Martinez, and I'm calling to request a refill for my Adderall prescription.
+[1774588411.94] AGENT: Thank you for calling PivotPoint Orthopaedic.
+[1774588413.29] PATIENT: Oh, uh, I think I might have the wrong number. I'm actually calling about my Adderall prescription. Is this the right place?
+[1774588421.27] AGENT: James, would you like to create a
+[1774588423.73] PATIENT: Um, I didn't catch that. Are you asking if I'd like to create a new account or something? I just need to refill my prescription, actually.
+[1774588433.36] AGENT: This is Pivot Point Orthopedics.
+[1774588434.53] PATIENT: Oh, I'm sorry! I must have called the wrong office. I need to reach my doctor for my Adderall prescription. Thanks for letting me know!
+[1774588443.68] AGENT: To help
+[1774588444.89] PATIENT: Uh, I appreciate that, but I really need to hang up and find the right number for my doctor. Thanks for your help though!
+[1774588452.23] AGENT: No prob.
+[1774588454.19] PATIENT: Thanks! Have a great day!
+[1774588456.87] AGENT: Of course. Have a great
+[1774588457.60] PATIENT: Uh, you too! Bye!
+[1774588463.35] AGENT: Goodbye.
+[1774588465.99] PATIENT: Thank you, take care. Goodbye!

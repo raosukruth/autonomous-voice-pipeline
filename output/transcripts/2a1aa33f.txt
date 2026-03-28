@@ -1,0 +1,37 @@
+[1774673837.18] AGENT: This call may be recorded for quality and training purposes.
+[1774673838.42] PATIENT: Oh, okay, no problem! Um, I’m just trying to schedule an appointment, but, uh, I keep getting distracted here.
+[1774673846.21] AGENT: Thank you for calling PivotPoint Orthopedic.
+[1774673847.13] PATIENT: Yeah, thanks for taking my call! So, um, I wanted to schedule an appointment... uh, what’s the soonest you have available?
+[1774673856.31] AGENT: No worries.
+[1774673858.07] PATIENT: Thanks! Um, so yeah, I was hoping to find out about the earliest appointment... I, uh, have some stuff going on.
+[1774673867.10] AGENT: I can help with that.
+[1774673868.06] PATIENT: Oh, great! Um, I just need to know when the first available appointment is. I, uh, have a bit of a busy week coming up, you know?
+[1774673883.97] AGENT: I can check the earliest appointment for you.
+[1774673884.87] PATIENT: Awesome! Um, so what do you need from me? Like, my name or... um, date of birth or something?
+[1774673892.72] AGENT: Would you like to create a demo patient profile first? I just need
+[1774673895.14] PATIENT: Sure, yeah, let’s do that. Um, what do you need? My name is Kevin Lee... and my birthday is January 11, 1995. What else?
+[1774673907.04] AGENT: Just your first and last name will do.
+[1774673908.13] PATIENT: Okay, cool. So, uh, I’m Kevin Lee. And, um, I think that’s it for now, right?
+[1774673921.57] AGENT: That's perfect, Kevin.
+[1774673922.83] PATIENT: Great! So, uh, what’s the earliest appointment you have available? I really need to get in soon.
+[1774673929.48] AGENT: Type of appointment do you need?
+[1774673931.34] PATIENT: Oh, right! Um, I need, like, an orthopedic appointment, I think? Just, uh, something for my knee.
+[1774673938.30] AGENT: New patient consultation, follow-up procedure, or physical therapy?
+[1774673939.89] PATIENT: Um, I think it’s a new patient consultation? Yeah, definitely that one.
+[1774673945.53] AGENT: Under
+[1774673946.49] PATIENT: Um, sorry, what was that? I didn't catch that.
+[1774673950.81] AGENT: Got it.
+[1774673953.13] PATIENT: Okay! So, um, can you tell me when the next new patient consultation is available?
+[1774673958.87] AGENT: Thanks for clarifying.
+[1774673959.83] PATIENT: Sure! Uh, I’m just really curious about the appointment times. Do you have any, um, openings soon?
+[1774673967.23] AGENT: Me check the soonest available new patient consultation for you. One moment.
+[1774673968.25] PATIENT: Sure, take your time! Um, I'm just here, you know, trying to figure this out.
+[1774673979.89] AGENT: The soonest new patient consultation is Monday,
+[1774673981.83] PATIENT: Got it! Um, do you know what time that appointment is?
+[1774673985.61] AGENT: March thirtieth at nine.
+[1774673986.65] PATIENT: Oh, um, March thirtieth at nine? That works for me! Can we go ahead and schedule that?
+[1774673992.27] AGENT: Forty five AM with doctor Bricker. We're also open
+[1774673994.03] PATIENT: Oh, right, 9:45 AM! Got it. Um, and you’re also open... when? Sorry, I got distracted again.
+[1774674010.10] AGENT: No problem.
+[1774674012.74] PATIENT: Thanks! Um, so could you just remind me of the office hours for that day?
+[1774674018.09] AGENT: To confirm, you'd like to book Monday, March thirtieth at nine.

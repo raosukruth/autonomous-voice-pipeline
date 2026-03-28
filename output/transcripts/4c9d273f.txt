@@ -1,0 +1,34 @@
+[1774673036.17] AGENT: This call may be recorded for quality and training purposes.
+[1774673037.20] PATIENT: Okay. I’d like to cancel my upcoming appointment, please.
+[1774673041.48] AGENT: Thank you for calling.
+[1774673042.15] PATIENT: You're welcome. I’d like to cancel my appointment, if that’s alright.
+[1774673052.22] AGENT: I can help with that.
+[1774673054.26] PATIENT: Great, thank you. Can you confirm the cancellation for me once it's done?
+[1774673059.55] AGENT: Before we continue, would you like to create a demo patient profile?
+[1774673060.27] PATIENT: Um, no thanks. I just want to cancel my appointment.
+[1774673064.68] AGENT: I just need your first and last name.
+[1774673065.38] PATIENT: Sure, it’s Robert Davis.
+[1774673068.62] AGENT: Hundred
+[1774673070.33] PATIENT: I'm sorry, could you clarify that? I didn't quite catch what you said.
+[1774673081.06] AGENT: You'd like to cancel your upcoming appointment.
+[1774673081.69] PATIENT: Yes, that's correct. I'd like to cancel my upcoming appointment.
+[1774673086.21] AGENT: Me check your upcoming appointments now. I checked.
+[1774673086.82] PATIENT: Okay, sounds good. What do you see?
+[1774673095.35] AGENT: I checked your records, and there are no up
+[1774673097.18] PATIENT: Wait, are you saying there are no upcoming appointments for me?
+[1774673101.06] AGENT: upcoming appointments found for you right now. If you think you have one scheduled, could it be on
+[1774673101.79] PATIENT: Um, I'm not sure. Can you check if I have an appointment for the next week or so?
+[1774673113.81] AGENT: I checked your records, and there are no upcoming appointments
+[1774673114.72] PATIENT: Okay, got it. Thanks for confirming that. So, no need to cancel anything then, right?
+[1774673121.15] AGENT: scheduled for you in the next week or beyond.
+[1774673122.82] PATIENT: That’s fine. Thanks for checking. I appreciate it!
+[1774673126.62] AGENT: If you believe you have an
+[1774673127.61] PATIENT: I think I understand. But since there are no appointments scheduled, I’m all set. Thank you!
+[1774673134.32] AGENT: That's right. There's nothing that can
+[1774673135.67] PATIENT: Okay, thanks for clarifying. Have a good day!
+[1774673139.66] AGENT: You're welcome.
+[1774673141.02] PATIENT: Bye!
+[1774673142.18] AGENT: Glad I could help.
+[1774673142.80] PATIENT: Thanks again! Bye!
+[1774673144.77] AGENT: You too. Take care.
+[1774673147.64] PATIENT: Thank you, take care. Goodbye!

@@ -1,0 +1,38 @@
+[1774455656.55] AGENT: This call may be recorded for quality and training purposes.
+[1774455657.71] PATIENT: Oh, that's fine! I understand. I'm just calling to find out if your office accepts my Blue Cross Blue Shield insurance plan.
+[1774455665.95] AGENT: Thank you for calling
+[1774455667.25] PATIENT: You're welcome! Can you help me with my question about the insurance?
+[1774455679.12] AGENT: To help you with insurance questions, I'll need to create a demo patient profile
+[1774455679.99] PATIENT: Sure, that sounds good. What do you need from me to create that profile?
+[1774455684.81] AGENT: for you. Would you like to do that now? I just need your first and last name.
+[1774455686.14] PATIENT: Yeah, that's no problem. It's Jennifer Garcia.
+[1774455690.40] AGENT: Great.
+[1774455691.32] PATIENT: Awesome! What's next? Do you need any more information from me?
+[1774455703.12] AGENT: Your patient profile is set up.
+[1774455704.48] PATIENT: Perfect! So, can you check if my Blue Cross Blue Shield insurance is accepted here?
+[1774455710.82] AGENT: And your date of birth is July fourth two thousand.
+[1774455711.76] PATIENT: Um, actually, my date of birth is September 23, 1987. Can you update that?
+[1774455719.17] AGENT: How can I help you today? Are you looking to confirm if we accept
+[1774455720.37] PATIENT: Yes, exactly! I just want to confirm if your office accepts my Blue Cross Blue Shield insurance plan.
+[1774455727.97] AGENT: Blue Cross Blue Shield insurance? This call may be recorded for quality and training purpose.
+[1774455728.95] PATIENT: Yes, that's right. I just want to make sure my insurance is accepted here.
+[1774455733.72] AGENT: Thanks for calling PivotPoint Orthopedics, part of Pretty Good AI. How may I help you today?
+[1774455734.61] PATIENT: Hi! I'm calling to find out if you accept Blue Cross Blue Shield insurance.
+[1774455746.88] AGENT: It looks like we don't have any insurance on file for you.
+[1774455748.24] PATIENT: Oh, okay. Can you check if you accept Blue Cross Blue Shield in general? I just want to confirm if I'm covered.
+[1774455755.65] AGENT: Can I send you a link via text at your number ending in six seven
+[1774455756.86] PATIENT: Um, I think there might be a mistake. My number ends in 3456. Can you send the link there instead?
+[1774455774.30] AGENT: Thanks for letting me know? I'll send the link to your number ending in three four
+[1774455775.24] PATIENT: Actually, it should be 3456. I appreciate you sending the link there! Thank you!
+[1774455782.43] AGENT: five
+[1774455783.46] PATIENT: Oh, sorry for the confusion! Just to clarify, my number is 555-012-3456.
+[1774455792.55] AGENT: six so you can upload your Blue Cross Blue Shield
+[1774455793.67] PATIENT: Got it! Thanks for the help. I’ll look out for that link to upload my insurance info.
+[1774455807.47] AGENT: You're welcome. Once you upload your insurance card, I'll be able to
+[1774455808.64] PATIENT: Great! Once that's done, you'll be able to confirm if my insurance is accepted, right?
+[1774455815.14] AGENT: to confirm if your Blue Cross Blue Shield plan is accepted. Let me know if you
+[1774455816.02] PATIENT: Okay, will do! Thanks for your help. I appreciate it!
+[1774455825.62] AGENT: Yes.
+[1774455827.13] PATIENT: Thanks! I’ll keep an eye out for that link and let you know if I have any questions. Have a great day!
+[1774455833.35] AGENT: Once you upload your card, I'll check if your Blue Cross Blue Shield plan is
+[1774455834.38] PATIENT: Sounds good! I’ll make sure to upload it as soon as I get the link. Thanks for your help!

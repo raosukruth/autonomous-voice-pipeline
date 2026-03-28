@@ -1,0 +1,242 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774454473.413814
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay, that's fine. I'm just looking to schedule a follow-up appointment.",
+    "timestamp": 1774454474.490711
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling Piz",
+    "timestamp": 1774454479.918092
+  },
+  {
+    "speaker": "patient",
+    "text": "You're welcome! I\u2019d like to schedule a follow-up appointment, please.",
+    "timestamp": 1774454480.896794
+  },
+  {
+    "speaker": "agent",
+    "text": "to help you schedule a follow-up appointment.",
+    "timestamp": 1774454492.8777962
+  },
+  {
+    "speaker": "patient",
+    "text": "Great! What information do you need from me?",
+    "timestamp": 1774454494.1010602
+  },
+  {
+    "speaker": "agent",
+    "text": "I'll need to create a demo patient profile for you first.",
+    "timestamp": 1774454497.2319841
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure, that works. What do you need for the profile?",
+    "timestamp": 1774454498.13533
+  },
+  {
+    "speaker": "agent",
+    "text": "Can I get your first and last name?",
+    "timestamp": 1774454501.573299
+  },
+  {
+    "speaker": "patient",
+    "text": "Of course! It's Michael Torres.",
+    "timestamp": 1774454502.35724
+  },
+  {
+    "speaker": "agent",
+    "text": "I just",
+    "timestamp": 1774454505.243671
+  },
+  {
+    "speaker": "patient",
+    "text": "Sorry, I didn't catch that. What did you say?",
+    "timestamp": 1774454506.545408
+  },
+  {
+    "speaker": "agent",
+    "text": "Your patient profile has been created.",
+    "timestamp": 1774454513.790111
+  },
+  {
+    "speaker": "patient",
+    "text": "Awesome, thanks! Now, I\u2019d like to go ahead and schedule that follow-up appointment.",
+    "timestamp": 1774454515.039076
+  },
+  {
+    "speaker": "agent",
+    "text": "And your date of birth is July fourth two thousand for demo purposes.",
+    "timestamp": 1774454520.390455
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, actually, my date of birth is July 22, 1975. Could you use that instead?",
+    "timestamp": 1774454521.434731
+  },
+  {
+    "speaker": "agent",
+    "text": "How may I help you today?",
+    "timestamp": 1774454528.6881611
+  },
+  {
+    "speaker": "patient",
+    "text": "I\u2019m looking to schedule a follow-up appointment.",
+    "timestamp": 1774454529.606741
+  },
+  {
+    "speaker": "agent",
+    "text": "Let's get your follow-up appointment scheduled.",
+    "timestamp": 1774454533.0424068
+  },
+  {
+    "speaker": "patient",
+    "text": "Great! When do you have available slots?",
+    "timestamp": 1774454533.9115782
+  },
+  {
+    "speaker": "agent",
+    "text": "Do you have a preferred provider or day and time for your visit?",
+    "timestamp": 1774454537.428729
+  },
+  {
+    "speaker": "patient",
+    "text": "I don't have a specific provider, but I'm usually available on weekdays after 3 PM. Does that work?",
+    "timestamp": 1774454538.40322
+  },
+  {
+    "speaker": "agent",
+    "text": "Let me check for follow-up appointment openings with any provider on week",
+    "timestamp": 1774454555.092095
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure, take your time!",
+    "timestamp": 1774454556.951631
+  },
+  {
+    "speaker": "agent",
+    "text": "days after three PM. One moment.",
+    "timestamp": 1774454559.4991329
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, no problem!",
+    "timestamp": 1774454560.2117891
+  },
+  {
+    "speaker": "agent",
+    "text": "I found a few follow-up appointments",
+    "timestamp": 1774454568.2943869
+  },
+  {
+    "speaker": "patient",
+    "text": "Awesome! What do you have available?",
+    "timestamp": 1774454569.293308
+  },
+  {
+    "speaker": "agent",
+    "text": "on Thursday, March twenty sixth in the afternoon.",
+    "timestamp": 1774454572.185376
+  },
+  {
+    "speaker": "patient",
+    "text": "That sounds good! What time in the afternoon?",
+    "timestamp": 1774454573.2131379
+  },
+  {
+    "speaker": "agent",
+    "text": "The soonest available times on Thursday",
+    "timestamp": 1774454583.288674
+  },
+  {
+    "speaker": "patient",
+    "text": "Great! What are the times?",
+    "timestamp": 1774454583.994401
+  },
+  {
+    "speaker": "agent",
+    "text": "and March twenty sixth are one PM.",
+    "timestamp": 1774454586.796
+  },
+  {
+    "speaker": "patient",
+    "text": "Perfect, I'll take the 1 PM slot on March 26th.",
+    "timestamp": 1774454587.697613
+  },
+  {
+    "speaker": "agent",
+    "text": "You're booked for a follow-up appointment on",
+    "timestamp": 1774454598.794218
+  },
+  {
+    "speaker": "patient",
+    "text": "Awesome, thank you! Just to confirm, that's for March 26th at 1 PM, right?",
+    "timestamp": 1774454603.476931
+  },
+  {
+    "speaker": "agent",
+    "text": "Thursday, March twenty sixth at one PM. What's the reason for your visit?",
+    "timestamp": 1774454609.181887
+  },
+  {
+    "speaker": "patient",
+    "text": "It's for a follow-up appointment, just to check in on my progress.",
+    "timestamp": 1774454610.146831
+  },
+  {
+    "speaker": "agent",
+    "text": "It looks like there was an issue booking your appointment.",
+    "timestamp": 1774454625.698192
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh no, what kind of issue?",
+    "timestamp": 1774454626.672141
+  },
+  {
+    "speaker": "agent",
+    "text": "Due to a problem with the visit reason.",
+    "timestamp": 1774454629.046953
+  },
+  {
+    "speaker": "patient",
+    "text": "Got it. Can you help me clarify the visit reason so we can get it booked?",
+    "timestamp": 1774454630.300679
+  },
+  {
+    "speaker": "agent",
+    "text": "Try again and get",
+    "timestamp": 1774454635.071121
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, so what would you like me to say for the visit reason?",
+    "timestamp": 1774454635.989109
+  },
+  {
+    "speaker": "agent",
+    "text": "You can simply say follow-up as your visit reason.",
+    "timestamp": 1774454646.3748999
+  },
+  {
+    "speaker": "patient",
+    "text": "Alright, I\u2019ll just say \"follow-up.\" Can we try to book it again?",
+    "timestamp": 1774454647.761724
+  },
+  {
+    "speaker": "agent",
+    "text": "Would you like me to use that to book your appointment?",
+    "timestamp": 1774454652.357567
+  },
+  {
+    "speaker": "patient",
+    "text": "Yes, please! Go ahead and book it as a follow-up appointment.",
+    "timestamp": 1774454653.340275
+  }
+]

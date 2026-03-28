@@ -1,0 +1,16 @@
+[1774674039.05] AGENT: This call may be recorded for quality and training purposes.
+[1774674039.85] PATIENT: Oh, okay, no problem. Um, I want to schedule an appointment for a checkup, please.
+[1774674046.41] AGENT: Thank you for calling Pivot.
+[1774674047.28] PATIENT: Gracias. Um, I need to schedule a checkup appointment. Can you help me?
+[1774674058.09] AGENT: Would you like me to connect you to a
+[1774674060.11] PATIENT: Yes, please connect me. Um, I need to speak to someone who can help with the appointment. Thank you!
+[1774674067.70] AGENT: Spanish speaking agent?
+[1774674068.54] PATIENT: Sí, please. A Spanish speaking agent would be very helpful for me. Thank you!
+[1774674080.44] AGENT: I'll connect you to our clinic
+[1774674081.10] PATIENT: Okay, thank you. I’ll wait.
+[1774674084.43] AGENT: support team now. Please stay on the line.
+[1774674085.88] PATIENT: Sure, I will wait. Thank you!
+[1774674088.60] AGENT: Connecting you to a representative. Please wait.
+[1774674089.19] PATIENT: Okay, I will wait. Thank you!
+[1774674092.11] AGENT: Hello. You've reached the Pretty Good AI test line. Goodbye.
+[1774674092.93] PATIENT: Um, wait! No, I need help with my appointment, por favor! Can I talk to someone?

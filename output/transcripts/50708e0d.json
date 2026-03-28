@@ -1,0 +1,192 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774585702.76415
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay, that\u2019s fine! I'm just looking for directions to your office and want to ask about parking.",
+    "timestamp": 1774585704.032352
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling PivotPoint Orthopedics.",
+    "timestamp": 1774585710.733771
+  },
+  {
+    "speaker": "patient",
+    "text": "Hi, um, this is Thomas Anderson. I'm new to the area and I need some directions to your office, if you could help me out.",
+    "timestamp": 1774585711.835902
+  },
+  {
+    "speaker": "agent",
+    "text": "Would you like to create a demo patient profile?",
+    "timestamp": 1774585720.053988
+  },
+  {
+    "speaker": "patient",
+    "text": "Uh, no thanks. I just need directions to your office and some info about parking.",
+    "timestamp": 1774585721.9834409
+  },
+  {
+    "speaker": "agent",
+    "text": "I",
+    "timestamp": 1774585727.637366
+  },
+  {
+    "speaker": "patient",
+    "text": "Sorry, I think I missed that. Could you repeat what you said?",
+    "timestamp": 1774585728.4316669
+  },
+  {
+    "speaker": "agent",
+    "text": "Welcome, Thomas.",
+    "timestamp": 1774585732.787292
+  },
+  {
+    "speaker": "patient",
+    "text": "Thanks! Um, could you help me with directions to your office? I'm a bit nervous about finding it.",
+    "timestamp": 1774585733.674848
+  },
+  {
+    "speaker": "agent",
+    "text": "I'm not",
+    "timestamp": 1774585740.584262
+  },
+  {
+    "speaker": "patient",
+    "text": "Sorry, I didn\u2019t catch that. Could you say that again?",
+    "timestamp": 1774585742.330762
+  },
+  {
+    "speaker": "agent",
+    "text": "I'm not able to provide directions",
+    "timestamp": 1774585753.297936
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay. That\u2019s kind of unexpected. Is there someone else who might be able to help me with directions?",
+    "timestamp": 1774585754.413001
+  },
+  {
+    "speaker": "agent",
+    "text": "or navigation details, but I can give you the full address for Pivot Point Orthopaedics if that",
+    "timestamp": 1774585761.186105
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure, that would be helpful! What's the full address?",
+    "timestamp": 1774585761.9498858
+  },
+  {
+    "speaker": "agent",
+    "text": "help.",
+    "timestamp": 1774585765.283985
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, sorry, could you clarify? What do you mean by \"help\"? I just need the address for the office.",
+    "timestamp": 1774585769.164463
+  },
+  {
+    "speaker": "agent",
+    "text": "The address for Pivot Point Orthopedics is",
+    "timestamp": 1774585775.764729
+  },
+  {
+    "speaker": "patient",
+    "text": "Great, thank you! What\u2019s the address?",
+    "timestamp": 1774585777.977738
+  },
+  {
+    "speaker": "agent",
+    "text": "The address",
+    "timestamp": 1774585780.898737
+  },
+  {
+    "speaker": "patient",
+    "text": "Sorry, I\u2019m a bit confused. Can you go ahead and give me the address?",
+    "timestamp": 1774585781.980818
+  },
+  {
+    "speaker": "agent",
+    "text": "I apologize for any confusion. The address",
+    "timestamp": 1774585794.5286028
+  },
+  {
+    "speaker": "patient",
+    "text": "No problem at all! Please go ahead with the address.",
+    "timestamp": 1774585796.324099
+  },
+  {
+    "speaker": "agent",
+    "text": "for Pivot Point Orthopedics is not available in my system right now.",
+    "timestamp": 1774585800.023268
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, I see. That's a little frustrating. Is there any way you could direct me to someone who might have that information?",
+    "timestamp": 1774585801.135539
+  },
+  {
+    "speaker": "agent",
+    "text": "You can scan the QR code at the booth for more information.",
+    "timestamp": 1774585808.880969
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, that sounds helpful! I\u2019ll look for the QR code. Um, could you also tell me about parking at the office? Is there a lot or street parking nearby?",
+    "timestamp": 1774585810.576471
+  },
+  {
+    "speaker": "agent",
+    "text": "I'm",
+    "timestamp": 1774585820.4518862
+  },
+  {
+    "speaker": "patient",
+    "text": "I\u2019m sorry, I didn\u2019t catch that. Could you repeat what you said about parking?",
+    "timestamp": 1774585823.696218
+  },
+  {
+    "speaker": "agent",
+    "text": "Connecting you to a representative.",
+    "timestamp": 1774585829.5427468
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure, thank you! I'll hold.",
+    "timestamp": 1774585830.511586
+  },
+  {
+    "speaker": "agent",
+    "text": "Please wait.",
+    "timestamp": 1774585833.5690691
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay! I'm here.",
+    "timestamp": 1774585834.415683
+  },
+  {
+    "speaker": "agent",
+    "text": "Hello. You've reached the Pretty Good AI test line.",
+    "timestamp": 1774585836.355635
+  },
+  {
+    "speaker": "patient",
+    "text": "Uh, hi! I think I might have been transferred by mistake. I was looking for information about Pivot Point Orthopedics. Can you help me with that?",
+    "timestamp": 1774585838.796711
+  },
+  {
+    "speaker": "agent",
+    "text": "Goodbye.",
+    "timestamp": 1774585848.475884
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, um, okay. Thanks for your help! Goodbye!",
+    "timestamp": 1774585849.757084
+  }
+]

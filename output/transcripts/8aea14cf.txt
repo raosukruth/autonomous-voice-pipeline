@@ -1,0 +1,20 @@
+[1774677204.22] AGENT: This call may be recorded for quality and training purposes.
+[1774677205.25] PATIENT: Oh, okay! That's fine. Um, I just wanted to find out what your office hours are, specifically if you're open on Saturdays.
+[1774677213.40] AGENT: Thank you for calling PivotPoint
+[1774677214.36] PATIENT: Great! Thanks for taking my call. Could you let me know if you're open on Saturdays?
+[1774677227.01] AGENT: I don't have the exact
+[1774677229.05] PATIENT: Oh, okay. No problem! Can you at least tell me if you’re generally open on Saturdays?
+[1774677235.21] AGENT: office hours right now, but I can help you with other questions or requests.
+[1774677236.47] PATIENT: Um, could you check if you have the Saturday hours? I really need to know if I can bring my kids in then.
+[1774677243.64] AGENT: If you need to know the Saturday hours, you can also check
+[1774677244.65] PATIENT: Oh, I see! Sorry, I'm a bit pressed for time here. Could you take a moment to look that up for me?
+[1774677251.39] AGENT: I don't have the specific
+[1774677253.94] PATIENT: Okay, I understand. Could you maybe give me a general idea of your weekend hours? Like, are you usually open on Saturdays or not?
+[1774677262.73] AGENT: I don't have access to the exact
+[1774677263.95] PATIENT: Oh, I got it. Um, could I leave my contact info, and maybe someone can get back to me with that information?
+[1774677271.37] AGENT: I don't have the
+[1774677273.04] PATIENT: Okay, no worries! Thanks for your help anyway. I’ll just try calling back later. Have a great day!
+[1774677279.97] AGENT: Absolutely.
+[1774677282.07] PATIENT: Thanks! I appreciate it. Bye!
+[1774677285.05] AGENT: You're welcome. Have a great day.
+[1774677287.74] PATIENT: Thank you, take care. Goodbye!

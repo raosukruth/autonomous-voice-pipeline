@@ -1,0 +1,42 @@
+[1774587459.00] AGENT: This call may be recorded for quality and training purposes.
+[1774587460.21] PATIENT: Oh, okay! That's fine. I just want to schedule my first appointment as a new patient.
+[1774587466.88] AGENT: Thank you for calling PivotPoint
+[1774587468.25] PATIENT: Um, thank you! I’m Sarah Johnson, and I’d like to schedule my first appointment, please.
+[1774587474.63] AGENT: I can help with that.
+[1774587476.69] PATIENT: Great! Um, what do I need to do next?
+[1774587483.03] AGENT: Your patient profile has been
+[1774587483.99] PATIENT: Oh, um, I'm sorry, I didn't catch that. Could you repeat it?
+[1774587489.16] AGENT: created, and your date of birth is July fourth two thousand.
+[1774587490.25] PATIENT: Oh, um, actually, my date of birth is March 15, 1988. Just to clarify! What do we do next?
+[1774587498.35] AGENT: How may I help you today?
+[1774587500.51] PATIENT: I’d like to schedule my first appointment as a new patient. What times do you have available?
+[1774587515.28] AGENT: Thanks for clarifying your date of birth as March fifteenth nineteen eighty eight.
+[1774587516.78] PATIENT: You're welcome! So, um, can you let me know what appointment times are available?
+[1774587522.06] AGENT: We check available times for a new patient consultation.
+[1774587523.57] PATIENT: Okay, that sounds good! Um, how long does that usually take?
+[1774587528.57] AGENT: We have
+[1774587532.07] PATIENT: Oh, um, I missed that. Could you tell me the available times again?
+[1774587537.48] AGENT: A new patient consultation takes about forty five minutes.
+[1774587538.41] PATIENT: Got it, thanks! So, um, what times do you have available for the consultation?
+[1774587550.69] AGENT: We have openings for a new patient
+[1774587551.71] PATIENT: Oh, that’s good to hear! Could you please tell me what times you have available?
+[1774587556.76] AGENT: consultation this Friday, March twenty seventh.
+[1774587559.25] PATIENT: Okay, um, what specific times do you have available this Friday?
+[1774587563.95] AGENT: With
+[1774587564.80] PATIENT: Sorry, I didn’t catch that. Could you repeat the times for me?
+[1774587569.30] AGENT: we have three times available this fry
+[1774587570.49] PATIENT: Oh, great! What are those three times?
+[1774587573.95] AGENT: Sure.
+[1774587576.34] PATIENT: Okay! I'm ready whenever you are.
+[1774587579.33] AGENT: Available.
+[1774587580.11] PATIENT: Um, can you please tell me the specific times that are available?
+[1774587591.07] AGENT: The available times this Friday
+[1774587591.90] PATIENT: Oh, okay! What are those available times this Friday?
+[1774587596.18] AGENT: March twenty seventh with doctor Adam Bricker are nine AM, nine forty five AM, and ten.
+[1774587600.86] PATIENT: Got it! Um, I think I’ll go with the 9:45 AM slot. Does that work?
+[1774587606.82] AGENT: The available times this Friday are nine
+[1774587608.12] PATIENT: Oh, um, I already said I wanted the 9:45 AM slot. Can you confirm that for me?
+[1774587614.93] AGENT: AM, nine forty five AM, and ten thirty
+[1774587616.05] PATIENT: Okay, so I’ll stick with the 9:45 AM appointment then. Can you confirm that for me?
+[1774587622.33] AGENT: You'd like to
+[1774587624.63] PATIENT: Yes, I’d like to confirm the 9:45 AM appointment, please!

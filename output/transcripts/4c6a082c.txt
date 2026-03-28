@@ -1,0 +1,38 @@
+[1774682031.92] AGENT: This call may be recorded for quality and training purposes.
+[1774682033.50] PATIENT: Uh, okay, that’s fine. So, um, I’m trying to... I need to schedule an appointment, but it's a bit chaotic here, you know?
+[1774682042.87] AGENT: Thank you for calling Goodthe Point Orthopaedics.
+[1774682044.68] PATIENT: Oh, right! Uh, thanks for taking my call. I wanted to schedule an appointment, but... um, wait, what was I saying? Sorry, it’s a little hectic.
+[1774682054.37] AGENT: No problem.
+[1774682056.84] PATIENT: Thanks! So, uh, I need to schedule an appointment. What do you need from me? Uh, my name is Kevin Lee.
+[1774682064.04] AGENT: No worries at all. Would you like to
+[1774682064.95] PATIENT: Sorry, could you repeat that? I got a bit distracted. What were you saying?
+[1774682074.75] AGENT: No problem.
+[1774682076.43] PATIENT: Okay, cool! So, um, I was trying to say I need to schedule an appointment. Do you need my, like, date of birth or something?
+[1774682085.42] AGENT: Was just about to ask, would you like to create a demo patient profile so I can help schedule your
+[1774682087.96] PATIENT: Oh, right! Yeah, that sounds good. Uh, my date of birth is January 11, 1995. Uh, what else do you need?
+[1774682096.92] AGENT: To get started, I just need
+[1774682097.91] PATIENT: Uh, sorry, I think I missed that. What do you need to get started?
+[1774682111.07] AGENT: No worries. To help you schedule an appointment, I just need your first and last
+[1774682111.99] PATIENT: Okay, uh, that’s Kevin Lee. So, um, what’s next?
+[1774682116.68] AGENT: name to create a demo patient profile.
+[1774682118.81] PATIENT: Right, got it! So, um, what do you need me to do now to, like, book the appointment?
+[1774682125.07] AGENT: You mentioned your name is Kevin
+[1774682125.99] PATIENT: Yes, that's right, Kevin Lee. Um, so... I need to schedule an appointment, like, soon?
+[1774682132.91] AGENT: Your patient profile is set up, and your date of birth is July fourth two thousand for demo purposes.
+[1774682134.11] PATIENT: Uh, wait, my date of birth is actually January 11, 1995. Did you mean for me to use that for the profile?
+[1774682142.67] AGENT: How may I help you today?
+[1774682144.66] PATIENT: Oh, right! I want to schedule an appointment. I just need to figure out, um, what times are available?
+[1774682151.72] AGENT: Sure thing. What type of appointment do you need?
+[1774682153.30] PATIENT: Uh, I think it's for a check-up, or maybe, like, some pain I’ve been having. Um, what do you recommend?
+[1774682160.90] AGENT: For example, a new patient consultation, follow-up procedure, or physical therapy?
+[1774682162.17] PATIENT: Oh, um, probably a new patient consultation, I guess? Yeah, that sounds right. What times do you have open?
+[1774682170.54] AGENT: Of course.
+[1774682172.97] PATIENT: Uh, okay, cool! So, what times do you have for that new patient consultation?
+[1774682178.96] AGENT: If it's for a new
+[1774682180.69] PATIENT: Yeah, for a new patient consultation. Sorry, I keep losing my train of thought! What times do you have available?
+[1774682188.76] AGENT: Let me check available times for a new patient
+[1774682190.25] PATIENT: Sure, take your time! Just let me know when you have those times.
+[1774682194.51] AGENT: Let me find the soonest openings for a new patient consultation.
+[1774682196.24] PATIENT: Okay, thanks! I’ll just wait here.
+[1774682199.24] AGENT: I found some
+[1774682200.05] PATIENT: Great! What do you have?

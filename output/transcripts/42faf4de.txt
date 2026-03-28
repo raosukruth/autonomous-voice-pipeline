@@ -1,0 +1,32 @@
+[1774673567.38] AGENT: This call may be recorded for quality and training purposes.
+[1774673568.55] PATIENT: Oh, okay, that’s fine. I just need to get some directions to your office and ask about parking.
+[1774673574.91] AGENT: Thank you for calling PivotPoint
+[1774673576.09] PATIENT: You're welcome! Uh, I’m Thomas Anderson, and I'm new to the area. Can you help me with directions to your office?
+[1774673584.72] AGENT: can help with your questions about parking.
+[1774673588.75] PATIENT: Great! Um, could you also help me with the directions first? I want to make sure I can find the place.
+[1774673598.26] AGENT: Welcome, Thomas. I can't provide direction, but I can give you the full address
+[1774673599.22] PATIENT: Oh, okay! That would be really helpful. What's the address?
+[1774673603.39] AGENT: for the clinic and answer questions about parking if you'd like.
+[1774673604.20] PATIENT: Sure! What's the address of the clinic? And then after that, I’d love to hear about the parking options.
+[1774673610.83] AGENT: Would you like the address now?
+[1774673613.17] PATIENT: Yes, please! That would be great.
+[1774673616.42] AGENT: I can give you the full address for
+[1774673617.38] PATIENT: Okay, sounds good! What’s the full address?
+[1774673626.57] AGENT: I don't have a clinic's full address on hand right now.
+[1774673627.51] PATIENT: Oh, um, okay. Is there someone who can provide that information? I really need it to find the office.
+[1774673635.22] AGENT: If you're at the booth, you can scan the QR code for more details.
+[1774673638.03] PATIENT: I’m not at the booth, but I’ll keep that in mind. Is there any other way to get the address, maybe online or through a website?
+[1774673645.60] AGENT: You like
+[1774673647.18] PATIENT: Sorry, I didn’t catch that. Could you repeat what you said?
+[1774673651.85] AGENT: I'll connect you to our clinic
+[1774673653.16] PATIENT: Oh, okay, that sounds good! Thank you!
+[1774673656.98] AGENT: support team so they can provide the address and parking details.
+[1774673659.10] PATIENT: Thanks, I appreciate it! I'll hold on for that.
+[1774673662.84] AGENT: Please stay on the line while I transfer you.
+[1774673663.74] PATIENT: Sure, I’ll wait.
+[1774673666.35] AGENT: Connecting you to a representative. Please wait.
+[1774673667.18] PATIENT: Okay, thank you!
+[1774673669.15] AGENT: Hello. You've reached the Pretty Good AI test line.
+[1774673671.36] PATIENT: Um, hi there! I was just trying to get the address and parking details for a clinic. Is this the right place for that?
+[1774673679.80] AGENT: Goodbye.
+[1774673680.97] PATIENT: Oh, wait! I really need help with directions. Can you connect me back to the clinic?

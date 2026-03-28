@@ -1,0 +1,67 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774674125.789973
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, that's fine. Hi, my name is Susan Taylor, and I\u2019d like to schedule an appointment for my annual physical and also request a refill for my metformin.",
+    "timestamp": 1774674126.9599319
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling PivotPoint Orthopaedic.",
+    "timestamp": 1774674137.164052
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, um, I think I might have the wrong number. I'm actually looking to schedule a physical and refill my metformin, which I thought was with my primary care. Do you know if they\u2019re associated with you?",
+    "timestamp": 1774674138.887865
+  },
+  {
+    "speaker": "agent",
+    "text": "Hi, Susan. Would",
+    "timestamp": 1774674151.387943
+  },
+  {
+    "speaker": "patient",
+    "text": "Hi! Sorry, I got cut off there. Can you help me figure out if this is the right place for my primary care?",
+    "timestamp": 1774674153.505455
+  },
+  {
+    "speaker": "agent",
+    "text": "This is Pivot Point Orthopedic.",
+    "timestamp": 1774674160.866128
+  },
+  {
+    "speaker": "patient",
+    "text": "Got it, thanks for clarifying. I must have called the wrong office. Can you point me to the right number for my primary care?",
+    "timestamp": 1774674162.016002
+  },
+  {
+    "speaker": "agent",
+    "text": "I don't have access to your primary care provider",
+    "timestamp": 1774674176.67811
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, no problem. Thanks for letting me know! I\u2019ll look it up and call back. Have a great day!",
+    "timestamp": 1774674177.880492
+  },
+  {
+    "speaker": "agent",
+    "text": "contact information. You might wanna check your insurance card or their website for the",
+    "timestamp": 1774674183.575927
+  },
+  {
+    "speaker": "patient",
+    "text": "That's a good idea! I\u2019ll check my insurance card for the number. Thank you for your help!",
+    "timestamp": 1774674186.0271318
+  },
+  {
+    "speaker": "agent",
+    "text": "You too. Take care.",
+    "timestamp": 1774674192.133887
+  }
+]

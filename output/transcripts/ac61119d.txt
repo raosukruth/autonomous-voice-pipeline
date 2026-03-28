@@ -1,0 +1,38 @@
+[1774488163.17] AGENT: This call may be recorded for quality and training purposes.
+[1774488164.73] PATIENT: That's fine. I'm just calling to cancel my upcoming appointment.
+[1774488169.23] AGENT: Thank you for calling PivotPoint Orthopedic.
+[1774488170.34] PATIENT: You're welcome. I need to cancel my appointment, please.
+[1774488174.74] AGENT: I can help with
+[1774488175.94] PATIENT: Great, I appreciate that. Can you just get my appointment canceled?
+[1774488180.86] AGENT: I can
+[1774488182.18] PATIENT: Okay, perfect. What do you need from me to get that done?
+[1774488185.90] AGENT: Before I
+[1774488186.96] PATIENT: Sure, take your time. What do you need to ask?
+[1774488190.47] AGENT: Health care
+[1774488191.55] PATIENT: I'm not sure what you mean. Can you clarify?
+[1774488194.87] AGENT: I'll just need
+[1774488195.99] PATIENT: Sure, what do you need? I'm ready to help.
+[1774488199.19] AGENT: I need your
+[1774488200.27] PATIENT: Okay, what do you need from me?
+[1774488209.10] AGENT: To get started,
+[1774488211.85] PATIENT: Sure, just let me know what you need to proceed.
+[1774488215.10] AGENT: I'll need to create a demo patient profile for you.
+[1774488216.06] PATIENT: Uh, I just want to cancel my appointment. Do you really need to create a new profile for that?
+[1774488222.70] AGENT: Can you please tell me your first and last name?
+[1774488223.28] PATIENT: It's Robert Davis.
+[1774488225.07] AGENT: Great.
+[1774488225.79] PATIENT: Thanks. Do you need anything else?
+[1774488240.81] AGENT: Thanks, Robert.
+[1774488241.64] PATIENT: You're welcome. Can you go ahead and cancel my appointment now?
+[1774488246.71] AGENT: Let me check your upcoming appointment so I can help you cancel the right one.
+[1774488247.38] PATIENT: Sure, that sounds good. Thank you!
+[1774488250.72] AGENT: It looks like
+[1774488251.53] PATIENT: What did you find?
+[1774488259.87] AGENT: I checked your records, and there are no upcoming appointments
+[1774488261.12] PATIENT: Oh, really? I must have misunderstood. Thanks for checking.
+[1774488265.68] AGENT: found for you right now. There's nothing to cancel at this time.
+[1774488268.53] PATIENT: Okay, thanks for confirming that. I appreciate your help!
+[1774488272.50] AGENT: No problem. If you need help with an
+[1774488273.70] PATIENT: Sure, if I need anything else, I'll reach out. Thanks again!
+[1774488283.46] AGENT: Sounds good. Have a great day.
+[1774488284.53] PATIENT: You too! Goodbye!

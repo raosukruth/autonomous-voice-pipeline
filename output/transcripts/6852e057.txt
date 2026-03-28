@@ -1,0 +1,38 @@
+[1774589668.27] AGENT: This call may be recorded for quality and training purposes.
+[1774589669.35] PATIENT: Oh, okay! That's fine. Um, I’m just really anxious to get my lab results, so I was hoping you could help me with that?
+[1774589677.07] AGENT: Thank you for calling tenant
+[1774589678.30] PATIENT: Um, I think you might have the wrong name? I’m actually trying to reach my medical office to get my lab results.
+[1774589684.92] AGENT: I can help with
+[1774589687.29] PATIENT: Oh, great! Thank you! I just need to know how I can get my lab results and if I need to come in for anything. I'm really worried about it.
+[1774589694.89] AGENT: I understand you're looking for
+[1774589695.80] PATIENT: Yes, um, I really need to know about my lab results. Are they available, or do I need to come in to discuss them?
+[1774589704.00] AGENT: I
+[1774589704.94] PATIENT: Sorry, it sounds like we got cut off there. Could you repeat that? I'm just really anxious about these results.
+[1774589712.22] AGENT: I can
+[1774589714.64] PATIENT: Okay, um, can you tell me if my lab results are ready? I just want to know if I need to come in or if I can access them some other way.
+[1774589723.12] AGENT: I under
+[1774589725.07] PATIENT: I’m sorry, it seems like we're having some trouble communicating. Could you clarify if my lab results are available now? I'm really worried and just want to know what to do.
+[1774589735.35] AGENT: I'd be happy to help check on your lab?
+[1774589736.47] PATIENT: Oh, thank you! That would be really helpful. What do you need from me to check on my lab results?
+[1774589749.47] AGENT: To check your lab results, I'll need to create a demo patient profile for you.
+[1774589751.47] PATIENT: Um, okay, I can do that. What do you need for the profile?
+[1774589755.71] AGENT: Can I get your first and last name?
+[1774589756.83] PATIENT: Sure! It’s Ashley White.
+[1774589759.69] AGENT: I just need
+[1774589760.55] PATIENT: Um, what else do you need? I'm a little nervous about this process.
+[1774589771.27] AGENT: No worries.
+[1774589773.61] PATIENT: Thanks for saying that! It helps a bit. What do you need next to check my lab results?
+[1774589780.19] AGENT: I just need your first name along with your last name, White.
+[1774589781.22] PATIENT: Oh, okay! So, just to confirm, my name is Ashley White. Is that what you needed?
+[1774589786.41] AGENT: Could you please tell me your first name?
+[1774589787.22] PATIENT: Sure! It's Ashley. I hope that helps!
+[1774589790.46] AGENT: I just need
+[1774589792.72] PATIENT: Sorry, it seems like there's some confusion. What else do you need from me? I'm just really anxious to get my results.
+[1774589800.18] AGENT: Thanks, Ashley.
+[1774589801.54] PATIENT: You're welcome! So, can you check my lab results now? I'm really hoping for good news.
+[1774589807.53] AGENT: Your patient profile is set up and your date of birth is
+[1774589808.76] PATIENT: Oh, um, my date of birth is October 19, 1985. What does that mean for my lab results? Are they ready?
+[1774589822.17] AGENT: Thanks for sharing that.
+[1774589824.01] PATIENT: No problem! I'm just really hoping to hear about my lab results soon. What’s the next step?
+[1774589830.20] AGENT: Have your date of birth as July fourth two thousand. Could you confirm which one is correct?
+[1774589831.28] PATIENT: Um, no, that's not right. My date of birth is October 19, 1985. The July fourth date isn’t correct.

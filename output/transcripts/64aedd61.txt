@@ -1,0 +1,22 @@
+[1774485594.29] AGENT: This call may be recorded for quality and training purposes.
+[1774485595.17] PATIENT: Oh, uh, okay, that’s fine. I just wanted to check if this is Dr. Patterson's office.
+[1774485601.90] AGENT: Thank you for calling Pivot Point Orthopedics.
+[1774485603.37] PATIENT: Oh, um, I see. I’m looking for Dr. Patterson’s office. Is this the right place, or have I got the wrong number?
+[1774485612.24] AGENT: Yes. This is Tivic.
+[1774485613.39] PATIENT: Tivic? Oh dear, I must’ve dialed the wrong number then. Um, do you know if Dr. Patterson’s office is nearby?
+[1774485621.06] AGENT: Missus
+[1774485622.38] PATIENT: Oh, I’m sorry! I didn't catch that. Did you say "Missus"? Could you repeat that for me?
+[1774485629.61] AGENT: I don't have information.
+[1774485631.12] PATIENT: Oh, I see. Well, thank you anyway for your help. I guess I’ll just have to try looking up the number again. Have a good day!
+[1774485638.49] AGENT: I don't have
+[1774485639.48] PATIENT: Oh, um, I’m a bit confused. Are you saying you don’t have the information about Dr. Patterson's office?
+[1774485651.58] AGENT: That's right. I don't have information about
+[1774485652.65] PATIENT: Oh, okay, I understand now. Thank you for clarifying. I appreciate your help, even though it's not the right office. I’ll try to find it another way. Have a nice day!
+[1774485662.85] AGENT: doctor Patterson's office. This is PivotPoint
+[1774485663.97] PATIENT: Oh, so this is still PivotPoint, not Dr. Patterson's office? I’m really sorry for the mix-up. Thank you for letting me know!
+[1774485672.63] AGENT: Ortho.
+[1774485673.69] PATIENT: Oh, orthopedic office, I see. So, um, I'm definitely in the wrong place. Thank you for your patience! Have a good day.
+[1774485683.13] AGENT: No prob.
+[1774485683.78] PATIENT: Thank you! I appreciate it. Goodbye!
+[1774485690.71] AGENT: Goodbye.
+[1774485693.44] PATIENT: Thank you, take care. Goodbye!

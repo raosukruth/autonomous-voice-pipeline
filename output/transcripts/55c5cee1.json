@@ -1,0 +1,212 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774681830.4082198
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, that's fine. Um, I'm just calling to find out if your office accepts Blue Cross Blue Shield insurance. Can you help me with that?",
+    "timestamp": 1774681831.58086
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling PivotPoint Ortho",
+    "timestamp": 1774681840.732852
+  },
+  {
+    "speaker": "patient",
+    "text": "You're welcome! Um, I just wanted to know if you accept Blue Cross Blue Shield insurance.",
+    "timestamp": 1774681842.0134761
+  },
+  {
+    "speaker": "agent",
+    "text": "I can help with that.",
+    "timestamp": 1774681848.624653
+  },
+  {
+    "speaker": "patient",
+    "text": "Great, thank you! So, do you accept Blue Cross Blue Shield?",
+    "timestamp": 1774681851.278202
+  },
+  {
+    "speaker": "agent",
+    "text": "To answer your question, I'll need to create a",
+    "timestamp": 1774681856.32573
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay, sure! What do you need me to provide?",
+    "timestamp": 1774681857.768529
+  },
+  {
+    "speaker": "agent",
+    "text": "We'll check on that.",
+    "timestamp": 1774681861.4915571
+  },
+  {
+    "speaker": "patient",
+    "text": "Alright, sounds good! How long do you think that will take?",
+    "timestamp": 1774681862.512158
+  },
+  {
+    "speaker": "agent",
+    "text": "Just need your first and last name to create a demo patient profile.",
+    "timestamp": 1774681873.8607302
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure! It\u2019s Jennifer Garcia. What do you need next?",
+    "timestamp": 1774681877.396432
+  },
+  {
+    "speaker": "agent",
+    "text": "It only takes a moment. Could you please tell me your first and last name?",
+    "timestamp": 1774681881.6205282
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, um, I already said it\u2019s Jennifer Garcia. Is there anything else you need?",
+    "timestamp": 1774681882.400836
+  },
+  {
+    "speaker": "agent",
+    "text": "Your patient profile is set up, and your date of birth is July fourth",
+    "timestamp": 1774681892.201267
+  },
+  {
+    "speaker": "patient",
+    "text": "Actually, my date of birth is September 23, 1987. Can you still check if you accept Blue Cross Blue Shield?",
+    "timestamp": 1774681893.4400482
+  },
+  {
+    "speaker": "agent",
+    "text": "two thousand. PivotPoint Orthopedics does accept most",
+    "timestamp": 1774681903.191763
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, so you do accept it? That\u2019s a relief! Do you know if there are any specific requirements I should be aware of?",
+    "timestamp": 1774681905.682687
+  },
+  {
+    "speaker": "agent",
+    "text": "insurance plans, including Blue Cross Blue Shield.",
+    "timestamp": 1774681913.457592
+  },
+  {
+    "speaker": "patient",
+    "text": "Got it! That's really helpful, thank you. So, I should be good to go with my insurance?",
+    "timestamp": 1774681914.518206
+  },
+  {
+    "speaker": "agent",
+    "text": "How else can I help you today?",
+    "timestamp": 1774681920.2278268
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, I think that\u2019s all I needed for now. Thank you so much for your help!",
+    "timestamp": 1774681921.384066
+  },
+  {
+    "speaker": "agent",
+    "text": "You're all set, Jen.",
+    "timestamp": 1774681933.5173
+  },
+  {
+    "speaker": "patient",
+    "text": "Thanks! I appreciate it. Have a great day!",
+    "timestamp": 1774681935.657352
+  },
+  {
+    "speaker": "agent",
+    "text": "Blue Cross Blue Shield is accepted here, and you",
+    "timestamp": 1774681939.382184
+  },
+  {
+    "speaker": "patient",
+    "text": "That's great to hear! Thanks for confirming that. So, can I go ahead and book an appointment now?",
+    "timestamp": 1774681940.331156
+  },
+  {
+    "speaker": "agent",
+    "text": "should be good to go with your insurance. If you have any other",
+    "timestamp": 1774681946.551245
+  },
+  {
+    "speaker": "patient",
+    "text": "Perfect! I don\u2019t have any other questions right now. Can we set up an appointment?",
+    "timestamp": 1774681951.592436
+  },
+  {
+    "speaker": "agent",
+    "text": "you too.",
+    "timestamp": 1774681957.610658
+  },
+  {
+    "speaker": "patient",
+    "text": "Thanks! I really appreciate your help. Goodbye!",
+    "timestamp": 1774681960.4644449
+  },
+  {
+    "speaker": "agent",
+    "text": "Yes. You can book an appointment now.",
+    "timestamp": 1774681964.843133
+  },
+  {
+    "speaker": "patient",
+    "text": "Awesome! Um, what times do you have available?",
+    "timestamp": 1774681966.3726451
+  },
+  {
+    "speaker": "agent",
+    "text": "Would you like to schedule one? If you have a preferred",
+    "timestamp": 1774681970.447722
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure! I\u2019d like to schedule one, um, if possible, in the morning on a weekday. Do you have any openings?",
+    "timestamp": 1774681973.239997
+  },
+  {
+    "speaker": "agent",
+    "text": "Absolutely.",
+    "timestamp": 1774681980.684772
+  },
+  {
+    "speaker": "patient",
+    "text": "Great! Can you let me know what specific dates and times you have available in the morning?",
+    "timestamp": 1774681983.377949
+  },
+  {
+    "speaker": "agent",
+    "text": "You have a preferred day?",
+    "timestamp": 1774681989.241985
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, how about this coming Tuesday? Do you have any morning slots open then?",
+    "timestamp": 1774681990.553014
+  },
+  {
+    "speaker": "agent",
+    "text": "You're welcome.",
+    "timestamp": 1774681996.168513
+  },
+  {
+    "speaker": "patient",
+    "text": "Thank you! So, do you have an appointment available for Tuesday morning?",
+    "timestamp": 1774681997.208242
+  },
+  {
+    "speaker": "agent",
+    "text": "We have openings this week in early",
+    "timestamp": 1774682002.271241
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, that sounds good! What time exactly do you have available?",
+    "timestamp": 1774682004.551258
+  }
+]

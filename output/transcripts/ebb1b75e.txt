@@ -1,0 +1,14 @@
+[1774682435.79] AGENT: This call may be recorded for quality and training purposes.
+[1774682437.04] PATIENT: Okay, that’s fine. I’d like to schedule an appointment for an annual physical and also request a refill for my metformin, please.
+[1774682445.53] AGENT: Thank you for calling PivotPoint Orthopaede.
+[1774682446.56] PATIENT: Oh, um, I think I might have the wrong number. I’m looking for my primary care physician’s office.
+[1774682461.17] AGENT: This is Pivot Point Orthopedics. We're an orthopedic clinic
+[1774682463.89] PATIENT: Got it, thanks for clarifying. Can you help me find the right number for my primary care physician's office?
+[1774682470.75] AGENT: not a primary care office. If you need your primary care physician,
+[1774682472.00] PATIENT: Okay, understood. Thanks for your help! I’ll look up the right number. Have a good day!
+[1774682477.05] AGENT: you may want to contact their office direct
+[1774682477.98] PATIENT: Absolutely, I’ll do that. Thanks again for your assistance! Goodbye!
+[1774682482.98] AGENT: I don't have
+[1774682485.30] PATIENT: That's okay! I can look it up myself. Thanks for letting me know. Bye!
+[1774682490.32] AGENT: a
+[1774682491.46] PATIENT: Um, it seems like you might have been cut off. Did you need to say something else?

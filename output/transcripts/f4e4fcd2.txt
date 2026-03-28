@@ -1,0 +1,46 @@
+[1774488360.78] AGENT: This call may be recorded for quality and training purposes.
+[1774488361.87] PATIENT: Oh, that's just fine, dear. I understand. How can I help you today?
+[1774488367.18] AGENT: Thank you for calling.
+[1774488368.09] PATIENT: You're welcome! Uh, I'm calling to request a refill for my blood pressure medication, lisinopril 10mg.
+[1774488375.77] AGENT: I'm here
+[1774488376.70] PATIENT: Oh, great! Thank you. I just need a refill on my lisinopril, if that's possible.
+[1774488389.82] AGENT: I can help with your refill request. Before we continue, would you like
+[1774488390.58] PATIENT: Sure, what do you need from me?
+[1774488393.36] AGENT: to create a demo patient profile? I just need your
+[1774488394.29] PATIENT: Um, I think I’m all set with my information. I can give you my details if you need them for the refill.
+[1774488400.76] AGENT: To request
+[1774488401.71] PATIENT: Oh, I see! Yes, please let me know what you need to request the refill.
+[1774488406.64] AGENT: Perfect.
+[1774488407.38] PATIENT: Alright then! What do you need from me?
+[1774488418.22] AGENT: I just need your first and last name to create your demo patient profile.
+[1774488419.51] PATIENT: It's Linda Williams. Do you need anything else?
+[1774488423.45] AGENT: Could you please tell me your first and last name?
+[1774488424.50] PATIENT: Sure! It's Linda Williams.
+[1774488431.34] AGENT: Thanks, Linda.
+[1774488432.40] PATIENT: You're welcome! What's next?
+[1774488435.15] AGENT: What medication do you need refilled?
+[1774488436.35] PATIENT: I need a refill for my lisinopril, 10mg.
+[1774488440.29] AGENT: What's the dosage?
+[1774488441.51] PATIENT: It's 10mg, and I take one a day.
+[1774488444.85] AGENT: What's the dosage and how?
+[1774488446.19] PATIENT: Oh! It's 10mg, and I take it once a day.
+[1774488450.01] AGENT: Thanks.
+[1774488451.14] PATIENT: You're welcome! Is there anything else you need from me?
+[1774488460.50] AGENT: When did you last have your Licinopro refilled?
+[1774488461.73] PATIENT: I last had my lisinopril refilled about 30 days ago.
+[1774488471.78] AGENT: Which pharmacy do you use?
+[1774488473.22] PATIENT: I use the local pharmacy, um, the one on Maple Street. It's called Maple Pharmacy.
+[1774488479.93] AGENT: Please confirm the location.
+[1774488480.99] PATIENT: Oh, it's located at 123 Maple Street, right in town.
+[1774488486.63] AGENT: How many days?
+[1774488488.78] PATIENT: Um, it should be about 30 days since my last refill.
+[1774488493.24] AGENT: How many days of your
+[1774488494.36] PATIENT: Oh, I have about a week's worth left, I think.
+[1774488497.95] AGENT: how many
+[1774488498.71] PATIENT: I have about seven days left of my medication.
+[1774488512.57] AGENT: Connecting you to a representative.
+[1774488513.56] PATIENT: Okay, thank you! I'll hold.
+[1774488516.52] AGENT: Please wait.
+[1774488517.36] PATIENT: Sure, I can wait. Thank you!
+[1774488520.09] AGENT: Hello. You've reached the Pretty Good AI test line. Goodbye.
+[1774488521.17] PATIENT: Oh, um, wait! I think there’s been a mistake. I was calling for a medication refill.
