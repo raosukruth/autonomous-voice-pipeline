@@ -1,0 +1,26 @@
+[1774680983.47] AGENT: This call may be recorded for quality and training purposes.
+[1774680984.60] PATIENT: Okay, that’s fine. How can I help you today?
+[1774680988.29] AGENT: Thank you for
+[1774680989.27] PATIENT: Um, sure! I’d like to reschedule my appointment that’s set for next Monday, please.
+[1774680999.51] AGENT: I can help with that.
+[1774681001.30] PATIENT: Great, thank you! Could you let me know what available times you have?
+[1774681006.03] AGENT: Before we get started, would you like to create a demo patient profile? I just need
+[1774681006.99] PATIENT: Oh, um, I appreciate the offer, but I’d prefer to just reschedule my appointment for now if that's okay.
+[1774681014.04] AGENT: on
+[1774681014.97] PATIENT: I'm sorry, I didn’t catch that. Could you repeat what you said?
+[1774681019.91] AGENT: No problem.
+[1774681021.83] PATIENT: Thanks! So, could we get back to rescheduling my appointment? What times do you have available?
+[1774681028.32] AGENT: Of course. You can scan the
+[1774681029.31] PATIENT: Um, I'm not sure what you mean by that. Can you clarify? I just want to reschedule my appointment.
+[1774681036.12] AGENT: I'm not able to
+[1774681037.08] PATIENT: Okay, I understand. Can you just let me know if there are any other times available for rescheduling?
+[1774681043.55] AGENT: Two.
+[1774681045.42] PATIENT: Got it. Could you please tell me what those times are?
+[1774681049.35] AGENT: I'm unable to check avail
+[1774681050.42] PATIENT: Oh, okay. Is there someone else who can help with checking availability? I really need to reschedule my appointment.
+[1774681058.31] AGENT: I'm not able to
+[1774681059.50] PATIENT: I see. Um, can I leave a message or maybe call back later? I just need to find a time to reschedule.
+[1774681067.81] AGENT: Connecting you to a representative. Please wait.
+[1774681069.72] PATIENT: Sure, I can wait. Thank you!
+[1774681072.59] AGENT: Hello. You've reached the Pretty Good AI test line. Goodbye.
+[1774681073.66] PATIENT: Um, wait, what? I was just trying to reschedule my appointment. Can you connect me to someone who can help?

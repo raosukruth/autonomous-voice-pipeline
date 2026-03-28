@@ -1,0 +1,40 @@
+[1774489480.56] AGENT: This call may be recorded for quality and training purposes.
+[1774489481.52] PATIENT: Okay, no problem. Um, I want to schedule an appointment for a checkup. Can you help me?
+[1774489488.47] AGENT: Thank you for calling Pivot Point.
+[1774489489.48] PATIENT: De nada, thank you! I want to make an appointment for a checkup. Is that okay?
+[1774489495.09] AGENT: I can
+[1774489496.84] PATIENT: Great! Um, I need an appointment, please. When is the next available?
+[1774489502.08] AGENT: before we schedule your check
+[1774489503.00] PATIENT: Oh, okay. What do you need from me before we schedule?
+[1774489506.78] AGENT: to get start
+[1774489508.28] PATIENT: Um, yes, what do you need? I can give you my name and date of birth if that helps.
+[1774489518.07] AGENT: Perfect.
+[1774489519.21] PATIENT: Okay! My name is Maria Gonzalez, and my date of birth is March 30, 1970. What else do you need?
+[1774489526.38] AGENT: I just need your first and last name to create your demo patient profile.
+[1774489527.49] PATIENT: Oh, um, I already said. My name is Maria Gonzalez. Is that okay?
+[1774489534.98] AGENT: Your patient profile has been created success
+[1774489536.07] PATIENT: Okay, thank you! Um, when can I come in for the checkup?
+[1774489540.68] AGENT: and your date of birth is July fourth two thousand for demo purposes.
+[1774489541.73] PATIENT: Oh, um, no, my date of birth is March 30, 1970. Is that okay for the appointment?
+[1774489549.42] AGENT: How may I help you today?
+[1774489550.42] PATIENT: Um, I want to schedule an appointment for a checkup, please. Can you help me with that?
+[1774489556.41] AGENT: We offer two types of checkup appointments,
+[1774489557.44] PATIENT: Okay, um, what types do you have? I want to choose one.
+[1774489561.92] AGENT: a new patient consultation or a follow-up consultation.
+[1774489562.81] PATIENT: Um, I think I need a new patient consultation. Is that good?
+[1774489568.26] AGENT: Is this your first visit for this concern, or are you returning after a previous appointment?
+[1774489569.57] PATIENT: Uh, yes, it's my first visit for this. So, um, new patient consultation, please.
+[1774489583.14] AGENT: Thanks for clarifying.
+[1774489584.15] PATIENT: De nada! Um, when can I come in for the appointment?
+[1774489587.80] AGENT: I'll check the next available new patient consultation for you.
+[1774489588.54] PATIENT: Okay, thank you! I'll wait.
+[1774489599.83] AGENT: The soonest new patient consultation is Thursday, March twenty
+[1774489600.64] PATIENT: Um, can you repeat that? I think I missed the day. What date is it?
+[1774489605.57] AGENT: sixth at nine AM with doctor Adam Bricker. Would you like to book that?
+[1774489617.01] PATIENT: Oh, um, yes! Thursday, March sixth at nine AM with Dr. Adam Bricker. That's good.
+[1774489624.62] AGENT: Or hear about later?
+[1774489626.31] PATIENT: Um, I want to book it for now, please. Can you confirm the appointment?
+[1774490149.71] AGENT: The next available appointment
+[1774490152.26] PATIENT: Oh, um, yes. I want to confirm the appointment for Thursday, March sixth at nine AM. Is that correct?
+[1774490161.79] AGENT: is Thursday, March twenty sixth at nine AM with doctor Adam Bricker.
+[1774490163.34] PATIENT: Oh, I'm sorry. Um, so it's Thursday, March twenty-sixth at nine AM with Dr. Adam Bricker? Yes, I want to book that.

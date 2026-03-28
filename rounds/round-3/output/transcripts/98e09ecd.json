@@ -1,0 +1,92 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774673168.5298738
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, that's just fine. I understand. Um, my name is Linda Williams, and I\u2019m calling to request a refill for my blood pressure medication, lisinopril 10mg.",
+    "timestamp": 1774673170.3338208
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling PivotPoint Orthopedics.",
+    "timestamp": 1774673181.165668
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, I think I might have dialed the wrong number then. I\u2019m actually looking to refill my lisinopril 10mg. Is this the right place for that?",
+    "timestamp": 1774673182.6566641
+  },
+  {
+    "speaker": "agent",
+    "text": "Thanks for sharing that.",
+    "timestamp": 1774673191.2566268
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, you're welcome! So, do you know if this is the right pharmacy for my lisinopril refill?",
+    "timestamp": 1774673193.8658078
+  },
+  {
+    "speaker": "agent",
+    "text": "This is Pivot Point Orthopedics.",
+    "timestamp": 1774673200.104328
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh dear, I see. I must have made a mistake! Thank you for letting me know. I'll hang up and try to find the correct pharmacy. Have a nice day!",
+    "timestamp": 1774673201.679661
+  },
+  {
+    "speaker": "agent",
+    "text": "We",
+    "timestamp": 1774673211.5794199
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, did you want to say something else? I'm sorry if I interrupted you.",
+    "timestamp": 1774673212.800639
+  },
+  {
+    "speaker": "agent",
+    "text": "This is not a farm.",
+    "timestamp": 1774673218.050808
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh! I see. Thank you for clarifying. Um, I\u2019ll look for the right pharmacy then. Thanks again for your help!",
+    "timestamp": 1774673220.4524229
+  },
+  {
+    "speaker": "agent",
+    "text": "No problem.",
+    "timestamp": 1774673228.264605
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, thank you! Have a great day!",
+    "timestamp": 1774673229.3793018
+  },
+  {
+    "speaker": "agent",
+    "text": "No worries at all. If you ever need to",
+    "timestamp": 1774673232.7797859
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, it sounds like I might have cut you off. What were you saying?",
+    "timestamp": 1774673234.0176709
+  },
+  {
+    "speaker": "agent",
+    "text": "You're welcome.",
+    "timestamp": 1774673238.8899379
+  },
+  {
+    "speaker": "patient",
+    "text": "Thank you! I appreciate it. I'll be sure to find the right number for my medication. Goodbye!",
+    "timestamp": 1774673240.847162
+  }
+]

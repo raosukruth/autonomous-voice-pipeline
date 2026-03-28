@@ -1,0 +1,18 @@
+[1774673168.53] AGENT: This call may be recorded for quality and training purposes.
+[1774673170.33] PATIENT: Oh, that's just fine. I understand. Um, my name is Linda Williams, and I’m calling to request a refill for my blood pressure medication, lisinopril 10mg.
+[1774673181.17] AGENT: Thank you for calling PivotPoint Orthopedics.
+[1774673182.66] PATIENT: Oh, I think I might have dialed the wrong number then. I’m actually looking to refill my lisinopril 10mg. Is this the right place for that?
+[1774673191.26] AGENT: Thanks for sharing that.
+[1774673193.87] PATIENT: Um, you're welcome! So, do you know if this is the right pharmacy for my lisinopril refill?
+[1774673200.10] AGENT: This is Pivot Point Orthopedics.
+[1774673201.68] PATIENT: Oh dear, I see. I must have made a mistake! Thank you for letting me know. I'll hang up and try to find the correct pharmacy. Have a nice day!
+[1774673211.58] AGENT: We
+[1774673212.80] PATIENT: Oh, did you want to say something else? I'm sorry if I interrupted you.
+[1774673218.05] AGENT: This is not a farm.
+[1774673220.45] PATIENT: Oh! I see. Thank you for clarifying. Um, I’ll look for the right pharmacy then. Thanks again for your help!
+[1774673228.26] AGENT: No problem.
+[1774673229.38] PATIENT: Okay, thank you! Have a great day!
+[1774673232.78] AGENT: No worries at all. If you ever need to
+[1774673234.02] PATIENT: Oh, it sounds like I might have cut you off. What were you saying?
+[1774673238.89] AGENT: You're welcome.
+[1774673240.85] PATIENT: Thank you! I appreciate it. I'll be sure to find the right number for my medication. Goodbye!

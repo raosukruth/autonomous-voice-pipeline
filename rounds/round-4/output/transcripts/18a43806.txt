@@ -1,0 +1,52 @@
+[1774677002.49] AGENT: This call may be recorded for quality and training purposes.
+[1774677003.57] PATIENT: Okay, sure! Uh, my name is James Martinez, and I'm calling to request a refill for my Adderall prescription.
+[1774677010.77] AGENT: Thank you for calling.
+[1774677012.30] PATIENT: You're welcome! So, um, I just need to request that refill for my Adderall XR 20mg.
+[1774677018.79] AGENT: Hi, Jay.
+[1774677021.21] PATIENT: Um, it's actually James, but that's fine. Uh, can you help me with the refill for my Adderall XR?
+[1774677028.30] AGENT: James, before I can help with your refill request
+[1774677029.26] PATIENT: Sure, what do you need from me?
+[1774677032.12] AGENT: James, I can help.
+[1774677032.92] PATIENT: Okay, great! So, what do I need to do next for the refill?
+[1774677037.74] AGENT: I just need
+[1774677039.77] PATIENT: Uh, okay, take your time. What do you need?
+[1774677043.66] AGENT: first, I'll need to create a demo patient.
+[1774677044.94] PATIENT: Oh, um, okay. What does that involve? Do you need any specific information from me?
+[1774677051.05] AGENT: I just need your first
+[1774677052.30] PATIENT: Got it! My first name is James. What else do you need?
+[1774677056.16] AGENT: All I need is
+[1774677058.36] PATIENT: Okay, sure! What else do you need?
+[1774677061.51] AGENT: thanks, James.
+[1774677063.03] PATIENT: You're welcome! So, uh, what do we do next for the refill?
+[1774677067.22] AGENT: Just need your last name.
+[1774677068.36] PATIENT: Oh, right! My last name is Martinez. What else do you need?
+[1774677072.64] AGENT: Just your last name, please.
+[1774677074.38] PATIENT: It's Martinez. Did you need anything else?
+[1774677078.08] AGENT: I just need
+[1774677078.94] PATIENT: Okay, what do you need? I'm here to help!
+[1774677084.86] AGENT: What medication do you need refilled?
+[1774677086.06] PATIENT: I need a refill for Adderall XR, 20mg.
+[1774677096.33] AGENT: What's the dosage, and how often do you take
+[1774677098.65] PATIENT: I take Adderall XR 20mg once a day.
+[1774677102.74] AGENT: Adderall XR twenty?
+[1774677104.00] PATIENT: Yes, that's correct—20mg of Adderall XR once a day.
+[1774677109.13] AGENT: What is the dosage
+[1774677110.79] PATIENT: The dosage is 20mg.
+[1774677119.36] AGENT: When did you last have your Adderall XR refilled?
+[1774677121.87] PATIENT: Um, I last had it refilled about 60 days ago.
+[1774677131.34] AGENT: How many days of medication do you have left?
+[1774677132.68] PATIENT: I think I have about a week left.
+[1774677141.17] AGENT: Which pharmacy do you use?
+[1774677142.44] PATIENT: I use the CVS on Main Street.
+[1774677145.69] AGENT: Please confirm the location.
+[1774677148.31] PATIENT: Um, I'm pretty sure it's the CVS on Main Street. Do you need the address?
+[1774677153.30] AGENT: Let me confirm CVS on Main Street.
+[1774677154.49] PATIENT: Sure, take your time!
+[1774677163.06] AGENT: No need for the full address.
+[1774677164.53] PATIENT: Okay, got it! Just confirming CVS on Main Street then.
+[1774677169.10] AGENT: I have CVS on Main Street as your pharmacy.
+[1774677171.77] PATIENT: Great! So, will my refill be sent there?
+[1774677175.32] AGENT: Let me send you a refill request now.
+[1774677177.63] PATIENT: Okay, thank you! How long do you think it will take?
+[1774677181.57] AGENT: Before I continue, are you experiencing any
+[1774677182.49] PATIENT: Um, experiencing any what? Could you clarify that for me?

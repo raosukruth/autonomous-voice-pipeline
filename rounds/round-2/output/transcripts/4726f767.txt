@@ -1,0 +1,46 @@
+[1774488559.25] AGENT: This call may be recorded for quality and training purposes.
+[1774488560.49] PATIENT: Um, okay! That’s fine. I’m just calling to request a refill for my Adderall prescription.
+[1774488566.56] AGENT: Thank you for calling Pivot.
+[1774488567.60] PATIENT: You're welcome! Um, I’d like to request a refill for my Adderall XR 20mg prescription, please.
+[1774488573.90] AGENT: Would
+[1774488575.01] PATIENT: Uh, could you repeat that? I didn’t catch what you said.
+[1774488580.11] AGENT: I can help with
+[1774488581.29] PATIENT: Oh, great! Um, I just need a refill on my Adderall XR 20mg prescription. What do you need from me?
+[1774488588.41] AGENT: I can help with your adder
+[1774488589.57] PATIENT: Um, could you clarify what you mean by that? I just want to make sure I understand.
+[1774488595.05] AGENT: To get started, I'll need
+[1774488595.98] PATIENT: Sure, what do you need from me?
+[1774488605.28] AGENT: To help with your refill request,
+[1774488606.25] PATIENT: Okay! What information do you need from me to process that?
+[1774488610.06] AGENT: I'll need to create a demo patient profile for you.
+[1774488611.26] PATIENT: Uh, a demo patient profile? I’m not sure what that means. Do you need my information to set that up?
+[1774488618.22] AGENT: May I have your first and last name?
+[1774488618.92] PATIENT: Sure! It’s James Martinez.
+[1774488621.66] AGENT: I just need
+[1774488622.43] PATIENT: Um, I didn’t catch that. What else do you need?
+[1774488630.62] AGENT: Thanks, James. What medication do you need refilled?
+[1774488631.61] PATIENT: I need a refill for my Adderall XR 20mg.
+[1774488640.48] AGENT: What's
+[1774488641.33] PATIENT: Sorry, could you repeat that? I missed what you said.
+[1774488645.07] AGENT: the dosage and how often do you take it?
+[1774488645.88] PATIENT: I take Adderall XR 20mg once a day.
+[1774488655.38] AGENT: When did you last have it refilled?
+[1774488656.49] PATIENT: Um, my last refill was about 60 days ago.
+[1774488666.34] AGENT: Which pharmacy do you use?
+[1774488667.17] PATIENT: I use the Walgreens on Main Street.
+[1774488670.27] AGENT: Please confirm the location.
+[1774488671.14] PATIENT: Sure! It’s Walgreens located at 123 Main Street.
+[1774488676.25] AGENT: Let me
+[1774488676.98] PATIENT: Sure, take your time!
+[1774488691.48] AGENT: I'm sending your refill request now.
+[1774488692.66] PATIENT: Great, thank you! Um, how long will it take for the pharmacy to have it ready?
+[1774488698.52] AGENT: One moment while I process it.
+[1774488699.88] PATIENT: Okay, sure! I'll wait.
+[1774488712.14] AGENT: I'm having trouble submitting your refill
+[1774488713.47] PATIENT: Oh no, um, what seems to be the issue?
+[1774488717.19] AGENT: request right now. Let me document this for our clinic support team so they can follow-up and
+[1774488718.79] PATIENT: Okay, that sounds good. Um, is there anything else I need to do while you document that?
+[1774488732.30] AGENT: I'm unable to process your refill due to a
+[1774488733.20] PATIENT: Um, due to a what? I just want to understand what's going on.
+[1774488738.18] AGENT: I'll connect you to our clinic support team so they can help you directly.
+[1774488738.97] PATIENT: Okay, that sounds good. Thank you for your help!

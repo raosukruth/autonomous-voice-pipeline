@@ -1,0 +1,102 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774677204.2193348
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay! That's fine. Um, I just wanted to find out what your office hours are, specifically if you're open on Saturdays.",
+    "timestamp": 1774677205.250359
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling PivotPoint",
+    "timestamp": 1774677213.395316
+  },
+  {
+    "speaker": "patient",
+    "text": "Great! Thanks for taking my call. Could you let me know if you're open on Saturdays?",
+    "timestamp": 1774677214.3645298
+  },
+  {
+    "speaker": "agent",
+    "text": "I don't have the exact",
+    "timestamp": 1774677227.0091991
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay. No problem! Can you at least tell me if you\u2019re generally open on Saturdays?",
+    "timestamp": 1774677229.050333
+  },
+  {
+    "speaker": "agent",
+    "text": "office hours right now, but I can help you with other questions or requests.",
+    "timestamp": 1774677235.205966
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, could you check if you have the Saturday hours? I really need to know if I can bring my kids in then.",
+    "timestamp": 1774677236.4730299
+  },
+  {
+    "speaker": "agent",
+    "text": "If you need to know the Saturday hours, you can also check",
+    "timestamp": 1774677243.641068
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, I see! Sorry, I'm a bit pressed for time here. Could you take a moment to look that up for me?",
+    "timestamp": 1774677244.64889
+  },
+  {
+    "speaker": "agent",
+    "text": "I don't have the specific",
+    "timestamp": 1774677251.394345
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, I understand. Could you maybe give me a general idea of your weekend hours? Like, are you usually open on Saturdays or not?",
+    "timestamp": 1774677253.94144
+  },
+  {
+    "speaker": "agent",
+    "text": "I don't have access to the exact",
+    "timestamp": 1774677262.730984
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, I got it. Um, could I leave my contact info, and maybe someone can get back to me with that information?",
+    "timestamp": 1774677263.949868
+  },
+  {
+    "speaker": "agent",
+    "text": "I don't have the",
+    "timestamp": 1774677271.370443
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, no worries! Thanks for your help anyway. I\u2019ll just try calling back later. Have a great day!",
+    "timestamp": 1774677273.03824
+  },
+  {
+    "speaker": "agent",
+    "text": "Absolutely.",
+    "timestamp": 1774677279.97362
+  },
+  {
+    "speaker": "patient",
+    "text": "Thanks! I appreciate it. Bye!",
+    "timestamp": 1774677282.069223
+  },
+  {
+    "speaker": "agent",
+    "text": "You're welcome. Have a great day.",
+    "timestamp": 1774677285.0465548
+  },
+  {
+    "speaker": "patient",
+    "text": "Thank you, take care. Goodbye!",
+    "timestamp": 1774677287.742975
+  }
+]

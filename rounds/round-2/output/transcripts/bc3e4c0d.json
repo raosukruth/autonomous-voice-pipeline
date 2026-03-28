@@ -1,0 +1,252 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774586316.49403
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay. Um, I would like to schedule an appointment for a checkup, please.",
+    "timestamp": 1774586317.411659
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling pivot point",
+    "timestamp": 1774586323.107708
+  },
+  {
+    "speaker": "patient",
+    "text": "Gracias. Um, I want to make an appointment for a checkup. Can you help me?",
+    "timestamp": 1774586323.967841
+  },
+  {
+    "speaker": "agent",
+    "text": "I can help with that.",
+    "timestamp": 1774586330.454171
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, gracias! What times do you have available for the checkup?",
+    "timestamp": 1774586332.082968
+  },
+  {
+    "speaker": "agent",
+    "text": "I can help with that.",
+    "timestamp": 1774586337.085681
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, okay. Can you tell me the available times for the checkup?",
+    "timestamp": 1774586338.474303
+  },
+  {
+    "speaker": "agent",
+    "text": "Before I can",
+    "timestamp": 1774586343.4405692
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay. What do you need from me?",
+    "timestamp": 1774586344.238644
+  },
+  {
+    "speaker": "agent",
+    "text": "to help you",
+    "timestamp": 1774586347.4113941
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure! What information do you need?",
+    "timestamp": 1774586349.107605
+  },
+  {
+    "speaker": "agent",
+    "text": "I just need your first and last name.",
+    "timestamp": 1774586352.45873
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, it's Maria Gonzalez.",
+    "timestamp": 1774586353.0679958
+  },
+  {
+    "speaker": "agent",
+    "text": "Great.",
+    "timestamp": 1774586355.775431
+  },
+  {
+    "speaker": "patient",
+    "text": "Gracias! What times do you have for my appointment?",
+    "timestamp": 1774586356.483774
+  },
+  {
+    "speaker": "agent",
+    "text": "Your patient profile is set up",
+    "timestamp": 1774586362.449999
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, um, good! Can you tell me the available times now?",
+    "timestamp": 1774586364.007989
+  },
+  {
+    "speaker": "agent",
+    "text": "and your date of birth is July fourth two thousand.",
+    "timestamp": 1774586368.75933
+  },
+  {
+    "speaker": "patient",
+    "text": "No, um, my birthday is March 30, 1970. Can you please check that?",
+    "timestamp": 1774586369.644524
+  },
+  {
+    "speaker": "agent",
+    "text": "May I help you today?",
+    "timestamp": 1774586375.468192
+  },
+  {
+    "speaker": "patient",
+    "text": "Yes, I want to schedule a checkup appointment, por favor. Can you help me?",
+    "timestamp": 1774586376.509442
+  },
+  {
+    "speaker": "agent",
+    "text": "Just to confirm, are you looking to book a follow-up",
+    "timestamp": 1774586381.603966
+  },
+  {
+    "speaker": "patient",
+    "text": "No, um, I just need a regular checkup, not a follow-up.",
+    "timestamp": 1774586384.198046
+  },
+  {
+    "speaker": "agent",
+    "text": "consultation, a new patient consultation, a procedure,",
+    "timestamp": 1774586388.7371058
+  },
+  {
+    "speaker": "patient",
+    "text": "No, just a regular checkup, por favor. Can you give me the times for that?",
+    "timestamp": 1774586389.682368
+  },
+  {
+    "speaker": "agent",
+    "text": "or a physical therapy session. For a checkup, a follow-up consultation is usually the right",
+    "timestamp": 1774586395.3583639
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, no, I just want a checkup. Can you help me with that? I don\u2019t need a follow-up.",
+    "timestamp": 1774586396.5278752
+  },
+  {
+    "speaker": "agent",
+    "text": "choice.",
+    "timestamp": 1774586402.1217039
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, but I just need to schedule a checkup appointment. Can you please give me some times?",
+    "timestamp": 1774586404.780074
+  },
+  {
+    "speaker": "agent",
+    "text": "Does that sound correct?",
+    "timestamp": 1774586410.913911
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, no, I just need an appointment for a checkup. Can you help me with that?",
+    "timestamp": 1774586412.023645
+  },
+  {
+    "speaker": "agent",
+    "text": "For a regular",
+    "timestamp": 1774586417.057035
+  },
+  {
+    "speaker": "patient",
+    "text": "S\u00ed, for a regular checkup. Can you tell me the available times, por favor?",
+    "timestamp": 1774586418.055074
+  },
+  {
+    "speaker": "agent",
+    "text": "For a regular checkup, we can book you for a new",
+    "timestamp": 1774586429.643106
+  },
+  {
+    "speaker": "patient",
+    "text": "No, I just need a regular checkup, not a new consultation. Can you please give me the times?",
+    "timestamp": 1774586432.091024
+  },
+  {
+    "speaker": "agent",
+    "text": "patient consultation. Let me check the available times for you.",
+    "timestamp": 1774586439.451745
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, gracias. I wait for you to check the times.",
+    "timestamp": 1774586440.508203
+  },
+  {
+    "speaker": "agent",
+    "text": "For a regular checkup,",
+    "timestamp": 1774586451.222442
+  },
+  {
+    "speaker": "patient",
+    "text": "Yes, for a regular checkup. What times do you have?",
+    "timestamp": 1774586452.475185
+  },
+  {
+    "speaker": "agent",
+    "text": "the closest match is a new patient consultation. The next available times are",
+    "timestamp": 1774586456.485256
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, um, no. I just want a regular checkup, not a new patient consultation. Can you find times for that?",
+    "timestamp": 1774586458.746618
+  },
+  {
+    "speaker": "agent",
+    "text": "The soonest",
+    "timestamp": 1774586466.7563221
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, what is the soonest time you have for a regular checkup?",
+    "timestamp": 1774586467.74509
+  },
+  {
+    "speaker": "agent",
+    "text": "We don't have a specific regular checkup appointment type here.",
+    "timestamp": 1774586480.419994
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay. Um, what should I do then? Can I still make an appointment for a checkup?",
+    "timestamp": 1774586481.52989
+  },
+  {
+    "speaker": "agent",
+    "text": "The closest options are new patient consultation,",
+    "timestamp": 1774586487.365878
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, okay, so I can make a new patient consultation? What times do you have for that?",
+    "timestamp": 1774586489.5686662
+  },
+  {
+    "speaker": "agent",
+    "text": "follow-up consult",
+    "timestamp": 1774586496.3547509
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, uh, I will take a new patient consultation then. What times do you have available?",
+    "timestamp": 1774586497.519784
+  }
+]

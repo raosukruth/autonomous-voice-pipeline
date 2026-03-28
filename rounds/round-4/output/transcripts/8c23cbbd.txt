@@ -1,0 +1,48 @@
+[1774677838.19] AGENT: This call may be recorded for quality and training purposes.
+[1774677839.68] PATIENT: Oh, okay. No problem. Um, I want to schedule an appointment for a checkup, please.
+[1774677845.97] AGENT: Thank you for calling PivotPoint Orthopaedic.
+[1774677847.72] PATIENT: Gracias, um, I need to make an appointment for a checkup. Can you help me?
+[1774677853.93] AGENT: I can help with that.
+[1774677856.36] PATIENT: Okay, gracias! Can you tell me what times are available for the appointment?
+[1774677861.77] AGENT: I can help you schedule a
+[1774677862.55] PATIENT: Um, okay, thank you! What days do you have available?
+[1774677866.88] AGENT: Before
+[1774677867.72] PATIENT: Sorry, I didn't understand. Can you say that again, please?
+[1774677878.93] AGENT: No problem. To schedule your appointment, I'll need
+[1774677880.80] PATIENT: Um, okay. What do you need from me?
+[1774677884.30] AGENT: to create a demo patient profile for you.
+[1774677885.35] PATIENT: Oh, okay. What do you need for the profile? I can give you my information.
+[1774677890.23] AGENT: I get your first and last name?
+[1774677890.94] PATIENT: Yes, I am Maria Gonzalez.
+[1774677903.33] AGENT: Your patient profile has been created.
+[1774677905.69] PATIENT: Gracias! Now, can we schedule the appointment? What dates do you have?
+[1774677911.08] AGENT: And your date of birth is July fourth two thousand for demo purposes.
+[1774677912.68] PATIENT: Um, no, that's not right. My date of birth is March 30, 1970.
+[1774677918.88] AGENT: How may I help you today?
+[1774677920.35] PATIENT: I want to schedule my checkup appointment, please. What days do you have available?
+[1774677925.65] AGENT: We have openings this week and early next week for checkup appointments.
+[1774677928.15] PATIENT: Okay, um, can you tell me the specific days and times? I want to find a good time.
+[1774677935.12] AGENT: Do you have a preferred day or time of day, like morning or afternoon?
+[1774677936.86] PATIENT: Um, morning is better for me. What time do you have in the morning?
+[1774677950.10] AGENT: Let me check for available morning appointments for a checkup.
+[1774677950.93] PATIENT: Okay, gracias! I will wait.
+[1774677955.06] AGENT: One moment while I find the options for you.
+[1774677957.25] PATIENT: Sure, take your time!
+[1774677959.83] AGENT: The next
+[1774677961.44] PATIENT: Um, I didn't hear you. Can you repeat that, please?
+[1774677966.08] AGENT: here is the morning option.
+[1774677966.94] PATIENT: Okay, what is the morning option?
+[1774677975.12] AGENT: The next
+[1774677978.11] PATIENT: Sorry, I still don't understand. Can you please tell me the specific day and time?
+[1774677984.88] AGENT: available morning appointment is Monday, March
+[1774677985.87] PATIENT: Um, can you please finish? What time on Monday?
+[1774677989.92] AGENT: thirtieth at nine forty five AM with doctor Bricker.
+[1774677991.15] PATIENT: Okay, um, Monday, March 30th at 9:45 AM with doctor Bricker. Yes, that works for me!
+[1774677998.91] AGENT: Would you like
+[1774678001.47] PATIENT: Um, what would you like to know?
+[1774678004.86] AGENT: Is it
+[1774678005.79] PATIENT: Sorry, I didn't catch that. Can you say it again, please?
+[1774678010.43] AGENT: The next available
+[1774678011.73] PATIENT: Um, I didn't hear the whole thing. Can you finish your sentence, please?
+[1774678016.65] AGENT: Let me confirm.
+[1774678018.57] PATIENT: Okay, gracias! What do you need to confirm?

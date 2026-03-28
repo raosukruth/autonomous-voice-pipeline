@@ -1,0 +1,25 @@
+[1774674214.85] AGENT: This call may be recorded for quality and training purposes.
+[1774674215.88] PATIENT: Oh, okay, that's fine. Um, I'm just really anxious about my lab results, so I hope everything's okay.
+[1774674223.00] AGENT: Thank you for calling PivotPoint Orthopedic.
+[1774674224.34] PATIENT: Hi, um, thank you for taking my call. I wanted to check on my lab results and see if I need to come in for anything.
+[1774674232.68] AGENT: I understand you're feeling anxious about
+[1774674234.85] PATIENT: Yeah, I really am. It's just, um, I keep worrying about what the results might say. Can you help me find out when I might get them?
+[1774674243.39] AGENT: I can help with that.
+[1774674244.51] PATIENT: Oh, thank you! Um, do you know if the results are ready yet? Or, like, how I can get them?
+[1774674251.13] AGENT: Would
+[1774674252.03] PATIENT: Um, I’m sorry, could you repeat that? I didn’t quite catch what you said.
+[1774674257.46] AGENT: I can check on
+[1774674259.42] PATIENT: Oh, okay! That would be great. Um, I just really want to know what's going on. Thank you!
+[1774674265.84] AGENT: no problem.
+[1774674267.49] PATIENT: Thanks! Um, how long do you think it’ll take to check? I hope it’s not too long...
+[1774674273.91] AGENT: Can check
+[1774674274.60] PATIENT: Okay, sure, I can wait. Thank you!
+[1774674277.87] AGENT: to help you with your lab result.
+[1774674280.20] PATIENT: Oh, great! So, um, do you know if my lab results are ready yet or if I need to come in for anything?
+[1774674287.15] AGENT: To get started,
+[1774674288.33] PATIENT: Okay, um, what do you need from me to get started? I'm just really anxious to know about my results.
+[1774674294.74] AGENT: I'll need to
+[1774674295.58] PATIENT: Sure, um, what do you need? Just let me know!
+[1774674299.04] AGENT: To check your
+[1774674300.78] PATIENT: Oh, okay! You need to check my... um, my information, right? What exactly do you need?
+[1774674307.69] AGENT: I

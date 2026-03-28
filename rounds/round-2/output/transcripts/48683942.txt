@@ -1,0 +1,40 @@
+[1774490204.91] AGENT: This call may be recorded for quality and training purposes.
+[1774490206.30] PATIENT: Oh, okay! That's fine. My name is Susan Taylor, and I’d like to schedule an appointment for an annual physical and also request a refill for my metformin.
+[1774490215.62] AGENT: Thank you for calling PivotPoint Orthopaedic.
+[1774490217.24] PATIENT: Um, I think I might have called the wrong office. I'm looking to schedule an appointment for my annual physical and get a medication refill for metformin. Can you help me with that?
+[1774490228.97] AGENT: Thanks, Steven.
+[1774490230.35] PATIENT: Uh, I think there might be a mix-up. I’m actually Susan Taylor. Can you help me with scheduling my appointment and the medication refill?
+[1774490239.08] AGENT: I can help with that, Susan.
+[1774490240.35] PATIENT: Great! Thank you. So, I’d like to schedule my annual physical, and I also need a refill for my metformin, please. What do you have available?
+[1774490249.65] AGENT: Nope.
+[1774490250.86] PATIENT: Oh, I'm sorry, but could you clarify what you mean? I just want to make sure I understand.
+[1774490256.45] AGENT: Susan?
+[1774490258.08] PATIENT: Yes, that's me! I’m here. What do you need from me?
+[1774490262.09] AGENT: Of course.
+[1774490263.62] PATIENT: Okay! So, can you help me schedule my annual physical and get that metformin refill? What times do you have available?
+[1774490277.69] AGENT: I can help with both. First, I'll need to create a demo patient
+[1774490279.17] PATIENT: Um, a demo patient? Is that for scheduling purposes? What do you need from me for that?
+[1774490285.48] AGENT: profile for you.
+[1774490286.99] PATIENT: Got it! What information do you need from me to create that profile?
+[1774490291.45] AGENT: You please tell me your first and last name?
+[1774490292.47] PATIENT: Sure! It's Susan Taylor.
+[1774490295.02] AGENT: Yes.
+[1774490295.89] PATIENT: Great! What’s the next step?
+[1774490304.29] AGENT: Your patient profile is set up.
+[1774490305.37] PATIENT: Awesome, thanks! Now, could we go ahead and schedule that annual physical? What dates do you have available?
+[1774490312.61] AGENT: And your date of birth is July fourth two thousand.
+[1774490313.87] PATIENT: Oh, um, actually, my date of birth is May 8, 1960. Did you need any other information?
+[1774490321.47] AGENT: May I help you today?
+[1774490322.46] PATIENT: Yes, I’d like to schedule an annual physical and request a refill for my metformin. Can we get that sorted out?
+[1774490329.72] AGENT: I can help with that. At PivotPoint Orthopedics,
+[1774490330.77] PATIENT: I think I might be confused again. I’m looking for a general practitioner for my physical. Is this the right place for that?
+[1774490338.92] AGENT: we offer new patient consultation.
+[1774490340.53] PATIENT: Oh, okay! So, can I schedule a new patient consultation for my annual physical? And can I still request that metformin refill at the same time?
+[1774490350.46] AGENT: Follow-up consultations, procedure appointments, and physical therapy sessions.
+[1774490352.46] PATIENT: Oh, I see. So it sounds like this office may not be right for my needs. I'm looking for a general practitioner for my physical. Can you direct me to someone who can help with that?
+[1774490364.18] AGENT: We don't offer annual physicals, but I can help you schedule a new patient consult
+[1774490365.81] PATIENT: That makes sense. Yes, I’d like to schedule a new patient consult then, please! When do you have availability?
+[1774490372.96] AGENT: consultation or another type of visit if you'd like. Would you like to book a new patient consult
+[1774490373.94] PATIENT: Yes, please! A new patient consult sounds good. What dates and times do you have available?
+[1774490381.01] AGENT: instead?
+[1774490382.21] PATIENT: Um, could you clarify what you mean by "instead"? I just want to make sure I’m booking the right appointment.

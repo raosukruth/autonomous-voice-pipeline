@@ -1,0 +1,242 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774673266.5830212
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, that's fine. I just wanted to request a refill for my Adderall prescription.",
+    "timestamp": 1774673267.476297
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling PivotPoint.",
+    "timestamp": 1774673273.7631721
+  },
+  {
+    "speaker": "patient",
+    "text": "You're welcome! Um, I\u2019d like to request a refill for my Adderall prescription, please.",
+    "timestamp": 1774673274.8976378
+  },
+  {
+    "speaker": "agent",
+    "text": "Would you",
+    "timestamp": 1774673280.4265962
+  },
+  {
+    "speaker": "patient",
+    "text": "Uh, sorry, could you repeat that? I didn\u2019t catch what you said.",
+    "timestamp": 1774673283.363296
+  },
+  {
+    "speaker": "agent",
+    "text": "I can help with that. Would you like to create a demo patient",
+    "timestamp": 1774673287.753417
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, I\u2019m not sure what you mean by a demo patient. I just need a refill for my Adderall prescription.",
+    "timestamp": 1774673288.6677818
+  },
+  {
+    "speaker": "agent",
+    "text": "No.",
+    "timestamp": 1774673294.974991
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay. Sorry about that! I just want to make sure I get my refill sorted out. What do you need from me?",
+    "timestamp": 1774673296.061607
+  },
+  {
+    "speaker": "agent",
+    "text": "To help with your refill,",
+    "timestamp": 1774673307.611321
+  },
+  {
+    "speaker": "patient",
+    "text": "Right, what information do you need from me to proceed with the refill?",
+    "timestamp": 1774673309.485567
+  },
+  {
+    "speaker": "agent",
+    "text": "I'll need to create a demo patient profile for you.",
+    "timestamp": 1774673314.015112
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, I think there's a bit of confusion. I\u2019m not looking to create a demo profile; I just want to refill my actual prescription. Can we just go ahead with that?",
+    "timestamp": 1774673315.209447
+  },
+  {
+    "speaker": "agent",
+    "text": "Can I get your first and last name?",
+    "timestamp": 1774673325.7496252
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure! It's James Martinez.",
+    "timestamp": 1774673326.46223
+  },
+  {
+    "speaker": "agent",
+    "text": "I just need your first",
+    "timestamp": 1774673329.601378
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, got it! It's James.",
+    "timestamp": 1774673331.175308
+  },
+  {
+    "speaker": "agent",
+    "text": "And",
+    "timestamp": 1774673334.341385
+  },
+  {
+    "speaker": "patient",
+    "text": "And my last name is Martinez.",
+    "timestamp": 1774673335.204761
+  },
+  {
+    "speaker": "agent",
+    "text": "What medication do you need refilled?",
+    "timestamp": 1774673338.929373
+  },
+  {
+    "speaker": "patient",
+    "text": "I need a refill for my Adderall XR 20mg.",
+    "timestamp": 1774673339.703379
+  },
+  {
+    "speaker": "agent",
+    "text": "Thanks for",
+    "timestamp": 1774673343.988866
+  },
+  {
+    "speaker": "patient",
+    "text": "Uh, sorry, what were you saying? I didn't catch that.",
+    "timestamp": 1774673345.952843
+  },
+  {
+    "speaker": "agent",
+    "text": "What's the dosage and how",
+    "timestamp": 1774673350.202754
+  },
+  {
+    "speaker": "patient",
+    "text": "It's 20mg, and I take it once a day.",
+    "timestamp": 1774673350.981025
+  },
+  {
+    "speaker": "agent",
+    "text": "No",
+    "timestamp": 1774673354.7070248
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, I'm sorry! What do you need to know?",
+    "timestamp": 1774673355.5074291
+  },
+  {
+    "speaker": "agent",
+    "text": "I need to know the dosage of your Adderall XR.",
+    "timestamp": 1774673366.546714
+  },
+  {
+    "speaker": "patient",
+    "text": "Right, it's 20mg for the Adderall XR.",
+    "timestamp": 1774673368.2171462
+  },
+  {
+    "speaker": "agent",
+    "text": "Could you tell me the strength, like, twenty milligrams or another amount?",
+    "timestamp": 1774673371.556103
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure! It's twenty milligrams, so 20mg.",
+    "timestamp": 1774673372.333289
+  },
+  {
+    "speaker": "agent",
+    "text": "Just",
+    "timestamp": 1774673376.335186
+  },
+  {
+    "speaker": "patient",
+    "text": "Uh, just 20mg for the Adderall XR. Is there anything else you need?",
+    "timestamp": 1774673377.335125
+  },
+  {
+    "speaker": "agent",
+    "text": "when",
+    "timestamp": 1774673382.778662
+  },
+  {
+    "speaker": "patient",
+    "text": "When do I need to pick it up? I'm not sure about that either.",
+    "timestamp": 1774673385.0172212
+  },
+  {
+    "speaker": "agent",
+    "text": "when did you last have your Adderall x r",
+    "timestamp": 1774673389.479754
+  },
+  {
+    "speaker": "patient",
+    "text": "I last had it about 60 days ago.",
+    "timestamp": 1774673390.312203
+  },
+  {
+    "speaker": "agent",
+    "text": "No problem.",
+    "timestamp": 1774673393.678336
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, great! So when can I expect the refill to be ready?",
+    "timestamp": 1774673394.458851
+  },
+  {
+    "speaker": "agent",
+    "text": "Which pharmacy do you use? Please confirm the location.",
+    "timestamp": 1774673405.983813
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, I usually go to the CVS on Main Street. Does that work?",
+    "timestamp": 1774673407.834027
+  },
+  {
+    "speaker": "agent",
+    "text": "Yes. That works. Can you confirm the city for the CVS on Main Street?",
+    "timestamp": 1774673420.404039
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure! It's in Springfield.",
+    "timestamp": 1774673421.084049
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you. Before I continue, are you experiencing any worsening symptoms since",
+    "timestamp": 1774673433.4300768
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, no, I haven't noticed any worsening symptoms. Everything's been about the same for me.",
+    "timestamp": 1774673434.671409
+  },
+  {
+    "speaker": "agent",
+    "text": "starting or while taking your Adderall XR?",
+    "timestamp": 1774673441.2267761
+  },
+  {
+    "speaker": "patient",
+    "text": "No, I haven't had any new symptoms or worsening ones while taking my Adderall XR. It's been pretty stable.",
+    "timestamp": 1774673443.800935
+  }
+]

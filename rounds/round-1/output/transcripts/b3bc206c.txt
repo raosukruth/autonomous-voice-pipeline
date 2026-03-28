@@ -1,0 +1,34 @@
+[1774455859.50] AGENT: This call may be recorded for quality and training purposes.
+[1774455860.45] PATIENT: Oh, uh, okay. That's fine. I was just trying to, um, schedule an appointment.
+[1774455866.16] AGENT: Thank you.
+[1774455868.01] PATIENT: Yeah, no problem. So, um, I need to schedule an appointment, but I'm not sure... uh, what days you have available?
+[1774455882.00] AGENT: I can help with that.
+[1774455883.11] PATIENT: Oh, great! Um, I think I need it for, like, a check-up or something. Do you have any openings next week?
+[1774455891.02] AGENT: Before we look at openings, would you like to create a demo patient profile?
+[1774455891.99] PATIENT: Uh, sure, I guess? Just, um, whatever you need. What do you need from me?
+[1774455904.06] AGENT: I just need your first name and last name to create
+[1774455904.98] PATIENT: Oh, right! It's Kevin Lee. Sorry, I got a bit distracted there.
+[1774455910.58] AGENT: your demo patient profile. Could you please tell me your first and
+[1774455912.01] PATIENT: Wait, um, I just said it, right? Kevin Lee. Sorry, I’m just, uh, multitasking here.
+[1774455922.00] AGENT: Your patient profile is set up and your date of birth is July fourth two thousand.
+[1774455923.05] PATIENT: Oh, um, actually, it's January 11, 1995. I think there was a mix-up there. Can we fix that?
+[1774455932.19] AGENT: May I help you today?
+[1774455933.38] PATIENT: Yeah, sorry about that. I’m trying to schedule an appointment, um, for a check-up. What do you have available?
+[1774455950.37] AGENT: Thanks for clarifying your date of birth.
+[1774455951.63] PATIENT: Oh, yeah, no problem! So, um, can you let me know what days you have open next week?
+[1774455958.75] AGENT: I'll update it to January eleventh nineteen ninety.
+[1774455960.31] PATIENT: Oh, no, it’s actually 1995. But, um, can we just move on to the appointment? What do you have next week?
+[1774455969.18] AGENT: Me check avail
+[1774455969.98] PATIENT: Sure, take your time. I’ll just, um, wait here.
+[1774455980.80] AGENT: Thanks for your patience.
+[1774455981.88] PATIENT: Oh, no problem! Just, um, figuring out my schedule, you know? So, what do you have?
+[1774455988.72] AGENT: For a checkup, we can book a new patient consultation or a follow-up comp.
+[1774455989.77] PATIENT: Uh, I think I need the new patient consultation. Um, when can we do that?
+[1774456004.79] AGENT: We check available new patient consultation appointments for you next week.
+[1774456005.57] PATIENT: Okay, cool! Just, um, let me know what you find.
+[1774456009.79] AGENT: One moment while I find the openings.
+[1774456011.28] PATIENT: Sure, take your time! I'm just, um, driving right now, so... yeah.
+[1774456026.57] AGENT: I found openings for a new patient consultation next week.
+[1774456028.09] PATIENT: Oh, great! Um, what days and times do you have?
+[1774456032.61] AGENT: The soonest is Monday, March thirtieth at nine.
+[1774456033.68] PATIENT: Um, I think I can do that. Wait, is that March thirtieth? I thought it was still February...

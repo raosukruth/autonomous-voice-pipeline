@@ -1,0 +1,237 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774584313.213867
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay! That's fine. Um, I'm calling to schedule my first appointment as a new patient.",
+    "timestamp": 1774584315.783045
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling PivotPoint Orthopedics.",
+    "timestamp": 1774584322.920705
+  },
+  {
+    "speaker": "patient",
+    "text": "Thank you! Um, I\u2019d like to schedule my first appointment, if that\u2019s okay?",
+    "timestamp": 1774584324.678921
+  },
+  {
+    "speaker": "agent",
+    "text": "You like",
+    "timestamp": 1774584330.0629408
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, sorry! I meant to say I would like to schedule my first appointment. Um, can you help me with that?",
+    "timestamp": 1774584332.9637592
+  },
+  {
+    "speaker": "agent",
+    "text": "Great. I can help with that.",
+    "timestamp": 1774584339.794111
+  },
+  {
+    "speaker": "patient",
+    "text": "Awesome! Thank you! Uh, what do you need from me to get started?",
+    "timestamp": 1774584341.4591439
+  },
+  {
+    "speaker": "agent",
+    "text": "Absolutely. I can help you schedule your first",
+    "timestamp": 1774584345.989367
+  },
+  {
+    "speaker": "patient",
+    "text": "Great! Um, is there any specific information you need from me, like my name or date of birth?",
+    "timestamp": 1774584347.969216
+  },
+  {
+    "speaker": "agent",
+    "text": "Of course.",
+    "timestamp": 1774584354.213723
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay! Um, my name is Sarah Johnson, and my date of birth is March 15, 1988. What\u2019s the next step?",
+    "timestamp": 1774584357.157673
+  },
+  {
+    "speaker": "agent",
+    "text": "To get started,",
+    "timestamp": 1774584365.2657018
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure! Um, what do you need to know next?",
+    "timestamp": 1774584367.38473
+  },
+  {
+    "speaker": "agent",
+    "text": "I just need your first and last name to create your demo",
+    "timestamp": 1774584370.6850681
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, I already provided my name: it's Sarah Johnson. Is there something else you need?",
+    "timestamp": 1774584371.932982
+  },
+  {
+    "speaker": "agent",
+    "text": "Your patient profile has been created success",
+    "timestamp": 1774584381.121334
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, that\u2019s great to hear! Thanks! Um, can we go ahead and schedule the appointment now?",
+    "timestamp": 1774584383.032044
+  },
+  {
+    "speaker": "agent",
+    "text": "and your date of birth is July fourth two thousand for demo purposes.",
+    "timestamp": 1774584388.646066
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, actually, my date of birth is March 15, 1988. Did you mean for a different part of the process?",
+    "timestamp": 1774584389.720597
+  },
+  {
+    "speaker": "agent",
+    "text": "How may I help you today?",
+    "timestamp": 1774584398.1015198
+  },
+  {
+    "speaker": "patient",
+    "text": "I\u2019m trying to schedule my first appointment as a new patient. Can we go ahead and do that?",
+    "timestamp": 1774584399.618711
+  },
+  {
+    "speaker": "agent",
+    "text": "Yes. We can. What type of appointment would you like to schedule?",
+    "timestamp": 1774584405.240174
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, I'm not exactly sure what types you offer. Could you help me with that?",
+    "timestamp": 1774584407.354933
+  },
+  {
+    "speaker": "agent",
+    "text": "For example, a new patient consultation, a procedure, or physical therapy?",
+    "timestamp": 1774584412.245776
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, I think I\u2019d like to schedule a new patient consultation, please. What times do you have available?",
+    "timestamp": 1774584414.064393
+  },
+  {
+    "speaker": "agent",
+    "text": "Absolutely.",
+    "timestamp": 1774584420.476311
+  },
+  {
+    "speaker": "patient",
+    "text": "Awesome! Um, when do you have openings for the consultation?",
+    "timestamp": 1774584421.453999
+  },
+  {
+    "speaker": "agent",
+    "text": "I'll look for",
+    "timestamp": 1774584425.789577
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, sure! I\u2019ll just wait.",
+    "timestamp": 1774584427.971015
+  },
+  {
+    "speaker": "agent",
+    "text": "Sure.",
+    "timestamp": 1774584430.65172
+  },
+  {
+    "speaker": "patient",
+    "text": "Thanks!",
+    "timestamp": 1774584431.3047261
+  },
+  {
+    "speaker": "agent",
+    "text": "Let me check available times for a new patient consultation.",
+    "timestamp": 1774584432.355536
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, sounds good! Thank you for checking.",
+    "timestamp": 1774584433.175443
+  },
+  {
+    "speaker": "agent",
+    "text": "We have openings",
+    "timestamp": 1774584442.168458
+  },
+  {
+    "speaker": "patient",
+    "text": "Great! Um, what days and times do you have available?",
+    "timestamp": 1774584444.751476
+  },
+  {
+    "speaker": "agent",
+    "text": "for a new patient consultation this Friday, March twenty seventh",
+    "timestamp": 1774584449.266201
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, um, I think you meant Friday, March 29th, right? What times do you have available on that day?",
+    "timestamp": 1774584450.540821
+  },
+  {
+    "speaker": "agent",
+    "text": "at nine AM, nine forty five AM, and ten thirty",
+    "timestamp": 1774584457.3625312
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, could I go with the 9:45 AM slot? That works best for me!",
+    "timestamp": 1774584458.4688482
+  },
+  {
+    "speaker": "agent",
+    "text": "Just",
+    "timestamp": 1774584464.325452
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, sorry, did you need something else?",
+    "timestamp": 1774584466.12324
+  },
+  {
+    "speaker": "agent",
+    "text": "No problem.",
+    "timestamp": 1774584473.834398
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, great! So, just to confirm, I\u2019m scheduling the new patient consultation for Friday, March 29th at 9:45 AM. Is that right?",
+    "timestamp": 1774584475.083035
+  },
+  {
+    "speaker": "agent",
+    "text": "Just need a brief reason for your visit to complete the booking.",
+    "timestamp": 1774584485.0163012
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure! Um, I\u2019m experiencing some joint pain, so I\u2019d like to get that checked out. Does that work?",
+    "timestamp": 1774584485.9990342
+  },
+  {
+    "speaker": "agent",
+    "text": "What would you like?",
+    "timestamp": 1774584492.791615
+  }
+]

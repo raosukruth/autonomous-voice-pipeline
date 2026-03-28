@@ -1,0 +1,207 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774584738.3109791
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay! That's fine. Um, I'm actually calling to reschedule my appointment that's set for next Monday.",
+    "timestamp": 1774584739.3826308
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling Pivot Point",
+    "timestamp": 1774584746.7537339
+  },
+  {
+    "speaker": "patient",
+    "text": "You're welcome! Um, I\u2019d like to reschedule my appointment, if that's possible.",
+    "timestamp": 1774584747.791638
+  },
+  {
+    "speaker": "agent",
+    "text": "I can help with that.",
+    "timestamp": 1774584757.3789718
+  },
+  {
+    "speaker": "patient",
+    "text": "Great! Thank you. Um, could you let me know what other dates and times are available?",
+    "timestamp": 1774584759.5122418
+  },
+  {
+    "speaker": "agent",
+    "text": "Before we get started, would you like to create a demo patient profile?",
+    "timestamp": 1774584765.502916
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, um, I think I\u2019d prefer to just use my existing profile for now if that\u2019s okay? My name is Emily Chen, and my date of birth is November 3, 1992.",
+    "timestamp": 1774584767.7619689
+  },
+  {
+    "speaker": "agent",
+    "text": "I just need",
+    "timestamp": 1774584779.842457
+  },
+  {
+    "speaker": "patient",
+    "text": "Sorry, could you repeat that? I didn\u2019t catch the last part.",
+    "timestamp": 1774584780.687232
+  },
+  {
+    "speaker": "agent",
+    "text": "First, I'll need to set up your demo patient.",
+    "timestamp": 1774584784.870698
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, I see. Um, I really just want to reschedule my current appointment. Is that possible without setting up a demo?",
+    "timestamp": 1774584789.063157
+  },
+  {
+    "speaker": "agent",
+    "text": "No problem. To help you reschedule, I'll need to create a",
+    "timestamp": 1774584797.4562528
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, um, I understand. What do you need from me to create that profile?",
+    "timestamp": 1774584800.107014
+  },
+  {
+    "speaker": "agent",
+    "text": "Right now, I need to create",
+    "timestamp": 1774584805.7731252
+  },
+  {
+    "speaker": "patient",
+    "text": "Sorry, could you clarify what exactly you need to create? I just want to make sure I provide the right information.",
+    "timestamp": 1774584807.036004
+  },
+  {
+    "speaker": "agent",
+    "text": "a demo",
+    "timestamp": 1774584814.120515
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, got it. But, um, could I just use my existing patient information instead? I\u2019d really like to get my appointment rescheduled as soon as possible.",
+    "timestamp": 1774584818.958816
+  },
+  {
+    "speaker": "agent",
+    "text": "I just need your first and",
+    "timestamp": 1774584828.117283
+  },
+  {
+    "speaker": "patient",
+    "text": "Sorry, I didn\u2019t catch that. Could you repeat what you need?",
+    "timestamp": 1774584829.2629309
+  },
+  {
+    "speaker": "agent",
+    "text": "I need to create a demo patient profile.",
+    "timestamp": 1774584833.316941
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, I understand now. So, what specific information do you need from me to create this demo profile?",
+    "timestamp": 1774584834.1997912
+  },
+  {
+    "speaker": "agent",
+    "text": "To help",
+    "timestamp": 1774584841.290955
+  },
+  {
+    "speaker": "patient",
+    "text": "I think I might be a bit confused here. Could you please clarify what you need to help with? I just want to reschedule my appointment.",
+    "timestamp": 1774584843.173941
+  },
+  {
+    "speaker": "agent",
+    "text": "I just need your first name and last name.",
+    "timestamp": 1774584851.4347541
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay! My name is Emily Chen. Is that all you need?",
+    "timestamp": 1774584852.289738
+  },
+  {
+    "speaker": "agent",
+    "text": "To reach",
+    "timestamp": 1774584856.6609569
+  },
+  {
+    "speaker": "patient",
+    "text": "Sorry, could you repeat that? I didn't catch the last part.",
+    "timestamp": 1774584857.491362
+  },
+  {
+    "speaker": "agent",
+    "text": "Your patient profile has been created",
+    "timestamp": 1774584863.7171562
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, great! Thank you. Now, can we go ahead and reschedule my appointment for next Monday?",
+    "timestamp": 1774584865.749238
+  },
+  {
+    "speaker": "agent",
+    "text": "successfully, and your date of birth is July fourth two thousand for demo purposes.",
+    "timestamp": 1774584872.292356
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, just to clarify, my actual date of birth is November 3, 1992. But thanks for setting that up! Can we go ahead and look at rescheduling my appointment?",
+    "timestamp": 1774584873.42681
+  },
+  {
+    "speaker": "agent",
+    "text": "How may I help you today?",
+    "timestamp": 1774584884.5369978
+  },
+  {
+    "speaker": "patient",
+    "text": "I\u2019d like to reschedule my appointment that's currently set for next Monday. What other dates do you have available?",
+    "timestamp": 1774584885.6166348
+  },
+  {
+    "speaker": "agent",
+    "text": "Let me check your upcoming appointment details and find you available.",
+    "timestamp": 1774584892.508009
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure, that sounds good. Thanks for checking!",
+    "timestamp": 1774584894.203913
+  },
+  {
+    "speaker": "agent",
+    "text": "I'm not seeing any upcoming",
+    "timestamp": 1774584897.93398
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, really? That\u2019s odd. I thought I had an appointment scheduled for next Monday. Can you check again, or maybe look under my name, Emily Chen?",
+    "timestamp": 1774584899.0760262
+  },
+  {
+    "speaker": "agent",
+    "text": "You're welcome. If you need help with anything else, like",
+    "timestamp": 1774584909.0684109
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, I think I just need to get this appointment rescheduled for now. Can you confirm if there\u2019s any appointment on record for me?",
+    "timestamp": 1774584910.1316218
+  },
+  {
+    "speaker": "agent",
+    "text": "scheduling a new appointment, medication refills, or insurance updates,",
+    "timestamp": 1774584918.200237
+  }
+]

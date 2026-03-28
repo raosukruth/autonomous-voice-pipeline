@@ -1,0 +1,38 @@
+[1774454679.72] AGENT: This call may be recorded for quality and training purposes.
+[1774454687.55] PATIENT: Oh, okay, that's fine! Um, I’m just calling to reschedule my appointment that’s set for next Monday.
+[1774454694.18] AGENT: Thank you for calling PivotPoint Orthopedics.
+[1774454695.28] PATIENT: You're welcome! Um, I need to reschedule my appointment for next Monday. Could you help me with that?
+[1774454702.07] AGENT: Would you like to create a demo patient profile? I just need your first and last name to get
+[1774454703.20] PATIENT: Oh, um, I think I already have a profile, but I can give you my name anyway. It’s Emily Chen.
+[1774454709.92] AGENT: started.
+[1774454710.81] PATIENT: Sorry, could you clarify that? I didn't quite catch what you said.
+[1774454715.35] AGENT: I can help with that.
+[1774454716.35] PATIENT: Great! Thank you. So, can we find another time for my appointment? I'm pretty flexible, just not next Monday.
+[1774454726.42] AGENT: Let me check your upcoming appointment details so we can reschedule it.
+[1774454727.89] PATIENT: Sure, that sounds good! Take your time.
+[1774454731.31] AGENT: One moment.
+[1774454732.12] PATIENT: Okay, no problem!
+[1774454734.65] AGENT: I don't see any up
+[1774454735.70] PATIENT: Um, I'm sorry, could you repeat that? It sounded like you said you don't see any... appointments?
+[1774454748.78] AGENT: That's right.
+[1774454749.99] PATIENT: Oh, okay. That’s strange. I thought I had an appointment set for next Monday. Can you help me figure out what happened?
+[1774454757.83] AGENT: I don't see any upcoming appointments for you right now. Are you looking to book a
+[1774454759.08] PATIENT: Um, yeah, I’d like to book a new appointment then. I just need to find a time that works. What do you have available?
+[1774454773.81] AGENT: What type of appointment would you like to book?
+[1774454775.21] PATIENT: I’d like to schedule a follow-up appointment, please. Do you have any openings in the next week or two?
+[1774454781.70] AGENT: For example, a new patient consultation, follow-up consultation, procedure,
+[1774454782.88] PATIENT: Oh, I see! Um, it's a follow-up consultation. Sorry for not being clear! What do you have available for that?
+[1774454790.66] AGENT: physical therapy session,
+[1774454792.09] PATIENT: Got it! So, just to confirm, I need a follow-up consultation, not physical therapy. What openings do you have for that?
+[1774454808.78] AGENT: Let me check available follow-up consultation appointments for you in the next two weeks.
+[1774454809.53] PATIENT: Sure, thanks! I appreciate you checking that for me.
+[1774454813.30] AGENT: One moment.
+[1774454813.98] PATIENT: Okay, no problem!
+[1774454823.93] AGENT: The next available follow-up consultation is Thursday,
+[1774454824.79] PATIENT: Uh, Thursday sounds good! What time do you have available on that day?
+[1774454829.64] AGENT: March twenty sixth at eight AM with doctor Dougie Houser.
+[1774454830.71] PATIENT: Uh, I think there's a little confusion—I meant to reschedule for this month. Can you check the dates for, like, next week instead?
+[1774454839.20] AGENT: On Thursday,
+[1774454840.39] PATIENT: Oh, so that’s for next Thursday, March 26th? Um, I think that works! Can you confirm that time with Dr. Houser?
+[1774454848.39] AGENT: Allville.
+[1774454849.75] PATIENT: I’m sorry, I didn’t quite catch that. Can you clarify what you mean by "Allville"?

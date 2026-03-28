@@ -1,0 +1,52 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774490615.4240289
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, uh, alright then. That's fine, I guess. I'm just trying to reach Dr. Patterson's office, but I'm not sure if I have the right number.",
+    "timestamp": 1774490616.759487
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling PivotPoint Orthopaedic.",
+    "timestamp": 1774490625.8475919
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, um, is this Dr. Patterson's office? I'm a bit confused here.",
+    "timestamp": 1774490626.743416
+  },
+  {
+    "speaker": "agent",
+    "text": "You've reached Pivot Point Orthopedics.",
+    "timestamp": 1774490640.267616
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, I see. I must've got the wrong number then. I'm looking for Dr. Patterson. Do you know if he's associated with your office?",
+    "timestamp": 1774490642.010592
+  },
+  {
+    "speaker": "agent",
+    "text": "I can help with questions or requests for this clinic. Are you looking to connect",
+    "timestamp": 1774490650.7692711
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, uh, yes, I was hoping to connect with Dr. Patterson. Do you know if he works there, or maybe you can help me find the right number?",
+    "timestamp": 1774490652.104785
+  },
+  {
+    "speaker": "agent",
+    "text": "with doctor Patterson here, or do you need help?",
+    "timestamp": 1774490660.607462
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, um, I just wanted to see if I could talk to Dr. Patterson. But if he's not there, I guess I need help figuring out where to call next. Can you help me with that?",
+    "timestamp": 1774490662.234198
+  }
+]

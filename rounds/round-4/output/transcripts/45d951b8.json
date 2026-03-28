@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774677449.374805
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay, that's fine! Um, my name is Jennifer Garcia, and I\u2019m calling to find out if you accept Blue Cross Blue Shield insurance.",
+    "timestamp": 1774677450.735772
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling Pivot Point Orthopaedics. Would you like to create",
+    "timestamp": 1774677461.048573
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, um, I just want to check if you accept Blue Cross Blue Shield insurance. I\u2019m not looking to create an appointment right now.",
+    "timestamp": 1774677462.3487208
+  },
+  {
+    "speaker": "agent",
+    "text": "Thanks for sharing your name.",
+    "timestamp": 1774677470.295254
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure! So, can you let me know if you accept Blue Cross Blue Shield? It\u2019s kind of important for me to know before I make any plans.",
+    "timestamp": 1774677472.277526
+  },
+  {
+    "speaker": "agent",
+    "text": "No problem.",
+    "timestamp": 1774677480.5031538
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, great! So, do you accept Blue Cross Blue Shield insurance?",
+    "timestamp": 1774677481.7525709
+  },
+  {
+    "speaker": "agent",
+    "text": "I understand how",
+    "timestamp": 1774677487.186862
+  },
+  {
+    "speaker": "patient",
+    "text": "Sorry, I didn't quite catch that. Could you repeat what you just said?",
+    "timestamp": 1774677488.027084
+  },
+  {
+    "speaker": "agent",
+    "text": "I don't",
+    "timestamp": 1774677493.132999
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, um, okay. Could you let me know if you accept Blue Cross Blue Shield? It\u2019s really important for me to know.",
+    "timestamp": 1774677495.3824131
+  },
+  {
+    "speaker": "agent",
+    "text": "I don't have access to insurance details right now.",
+    "timestamp": 1774677502.821239
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, I see. Um, is there someone else I could speak to about that, or maybe you could take my number and have them call me back?",
+    "timestamp": 1774677504.9218502
+  },
+  {
+    "speaker": "agent",
+    "text": "I'm not able to check-in.",
+    "timestamp": 1774677513.469888
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, I understand. Um, is there any way you can help me find out about the insurance acceptance later? I just want to make sure I'm covered before I come in.",
+    "timestamp": 1774677514.619369
+  },
+  {
+    "speaker": "agent",
+    "text": "I can document your request.",
+    "timestamp": 1774677524.800395
+  },
+  {
+    "speaker": "patient",
+    "text": "That would be great, thank you! Um, can I give you my phone number so someone can follow up with me?",
+    "timestamp": 1774677526.909858
+  },
+  {
+    "speaker": "agent",
+    "text": "I'll let our clinic support team know you need to",
+    "timestamp": 1774677534.1979709
+  },
+  {
+    "speaker": "patient",
+    "text": "Perfect, thank you! Um, my phone number is 555-012-3456. I really appreciate your help with this!",
+    "timestamp": 1774677535.5160189
+  },
+  {
+    "speaker": "agent",
+    "text": "I have your number as eight",
+    "timestamp": 1774677545.434496
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, it\u2019s actually 555-012-3456. Just to clarify, that\u2019s 555, zero one two, three four five six. Thank you for noting that!",
+    "timestamp": 1774677547.161471
+  },
+  {
+    "speaker": "agent",
+    "text": "Let me",
+    "timestamp": 1774677560.291821
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure, take your time!",
+    "timestamp": 1774677562.18656
+  },
+  {
+    "speaker": "agent",
+    "text": "Let me confirm. I have your number as five five five",
+    "timestamp": 1774677570.947168
+  },
+  {
+    "speaker": "patient",
+    "text": "Yes, that's right! It should be 555-012-3456. Thanks for confirming!",
+    "timestamp": 1774677571.8355389
+  },
+  {
+    "speaker": "agent",
+    "text": "zero one two three four five six.",
+    "timestamp": 1774677580.1976051
+  },
+  {
+    "speaker": "patient",
+    "text": "Yes, exactly! Thank you for getting that right. Just to recap, I\u2019m waiting for someone to call me back about the Blue Cross Blue Shield coverage, right?",
+    "timestamp": 1774677581.3311071
+  },
+  {
+    "speaker": "agent",
+    "text": "Connecting you to a representative. Please wait.",
+    "timestamp": 1774677598.462198
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, sure! I'll hold.",
+    "timestamp": 1774677600.316421
+  },
+  {
+    "speaker": "agent",
+    "text": "Hello. You've reached the Pretty Good AI test line. Goodbye.",
+    "timestamp": 1774677603.1644669
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, um, okay! Thanks for your help today. Goodbye!",
+    "timestamp": 1774677603.8703182
+  }
+]

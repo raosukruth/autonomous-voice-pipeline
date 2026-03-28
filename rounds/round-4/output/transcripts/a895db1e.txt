@@ -1,0 +1,40 @@
+[1774589050.26] AGENT: This call may be recorded for quality and training purposes.
+[1774589051.53] PATIENT: Uh, okay. Hi there! I was hoping to, um, schedule an appointment?
+[1774589056.86] AGENT: Thank you for calling Pivot.
+[1774589058.07] PATIENT: Yeah, thanks! So, um, I need to schedule an appointment, but I keep getting—oh, wait, is this the right place for—?
+[1774589076.36] AGENT: Yes. You've reached the right place to schedule an appointment.
+[1774589078.35] PATIENT: Oh, great! Um, so I just need to give you my, uh, details? Like my name and, um, stuff?
+[1774589085.89] AGENT: Before we get started, would you like to create a demo patient profile? I just need your
+[1774589086.88] PATIENT: Oh, um, I guess that sounds good. What do you need from me? Like, uh, my name or something?
+[1774589101.10] AGENT: Yes. Just your first and last name to create your demo patient profile.
+[1774589101.90] PATIENT: Okay, it's Kevin Lee. Um, do you need anything else?
+[1774589106.48] AGENT: Could you please tell me your first and last name?
+[1774589108.09] PATIENT: Uh, yeah, it's Kevin Lee. I just said that, right?
+[1774589115.32] AGENT: Your patient profile has been created, and your date of birth is July fourth
+[1774589116.55] PATIENT: Oh, um, I think that's wrong. My birthday is actually January 11, 1995.
+[1774589123.52] AGENT: two thousand for demo purposes.
+[1774589124.50] PATIENT: Okay, got it. So, um, can we just, like, go ahead and schedule the appointment now?
+[1774589130.81] AGENT: How may I help you today?
+[1774589132.77] PATIENT: Right! I want to schedule an appointment. Um, do you have any openings, like, this week or next?
+[1774589139.21] AGENT: Absolutely. What type of appointment?
+[1774589140.44] PATIENT: Uh, it’s for a check-up, I think? Um, just, like, a routine thing.
+[1774589145.27] AGENT: Would you like to schedule?
+[1774589146.12] PATIENT: Yes, please! Um, do you have any times available?
+[1774589150.78] AGENT: Example, a new patient consultation, follow-up,
+[1774589153.25] PATIENT: Oh, right, um, I just need a routine check-up, nothing special. So, um, can you give me some times?
+[1774589161.90] AGENT: procedure, or physical therapy session,
+[1774589163.21] PATIENT: Got it. Just a routine check-up for me. Uh, what times do you have available?
+[1774589169.52] AGENT: Let me check available times.
+[1774589170.53] PATIENT: Sure, thanks! Uh, I’ll just wait here.
+[1774589173.68] AGENT: We have openings for a follow-up consult
+[1774589175.79] PATIENT: Oh, um, I think I need a check-up, not a follow-up. Do you have regular check-up slots available?
+[1774589183.01] AGENT: consultation this Friday with doctor Dougie Hauser. The next available time is at
+[1774589183.86] PATIENT: Oh, um, yeah, Friday sounds good. What time is that?
+[1774589188.67] AGENT: ten AM. Would you like to book that or hear about other times?
+[1774589189.52] PATIENT: Um, I think ten AM works for me. Let’s book that!
+[1774589200.68] AGENT: Just to confirm,
+[1774589203.44] PATIENT: Sure, what do you need to confirm?
+[1774589206.90] AGENT: you'd like to book a follow-up consultation with doctor Judy Hauser this
+[1774589208.41] PATIENT: Wait, um, I thought it was Doctor Dougie Hauser? Can you just confirm that for me?
+[1774589214.79] AGENT: Friday at ten AM. Is that correct?
+[1774589216.38] PATIENT: Yeah, that's right! So, um, it’s with Doctor Dougie Hauser, Friday at ten AM. Thanks!

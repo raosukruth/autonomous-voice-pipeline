@@ -1,0 +1,112 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774600798.6460211
+  },
+  {
+    "speaker": "patient",
+    "text": "Uh, okay, that's fine. I'm just looking to get some directions to your office and ask about parking. Can you help me with that?",
+    "timestamp": 1774600800.1955788
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling PivotPoint Orthopedics.",
+    "timestamp": 1774600808.3639958
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, great! Hi, this is Thomas Anderson. I\u2019m new to the area and I need some directions to your office, if that\u2019s okay.",
+    "timestamp": 1774600809.6342678
+  },
+  {
+    "speaker": "agent",
+    "text": "I can help with your quest",
+    "timestamp": 1774600817.796225
+  },
+  {
+    "speaker": "patient",
+    "text": "Awesome, thank you! So, uh, could you tell me how to get to your office? I want to make sure I don\u2019t get lost.",
+    "timestamp": 1774600820.5676491
+  },
+  {
+    "speaker": "agent",
+    "text": "Welcome, Thomas.",
+    "timestamp": 1774600827.5022411
+  },
+  {
+    "speaker": "patient",
+    "text": "Thanks! I appreciate that. So, can you give me the directions? I'm kind of nervous about finding the place.",
+    "timestamp": 1774600828.617774
+  },
+  {
+    "speaker": "agent",
+    "text": "I understand Thomas.",
+    "timestamp": 1774600843.371
+  },
+  {
+    "speaker": "patient",
+    "text": "Great! So, what\u2019s the best way to get there?",
+    "timestamp": 1774600845.1039228
+  },
+  {
+    "speaker": "agent",
+    "text": "I can give you the full address for Pivot Point Orthopedics.",
+    "timestamp": 1774600848.5110211
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, I already have the address. I just need some directions on how to get there from, um, downtown area.",
+    "timestamp": 1774600854.819857
+  },
+  {
+    "speaker": "agent",
+    "text": "But I'm not able to provide step by step direct",
+    "timestamp": 1774600862.467147
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay. That\u2019s a bit confusing. Can you at least tell me what main roads or landmarks I should look for?",
+    "timestamp": 1774600863.8216572
+  },
+  {
+    "speaker": "agent",
+    "text": "I can give you the full address",
+    "timestamp": 1774600870.6146429
+  },
+  {
+    "speaker": "patient",
+    "text": "I appreciate that, but I really just need directions. Like, are there any nearby landmarks or major streets I should watch for?",
+    "timestamp": 1774600872.047615
+  },
+  {
+    "speaker": "agent",
+    "text": "for Pivot Point Orthopedics.",
+    "timestamp": 1774600880.4036832
+  },
+  {
+    "speaker": "patient",
+    "text": "Got it, but I'm still not sure how to get there from downtown. Can you help me with any landmarks or main roads I should look out for?",
+    "timestamp": 1774600882.8825102
+  },
+  {
+    "speaker": "agent",
+    "text": "But I can't provide specific directions or",
+    "timestamp": 1774600891.05807
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay, I understand. How about parking? Is there a lot nearby, or should I be on the lookout for street parking?",
+    "timestamp": 1774600893.0560482
+  },
+  {
+    "speaker": "agent",
+    "text": "I'm sorry.",
+    "timestamp": 1774600901.782777
+  },
+  {
+    "speaker": "patient",
+    "text": "No worries! I appreciate your help. If you could just let me know about parking options, that would be great.",
+    "timestamp": 1774600904.0253701
+  }
+]

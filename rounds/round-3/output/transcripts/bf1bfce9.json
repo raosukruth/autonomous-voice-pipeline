@@ -1,0 +1,127 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774672504.9206378
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay! That's fine. Um, I\u2019m just calling to schedule my first appointment as a new patient.",
+    "timestamp": 1774672507.892191
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling Pivot",
+    "timestamp": 1774672515.448315
+  },
+  {
+    "speaker": "patient",
+    "text": "You're welcome! Um, I\u2019m really excited to get started, but I\u2019m a little nervous since it\u2019s my first appointment. Could you help me with that?",
+    "timestamp": 1774672517.1817431
+  },
+  {
+    "speaker": "agent",
+    "text": "Point Orthopedics.",
+    "timestamp": 1774672525.398292
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, I\u2019m sorry, I must have called the wrong place. Um, can you help me find the right number, or should I just hang up?",
+    "timestamp": 1774672529.955449
+  },
+  {
+    "speaker": "agent",
+    "text": "I can help with that.",
+    "timestamp": 1774672538.274734
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, thank you! I really appreciate it. Do you know the number for Pivot?",
+    "timestamp": 1774672540.083526
+  },
+  {
+    "speaker": "agent",
+    "text": "Absolutely. I'm here to help make things easy for you.",
+    "timestamp": 1774672545.231638
+  },
+  {
+    "speaker": "patient",
+    "text": "Thanks! That\u2019s really nice of you. Can you just give me the number so I can call them?",
+    "timestamp": 1774672546.827287
+  },
+  {
+    "speaker": "agent",
+    "text": "To get started, would you like to",
+    "timestamp": 1774672552.858586
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, sorry, I think I might have gotten a bit confused. I just need the number for Pivot, if you have it.",
+    "timestamp": 1774672556.700444
+  },
+  {
+    "speaker": "agent",
+    "text": "No worries at all.",
+    "timestamp": 1774672563.6625059
+  },
+  {
+    "speaker": "patient",
+    "text": "Thanks for being understanding! Could you please give me the number for Pivot? That would really help me out.",
+    "timestamp": 1774672564.839329
+  },
+  {
+    "speaker": "agent",
+    "text": "I don't have a phone numb.",
+    "timestamp": 1774672571.49727
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay. That\u2019s a bummer! Do you know if there's a way I can find it online or maybe through a directory?",
+    "timestamp": 1774672572.8837068
+  },
+  {
+    "speaker": "agent",
+    "text": "I'm sorry, but I don't have the phone number for Pivot.",
+    "timestamp": 1774672579.5926049
+  },
+  {
+    "speaker": "patient",
+    "text": "That's okay, I understand! I\u2019ll try looking it up online then. Thanks for your help!",
+    "timestamp": 1774672581.603617
+  },
+  {
+    "speaker": "agent",
+    "text": "You need it",
+    "timestamp": 1774672586.956226
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, yeah, I really do! If you don't have it, I guess I\u2019ll just have to search for it myself. Thanks for trying to help, though!",
+    "timestamp": 1774672588.191778
+  },
+  {
+    "speaker": "agent",
+    "text": "I understand.",
+    "timestamp": 1774672596.243482
+  },
+  {
+    "speaker": "patient",
+    "text": "Thank you for being patient with me! I really appreciate it. I\u2019ll go ahead and look it up now. Have a great day!",
+    "timestamp": 1774672597.3225951
+  },
+  {
+    "speaker": "agent",
+    "text": "I'm sorry, but I don't have access to the",
+    "timestamp": 1774672604.148823
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, I see. Well, that\u2019s okay! I\u2019ll just do my best to find it on my own. Thanks for your help!",
+    "timestamp": 1774672606.415265
+  },
+  {
+    "speaker": "agent",
+    "text": "Yes. You can usually find clinic",
+    "timestamp": 1774672613.1586492
+  }
+]

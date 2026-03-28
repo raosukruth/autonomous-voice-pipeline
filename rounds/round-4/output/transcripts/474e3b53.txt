@@ -1,0 +1,22 @@
+[1774600798.65] AGENT: This call may be recorded for quality and training purposes.
+[1774600800.20] PATIENT: Uh, okay, that's fine. I'm just looking to get some directions to your office and ask about parking. Can you help me with that?
+[1774600808.36] AGENT: Thank you for calling PivotPoint Orthopedics.
+[1774600809.63] PATIENT: Oh, great! Hi, this is Thomas Anderson. I’m new to the area and I need some directions to your office, if that’s okay.
+[1774600817.80] AGENT: I can help with your quest
+[1774600820.57] PATIENT: Awesome, thank you! So, uh, could you tell me how to get to your office? I want to make sure I don’t get lost.
+[1774600827.50] AGENT: Welcome, Thomas.
+[1774600828.62] PATIENT: Thanks! I appreciate that. So, can you give me the directions? I'm kind of nervous about finding the place.
+[1774600843.37] AGENT: I understand Thomas.
+[1774600845.10] PATIENT: Great! So, what’s the best way to get there?
+[1774600848.51] AGENT: I can give you the full address for Pivot Point Orthopedics.
+[1774600854.82] PATIENT: Oh, I already have the address. I just need some directions on how to get there from, um, downtown area.
+[1774600862.47] AGENT: But I'm not able to provide step by step direct
+[1774600863.82] PATIENT: Oh, okay. That’s a bit confusing. Can you at least tell me what main roads or landmarks I should look for?
+[1774600870.61] AGENT: I can give you the full address
+[1774600872.05] PATIENT: I appreciate that, but I really just need directions. Like, are there any nearby landmarks or major streets I should watch for?
+[1774600880.40] AGENT: for Pivot Point Orthopedics.
+[1774600882.88] PATIENT: Got it, but I'm still not sure how to get there from downtown. Can you help me with any landmarks or main roads I should look out for?
+[1774600891.06] AGENT: But I can't provide specific directions or
+[1774600893.06] PATIENT: Oh, okay, I understand. How about parking? Is there a lot nearby, or should I be on the lookout for street parking?
+[1774600901.78] AGENT: I'm sorry.
+[1774600904.03] PATIENT: No worries! I appreciate your help. If you could just let me know about parking options, that would be great.

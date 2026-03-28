@@ -1,0 +1,152 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774584950.86171
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure, no problem. I\u2019d like to cancel my upcoming appointment, please.",
+    "timestamp": 1774584951.7954009
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling pip",
+    "timestamp": 1774584956.971663
+  },
+  {
+    "speaker": "patient",
+    "text": "You're welcome. I need to cancel my appointment. Can you help me with that?",
+    "timestamp": 1774584958.126343
+  },
+  {
+    "speaker": "agent",
+    "text": "I can help with that.",
+    "timestamp": 1774584963.505216
+  },
+  {
+    "speaker": "patient",
+    "text": "Great! Thanks. Can you confirm my appointment details and then cancel it?",
+    "timestamp": 1774584965.373332
+  },
+  {
+    "speaker": "agent",
+    "text": "I can help you cancel your appointment.",
+    "timestamp": 1774584971.0094788
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, I appreciate that. Can you confirm what date and time my appointment was scheduled for?",
+    "timestamp": 1774584971.883772
+  },
+  {
+    "speaker": "agent",
+    "text": "Before I can act",
+    "timestamp": 1774584978.301554
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure, what do you need from me?",
+    "timestamp": 1774584997.11313
+  },
+  {
+    "speaker": "agent",
+    "text": "To look up your appointment details, I'll need to",
+    "timestamp": 1774584999.6128519
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, go ahead. What do you need?",
+    "timestamp": 1774585001.366046
+  },
+  {
+    "speaker": "agent",
+    "text": "create a demo patient profile for you. Would you like to do that now?",
+    "timestamp": 1774585004.535226
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, I just want to cancel my appointment. Is there a way to locate my appointment without creating a new profile?",
+    "timestamp": 1774585005.793115
+  },
+  {
+    "speaker": "agent",
+    "text": "I just need your first and last name.",
+    "timestamp": 1774585013.844168
+  },
+  {
+    "speaker": "patient",
+    "text": "It's Robert Davis. Can you check my appointment now?",
+    "timestamp": 1774585014.798271
+  },
+  {
+    "speaker": "agent",
+    "text": "I just",
+    "timestamp": 1774585019.0064142
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, sorry, go ahead. What do you need?",
+    "timestamp": 1774585020.5755231
+  },
+  {
+    "speaker": "agent",
+    "text": "To act",
+    "timestamp": 1774585023.813837
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, what do you need me to provide?",
+    "timestamp": 1774585024.50437
+  },
+  {
+    "speaker": "agent",
+    "text": "I checked",
+    "timestamp": 1774585034.0888221
+  },
+  {
+    "speaker": "patient",
+    "text": "Great! Can you let me know the details of my appointment so I can confirm before canceling?",
+    "timestamp": 1774585035.058437
+  },
+  {
+    "speaker": "agent",
+    "text": "and there are no upcoming appointments on file for you right now.",
+    "timestamp": 1774585041.358888
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, I see. Thanks for checking. Just to confirm, I don't have any appointments scheduled for this Thursday, right?",
+    "timestamp": 1774585043.614453
+  },
+  {
+    "speaker": "agent",
+    "text": "There are no upcoming appointments scheduled.",
+    "timestamp": 1774585051.488353
+  },
+  {
+    "speaker": "patient",
+    "text": "Got it. Thanks for your help! Have a good day.",
+    "timestamp": 1774585052.266935
+  },
+  {
+    "speaker": "agent",
+    "text": "You're welcome.",
+    "timestamp": 1774585059.5510778
+  },
+  {
+    "speaker": "patient",
+    "text": "Thanks! Goodbye!",
+    "timestamp": 1774585060.3009658
+  },
+  {
+    "speaker": "agent",
+    "text": "Have a great day.",
+    "timestamp": 1774585061.986346
+  },
+  {
+    "speaker": "patient",
+    "text": "Thank you, take care. Goodbye!",
+    "timestamp": 1774585064.6507149
+  }
+]

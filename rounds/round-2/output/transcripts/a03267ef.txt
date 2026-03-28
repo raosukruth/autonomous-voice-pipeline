@@ -1,0 +1,30 @@
+[1774588067.21] AGENT: This call may be recorded for quality and training purposes.
+[1774588068.17] PATIENT: That's fine. I'm just calling to cancel my upcoming appointment.
+[1774588072.91] AGENT: Thank you for calling PivotPoint Orthopedic.
+[1774588073.79] PATIENT: Uh, yeah, thanks. I need to cancel my appointment.
+[1774588078.28] AGENT: I can help with.
+[1774588080.25] PATIENT: Great, I appreciate it. Can you go ahead and cancel that for me?
+[1774588085.11] AGENT: Before we continue, would you like to
+[1774588086.07] PATIENT: Um, I just want to focus on canceling my appointment, please.
+[1774588096.13] AGENT: understand
+[1774588096.93] PATIENT: Okay, thanks. So, can you cancel my appointment now?
+[1774588101.05] AGENT: To cancel your appointment, I'll need to create a demo patient pro
+[1774588103.98] PATIENT: Uh, can we skip that? I just want to cancel my appointment as quickly as possible.
+[1774588109.72] AGENT: to cancel your appointment, I'll need to set up a
+[1774588110.85] PATIENT: Wait, I'm sorry, but I don't think I need to set anything up to cancel. Can't you just process the cancellation directly?
+[1774588118.88] AGENT: I need
+[1774588119.93] PATIENT: Okay, what do you need from me to cancel? Just let me know.
+[1774588130.21] AGENT: I just need your first and last name to create a demo patient
+[1774588132.15] PATIENT: Sure, it's Robert Davis. Can we just proceed with the cancellation now?
+[1774588137.34] AGENT: profile. Once that's set up, I can cancel your appointment right away.
+[1774588138.93] PATIENT: Um, I’d prefer not to set up a profile if it’s just for a cancellation. Can’t you just cancel it with my name?
+[1774588152.58] AGENT: It looks like there are no up
+[1774588153.54] PATIENT: No upcoming appointments? Okay, thanks for letting me know.
+[1774588157.98] AGENT: upcoming appointments under your name. So
+[1774588159.69] PATIENT: So, I don't need to cancel anything then?
+[1774588163.20] AGENT: nothing to cancel right now.
+[1774588163.99] PATIENT: Got it, thanks for clarifying. I appreciate your help!
+[1774588168.16] AGENT: You're welcome.
+[1774588168.91] PATIENT: Alright, have a good day! Goodbye!
+[1774588176.68] AGENT: Take care. Goodbye.
+[1774588179.50] PATIENT: Thank you, take care. Goodbye!

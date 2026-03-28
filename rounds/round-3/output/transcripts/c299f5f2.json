@@ -1,0 +1,132 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774673706.382918
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, thanks for letting me know! My name is Jennifer Garcia, and I'm calling to check if you accept Blue Cross Blue Shield insurance.",
+    "timestamp": 1774673707.550038
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling PivotPoint Orthopedics.",
+    "timestamp": 1774673716.2822459
+  },
+  {
+    "speaker": "patient",
+    "text": "You're welcome! I just wanted to find out if you accept Blue Cross Blue Shield insurance.",
+    "timestamp": 1774673717.3308659
+  },
+  {
+    "speaker": "agent",
+    "text": "Thanks for sharing your name, Jennifer.",
+    "timestamp": 1774673723.751311
+  },
+  {
+    "speaker": "patient",
+    "text": "Of course! I really appreciate it. So, do you accept Blue Cross Blue Shield?",
+    "timestamp": 1774673725.701296
+  },
+  {
+    "speaker": "agent",
+    "text": "Would you like to create a demo",
+    "timestamp": 1774673731.931582
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, I'm not really looking for a demo. I just wanted to confirm if you accept Blue Cross Blue Shield insurance.",
+    "timestamp": 1774673732.796105
+  },
+  {
+    "speaker": "agent",
+    "text": "You don't need to create a demo profile.",
+    "timestamp": 1774673748.067189
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, got it! So, can you tell me if you accept Blue Cross Blue Shield?",
+    "timestamp": 1774673748.9514291
+  },
+  {
+    "speaker": "agent",
+    "text": "I can help answer your question. Let me check if pivot point",
+    "timestamp": 1774673754.556994
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure, that sounds good. Thank you!",
+    "timestamp": 1774673756.393274
+  },
+  {
+    "speaker": "agent",
+    "text": "I will have access",
+    "timestamp": 1774673759.478196
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, great! Just let me know when you have the information.",
+    "timestamp": 1774673760.682573
+  },
+  {
+    "speaker": "agent",
+    "text": "I'll document your request and let our clinic support team know you want to",
+    "timestamp": 1774673774.8081799
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, I'm not sure I understand. Are you saying you'll check if you accept Blue Cross Blue Shield?",
+    "timestamp": 1774673775.83984
+  },
+  {
+    "speaker": "agent",
+    "text": "confirm if Blue Cross Blue Shield is accepted.",
+    "timestamp": 1774673782.7393029
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay! Thank you for confirming that. I appreciate your help!",
+    "timestamp": 1774673784.418837
+  },
+  {
+    "speaker": "agent",
+    "text": "And we'll get back to you as soon as they can.",
+    "timestamp": 1774673789.2394052
+  },
+  {
+    "speaker": "patient",
+    "text": "Alright, that sounds good! Thank you for your help. I'll wait for your call back.",
+    "timestamp": 1774673790.229192
+  },
+  {
+    "speaker": "agent",
+    "text": "Connecting you to a representative.",
+    "timestamp": 1774673795.318809
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, thank you! I'll hold.",
+    "timestamp": 1774673795.982105
+  },
+  {
+    "speaker": "agent",
+    "text": "Please wait.",
+    "timestamp": 1774673798.964818
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure! I'm here.",
+    "timestamp": 1774673800.8433611
+  },
+  {
+    "speaker": "agent",
+    "text": "Hello. You've reached the Pretty Good AI test line. Goodbye.",
+    "timestamp": 1774673802.881439
+  },
+  {
+    "speaker": "patient",
+    "text": "Uh, wait! I think I might have been connected to the wrong place. Can someone help me with my Blue Cross Blue Shield question?",
+    "timestamp": 1774673804.057407
+  }
+]

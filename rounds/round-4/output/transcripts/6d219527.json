@@ -1,0 +1,152 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774585905.646257
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay! I understand. Um, my name is Jennifer Garcia, and I\u2019m calling to find out if you guys accept Blue Cross Blue Shield insurance.",
+    "timestamp": 1774585907.46306
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling PivotPoint.",
+    "timestamp": 1774585917.0881338
+  },
+  {
+    "speaker": "patient",
+    "text": "You're welcome! Um, I just wanted to check if your office accepts Blue Cross Blue Shield insurance.",
+    "timestamp": 1774585918.437629
+  },
+  {
+    "speaker": "agent",
+    "text": "Hi, Jennifer.",
+    "timestamp": 1774585925.1277618
+  },
+  {
+    "speaker": "patient",
+    "text": "Hi there! So, do you accept Blue Cross Blue Shield insurance?",
+    "timestamp": 1774585927.0528698
+  },
+  {
+    "speaker": "agent",
+    "text": "Jennifer, would you like to create a demo?",
+    "timestamp": 1774585931.993503
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, um, I\u2019m actually just looking to confirm if you accept Blue Cross Blue Shield insurance. Can you help me with that?",
+    "timestamp": 1774585933.087944
+  },
+  {
+    "speaker": "agent",
+    "text": "Jeff, before I",
+    "timestamp": 1774585941.127872
+  },
+  {
+    "speaker": "patient",
+    "text": "Uh, I think you might have mixed up my name. It's Jennifer. But, um, could you let me know about the insurance?",
+    "timestamp": 1774585942.147242
+  },
+  {
+    "speaker": "agent",
+    "text": "I",
+    "timestamp": 1774585949.380343
+  },
+  {
+    "speaker": "patient",
+    "text": "I'm sorry, I didn't catch that. Can you repeat what you said?",
+    "timestamp": 1774585951.248652
+  },
+  {
+    "speaker": "agent",
+    "text": "Thanks for clarifying.",
+    "timestamp": 1774585955.783458
+  },
+  {
+    "speaker": "patient",
+    "text": "No problem! So, do you have any information on whether you accept Blue Cross Blue Shield insurance?",
+    "timestamp": 1774585956.8628721
+  },
+  {
+    "speaker": "agent",
+    "text": "I don't have access to insurance details yet.",
+    "timestamp": 1774585968.777256
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay. Um, is there someone else I can speak to who might have that information? Or when would you have access to it?",
+    "timestamp": 1774585969.823491
+  },
+  {
+    "speaker": "agent",
+    "text": "Would you like to create a demo patient profile? That way, I can help you check",
+    "timestamp": 1774585978.136929
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, sure, I guess that could work. What do you need me to provide for the demo patient profile?",
+    "timestamp": 1774585980.2994292
+  },
+  {
+    "speaker": "agent",
+    "text": "I can connect you to our clinic support team who can answer your insurance question.",
+    "timestamp": 1774585986.767317
+  },
+  {
+    "speaker": "patient",
+    "text": "That sounds great! Can you connect me to them, please?",
+    "timestamp": 1774585987.650814
+  },
+  {
+    "speaker": "agent",
+    "text": "Please stay on the line while I transfer you.",
+    "timestamp": 1774585992.236545
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, I\u2019ll hold. Thanks!",
+    "timestamp": 1774585992.9304361
+  },
+  {
+    "speaker": "agent",
+    "text": "Connecting you to a representative.",
+    "timestamp": 1774585996.029412
+  },
+  {
+    "speaker": "patient",
+    "text": "Thank you!",
+    "timestamp": 1774585997.529053
+  },
+  {
+    "speaker": "agent",
+    "text": "Please wait.",
+    "timestamp": 1774585998.999508
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure, I'll wait.",
+    "timestamp": 1774585999.649926
+  },
+  {
+    "speaker": "agent",
+    "text": "Hello. You've reached the Pretty Good AI test line.",
+    "timestamp": 1774586001.470585
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, hi! I think I was supposed to get transferred to someone who can help with my insurance question.",
+    "timestamp": 1774586002.6394181
+  },
+  {
+    "speaker": "agent",
+    "text": "Goodbye.",
+    "timestamp": 1774586009.716653
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay. Thank you anyway! Goodbye!",
+    "timestamp": 1774586011.424155
+  }
+]

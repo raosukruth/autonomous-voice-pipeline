@@ -1,0 +1,40 @@
+[1774588199.88] AGENT: This call may be recorded for quality and training purposes.
+[1774588201.08] PATIENT: Oh, that's fine, dear. I understand. My name is Linda Williams, and I’m calling to request a refill for my lisinopril 10mg medication.
+[1774588210.38] AGENT: Thank you for calling PivotPoint
+[1774588211.70] PATIENT: You're welcome! I appreciate you taking my call. I just need to get a refill for my blood pressure medication, if that's possible.
+[1774588220.30] AGENT: Thanks for sharing.
+[1774588223.05] PATIENT: Of course! Um, do you need any other information from me to process the refill?
+[1774588228.28] AGENT: I can help with your
+[1774588229.47] PATIENT: I'm sorry, could you repeat that? I didn’t catch what you said.
+[1774588241.02] AGENT: No problem. To help with your ref
+[1774588242.26] PATIENT: Oh, okay! What do you need from me to help with my refill?
+[1774588246.10] AGENT: refill, I'll need to create a demo patient profile for you.
+[1774588249.29] PATIENT: Sure, I can do that. What information do you need to create the profile?
+[1774588254.08] AGENT: May I have your first and last name?
+[1774588255.11] PATIENT: Yes, it’s Linda Williams.
+[1774588257.45] AGENT: I just need your first and last
+[1774588258.20] PATIENT: Oh, I see! It’s just Linda Williams.
+[1774588271.02] AGENT: Thank you, Linda Williams. Let me create your
+[1774588273.98] PATIENT: Okay, that sounds good! Please let me know if you need anything else from me.
+[1774588278.72] AGENT: profile so I can help with your refill request. One moment.
+[1774588281.52] PATIENT: Sure, take your time! I'm here.
+[1774588284.24] AGENT: Your patient profile has been created, and
+[1774588285.17] PATIENT: Great! Thank you for that. What’s the next step for my refill request?
+[1774588290.29] AGENT: your date of birth is July fourth two thousand for demo purposes.
+[1774588293.23] PATIENT: Oh, um, that’s not quite right. My date of birth is August 14, 1955. Would you like me to confirm anything else?
+[1774588302.11] AGENT: How may I help you today?
+[1774588303.40] PATIENT: I’m calling to request a refill for my lisinopril 10mg medication. I just wanted to make sure that’s all set.
+[1774588310.82] AGENT: Thanks for waiting, Linda. What medication do you need refilled?
+[1774588311.96] PATIENT: I need a refill for my lisinopril 10mg, please. It's the one I take for my blood pressure.
+[1774588318.88] AGENT: Thanks, Linda.
+[1774588321.21] PATIENT: You're welcome! Um, do you need any more information from me to complete the refill?
+[1774588326.09] AGENT: Just to confirm, is the medication was in a
+[1774588327.00] PATIENT: Sorry, could you repeat that? I didn’t quite catch what you said about the medication.
+[1774588332.49] AGENT: Yes,
+[1774588333.66] PATIENT: Okay, thank you! What do you need to confirm about the medication?
+[1774588343.53] AGENT: I need to confirm the medication name.
+[1774588346.07] PATIENT: Sure! The medication name is lisinopril. It's 10mg.
+[1774588350.37] AGENT: Is it wasinopril ten milligrams for your blood pressure?
+[1774588351.64] PATIENT: Oh, no, it’s lisinopril, not wasinopril. It's 10mg for my blood pressure.
+[1774588365.17] AGENT: Thank you for clarifying. Is the dosage ten milligrams, and how often do you take it?
+[1774588366.18] PATIENT: Yes, that's correct! It's ten milligrams, and I take it once a day.

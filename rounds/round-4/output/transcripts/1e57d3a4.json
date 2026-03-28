@@ -1,0 +1,202 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774588199.8772779
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, that's fine, dear. I understand. My name is Linda Williams, and I\u2019m calling to request a refill for my lisinopril 10mg medication.",
+    "timestamp": 1774588201.083143
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling PivotPoint",
+    "timestamp": 1774588210.3783062
+  },
+  {
+    "speaker": "patient",
+    "text": "You're welcome! I appreciate you taking my call. I just need to get a refill for my blood pressure medication, if that's possible.",
+    "timestamp": 1774588211.702199
+  },
+  {
+    "speaker": "agent",
+    "text": "Thanks for sharing.",
+    "timestamp": 1774588220.3012009
+  },
+  {
+    "speaker": "patient",
+    "text": "Of course! Um, do you need any other information from me to process the refill?",
+    "timestamp": 1774588223.0549939
+  },
+  {
+    "speaker": "agent",
+    "text": "I can help with your",
+    "timestamp": 1774588228.2843971
+  },
+  {
+    "speaker": "patient",
+    "text": "I'm sorry, could you repeat that? I didn\u2019t catch what you said.",
+    "timestamp": 1774588229.47298
+  },
+  {
+    "speaker": "agent",
+    "text": "No problem. To help with your ref",
+    "timestamp": 1774588241.016723
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay! What do you need from me to help with my refill?",
+    "timestamp": 1774588242.264957
+  },
+  {
+    "speaker": "agent",
+    "text": "refill, I'll need to create a demo patient profile for you.",
+    "timestamp": 1774588246.1001642
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure, I can do that. What information do you need to create the profile?",
+    "timestamp": 1774588249.29409
+  },
+  {
+    "speaker": "agent",
+    "text": "May I have your first and last name?",
+    "timestamp": 1774588254.07637
+  },
+  {
+    "speaker": "patient",
+    "text": "Yes, it\u2019s Linda Williams.",
+    "timestamp": 1774588255.114452
+  },
+  {
+    "speaker": "agent",
+    "text": "I just need your first and last",
+    "timestamp": 1774588257.4533482
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, I see! It\u2019s just Linda Williams.",
+    "timestamp": 1774588258.197692
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you, Linda Williams. Let me create your",
+    "timestamp": 1774588271.02162
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, that sounds good! Please let me know if you need anything else from me.",
+    "timestamp": 1774588273.978689
+  },
+  {
+    "speaker": "agent",
+    "text": "profile so I can help with your refill request. One moment.",
+    "timestamp": 1774588278.719012
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure, take your time! I'm here.",
+    "timestamp": 1774588281.5161622
+  },
+  {
+    "speaker": "agent",
+    "text": "Your patient profile has been created, and",
+    "timestamp": 1774588284.242792
+  },
+  {
+    "speaker": "patient",
+    "text": "Great! Thank you for that. What\u2019s the next step for my refill request?",
+    "timestamp": 1774588285.171178
+  },
+  {
+    "speaker": "agent",
+    "text": "your date of birth is July fourth two thousand for demo purposes.",
+    "timestamp": 1774588290.291617
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, um, that\u2019s not quite right. My date of birth is August 14, 1955. Would you like me to confirm anything else?",
+    "timestamp": 1774588293.225479
+  },
+  {
+    "speaker": "agent",
+    "text": "How may I help you today?",
+    "timestamp": 1774588302.108263
+  },
+  {
+    "speaker": "patient",
+    "text": "I\u2019m calling to request a refill for my lisinopril 10mg medication. I just wanted to make sure that\u2019s all set.",
+    "timestamp": 1774588303.399659
+  },
+  {
+    "speaker": "agent",
+    "text": "Thanks for waiting, Linda. What medication do you need refilled?",
+    "timestamp": 1774588310.818231
+  },
+  {
+    "speaker": "patient",
+    "text": "I need a refill for my lisinopril 10mg, please. It's the one I take for my blood pressure.",
+    "timestamp": 1774588311.9602299
+  },
+  {
+    "speaker": "agent",
+    "text": "Thanks, Linda.",
+    "timestamp": 1774588318.879325
+  },
+  {
+    "speaker": "patient",
+    "text": "You're welcome! Um, do you need any more information from me to complete the refill?",
+    "timestamp": 1774588321.213078
+  },
+  {
+    "speaker": "agent",
+    "text": "Just to confirm, is the medication was in a",
+    "timestamp": 1774588326.086165
+  },
+  {
+    "speaker": "patient",
+    "text": "Sorry, could you repeat that? I didn\u2019t quite catch what you said about the medication.",
+    "timestamp": 1774588327.003225
+  },
+  {
+    "speaker": "agent",
+    "text": "Yes,",
+    "timestamp": 1774588332.487419
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, thank you! What do you need to confirm about the medication?",
+    "timestamp": 1774588333.658119
+  },
+  {
+    "speaker": "agent",
+    "text": "I need to confirm the medication name.",
+    "timestamp": 1774588343.532496
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure! The medication name is lisinopril. It's 10mg.",
+    "timestamp": 1774588346.067086
+  },
+  {
+    "speaker": "agent",
+    "text": "Is it wasinopril ten milligrams for your blood pressure?",
+    "timestamp": 1774588350.3667278
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, no, it\u2019s lisinopril, not wasinopril. It's 10mg for my blood pressure.",
+    "timestamp": 1774588351.638467
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for clarifying. Is the dosage ten milligrams, and how often do you take it?",
+    "timestamp": 1774588365.1662579
+  },
+  {
+    "speaker": "patient",
+    "text": "Yes, that's correct! It's ten milligrams, and I take it once a day.",
+    "timestamp": 1774588366.179272
+  }
+]

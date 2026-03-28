@@ -1,0 +1,50 @@
+[1774587661.72] AGENT: This call may be recorded for quality and training purposes.
+[1774587662.96] PATIENT: That's fine, I understand. I'm calling to schedule a follow-up appointment.
+[1774587668.45] AGENT: Thank you for calling PivotPoint Ortho
+[1774587669.46] PATIENT: You're welcome! I’d like to schedule a follow-up appointment, please.
+[1774587680.74] AGENT: To help you schedule your follow-up appointment,
+[1774587682.61] PATIENT: Sure, what do you need from me?
+[1774587685.24] AGENT: would you like to create a demo patient profile? I just need your first and last name to get started.
+[1774587687.78] PATIENT: Oh, I don’t think I need a demo patient profile. I’m already a patient. My name is Michael Torres.
+[1774587694.35] AGENT: I just need your first and last name to create your demo patient.
+[1774587695.85] PATIENT: Um, okay, it’s Michael Torres. But I’d prefer to just schedule my follow-up since I’m already in your system.
+[1774587703.29] AGENT: Thanks.
+[1774587705.65] PATIENT: No problem! Could we go ahead and schedule that follow-up appointment?
+[1774587710.02] AGENT: Understood. Let me check for
+[1774587711.18] PATIENT: Sure, take your time.
+[1774587719.48] AGENT: Thanks for your patience.
+[1774587720.53] PATIENT: Of course! Just let me know what dates you have available.
+[1774587724.41] AGENT: Before I can check the schedule, I need to create a demo patient profile for you.
+[1774587727.29] PATIENT: Alright, I understand. What do you need next to create that profile?
+[1774587732.34] AGENT: May I confirm your first
+[1774587733.22] PATIENT: Sure, it's Michael. What else do you need?
+[1774587736.29] AGENT: Thank you, Michael.
+[1774587737.59] PATIENT: You're welcome! What else do you need to get that profile set up?
+[1774587741.71] AGENT: Thanks, Mike.
+[1774587743.79] PATIENT: No problem! Just let me know what you need to continue.
+[1774587747.81] AGENT: I just need your last name to complete your
+[1774587748.89] PATIENT: It's Torres. Can we get back to scheduling my follow-up appointment now?
+[1774587764.66] AGENT: Thanks, Michael.
+[1774587765.90] PATIENT: You’re welcome! So, what dates do you have available for the follow-up?
+[1774587770.56] AGENT: For your follow-up appointment,
+[1774587772.92] PATIENT: Got it! What dates are available?
+[1774587775.78] AGENT: do you have a preferred provider or day and time, or would you like to hear the next available
+[1774587776.86] PATIENT: I don't have a specific provider, so the next available time works for me.
+[1774587781.95] AGENT: options?
+[1774587782.73] PATIENT: Yes, please! What do you have?
+[1774587794.38] AGENT: The next available follow-up appointment is tomorrow
+[1774587796.69] PATIENT: Great! What time is that for tomorrow?
+[1774587799.92] AGENT: Friday, March twenty seventh at ten AM with doctor Dougie Houser.
+[1774587801.00] PATIENT: That works for me! I'll take that appointment at 10 AM with Dr. Houser.
+[1774587806.51] AGENT: Would you like to book that or hear about
+[1774587807.63] PATIENT: I’d like to book that appointment, please.
+[1774587810.56] AGENT: The earliest
+[1774587813.47] PATIENT: No, I’m good with the 10 AM tomorrow appointment with Dr. Houser. Thank you!
+[1774587825.89] AGENT: There was an issue booking your appointment.
+[1774587827.44] PATIENT: Oh, I see. What seems to be the problem?
+[1774587831.03] AGENT: Let me try again to secure your spot for tomorrow at ten AM with doctor Hauser.
+[1774587831.83] PATIENT: Okay, sounds good. Thank you for trying again!
+[1774587835.42] AGENT: One moment.
+[1774587837.52] PATIENT: Sure, I’ll wait.
+[1774587841.54] AGENT: It looks like there's a technical
+[1774587842.58] PATIENT: Oh no, I hope it’s not a big issue. What do we do next?

@@ -1,0 +1,122 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774600600.691096
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, that's totally fine! I understand. Um, I\u2019m just calling to find out your office hours, especially if you\u2019re open on Saturdays.",
+    "timestamp": 1774600602.0449321
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling PivotPoint.",
+    "timestamp": 1774600610.738801
+  },
+  {
+    "speaker": "patient",
+    "text": "You're welcome! I'm Patricia Brown, and I just need to know if you're open on Saturdays.",
+    "timestamp": 1774600612.010477
+  },
+  {
+    "speaker": "agent",
+    "text": "I",
+    "timestamp": 1774600617.735693
+  },
+  {
+    "speaker": "patient",
+    "text": "Uh, hello? Did you say something? I didn\u2019t catch that.",
+    "timestamp": 1774600619.763253
+  },
+  {
+    "speaker": "agent",
+    "text": "Thanks for sharing your name.",
+    "timestamp": 1774600624.171895
+  },
+  {
+    "speaker": "patient",
+    "text": "No problem! So, can you let me know if you're open on Saturdays? It would really help me out.",
+    "timestamp": 1774600625.109907
+  },
+  {
+    "speaker": "agent",
+    "text": "Nope.",
+    "timestamp": 1774600631.478994
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, um, okay. Do you have any other days or times that work for patients who can only come in on weekends?",
+    "timestamp": 1774600632.635062
+  },
+  {
+    "speaker": "agent",
+    "text": "I don't",
+    "timestamp": 1774600639.749578
+  },
+  {
+    "speaker": "patient",
+    "text": "Got it, thanks for clarifying. I appreciate your help! So, just to confirm, you're not open at all on Saturdays, right?",
+    "timestamp": 1774600641.6237319
+  },
+  {
+    "speaker": "agent",
+    "text": "I don't have the",
+    "timestamp": 1774600649.660328
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, I see. No worries! If you don\u2019t have the info, is there someone else I could talk to who might?",
+    "timestamp": 1774600652.770002
+  },
+  {
+    "speaker": "agent",
+    "text": "I don't have the exact office hours available, so",
+    "timestamp": 1774600660.16662
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, no problem! Um, could you suggest a way for me to find out the office hours? Like, maybe a website or something?",
+    "timestamp": 1774600661.513203
+  },
+  {
+    "speaker": "agent",
+    "text": "I can connect you to our clinic support team for more details about weekend hours.",
+    "timestamp": 1774600677.911521
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure, that would be great! Thank you for helping me out.",
+    "timestamp": 1774600680.155453
+  },
+  {
+    "speaker": "agent",
+    "text": "Please stay on the line while I transfer you.",
+    "timestamp": 1774600683.878083
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, I\u2019ll wait. Thanks!",
+    "timestamp": 1774600684.5303628
+  },
+  {
+    "speaker": "agent",
+    "text": "Connecting you to a representative. Please wait.",
+    "timestamp": 1774600687.2512078
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure! I'm here. Thank you!",
+    "timestamp": 1774600687.9786859
+  },
+  {
+    "speaker": "agent",
+    "text": "Hello. You've reached the Pretty Good AI test line. Goodbye.",
+    "timestamp": 1774600690.6195898
+  },
+  {
+    "speaker": "patient",
+    "text": "Uh, wait! I was just trying to find out about office hours. Can I get connected to someone who can help?",
+    "timestamp": 1774600692.4340181
+  }
+]

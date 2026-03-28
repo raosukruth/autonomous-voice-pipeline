@@ -1,0 +1,182 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774676212.875422
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, that's fine. I'm just looking to schedule a follow-up appointment.",
+    "timestamp": 1774676214.896346
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling Pivot Point.",
+    "timestamp": 1774676219.691298
+  },
+  {
+    "speaker": "patient",
+    "text": "You're welcome! I\u2019d like to schedule a follow-up appointment, please.",
+    "timestamp": 1774676221.729556
+  },
+  {
+    "speaker": "agent",
+    "text": "Would you like to create a demo patient profile so I can help you",
+    "timestamp": 1774676237.0492759
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure, I can do that. What do you need from me to create the profile?",
+    "timestamp": 1774676239.281363
+  },
+  {
+    "speaker": "agent",
+    "text": "schedule your follow-up appointment?",
+    "timestamp": 1774676243.674834
+  },
+  {
+    "speaker": "patient",
+    "text": "Yes, I\u2019d like to schedule my follow-up appointment. What information do you need to get that set up?",
+    "timestamp": 1774676244.505753
+  },
+  {
+    "speaker": "agent",
+    "text": "I just need your first and last name to get started.",
+    "timestamp": 1774676250.725209
+  },
+  {
+    "speaker": "patient",
+    "text": "It's Michael Torres.",
+    "timestamp": 1774676251.3355598
+  },
+  {
+    "speaker": "agent",
+    "text": "Your patient profile is set up, and your date of birth is July fourth",
+    "timestamp": 1774676262.799653
+  },
+  {
+    "speaker": "patient",
+    "text": "Actually, it\u2019s July 22nd, 1975. Can you update that, please?",
+    "timestamp": 1774676264.9288661
+  },
+  {
+    "speaker": "agent",
+    "text": "two thousand.",
+    "timestamp": 1774676271.51657
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, no, it\u2019s actually 1975. Can we make sure that\u2019s updated correctly?",
+    "timestamp": 1774676272.358227
+  },
+  {
+    "speaker": "agent",
+    "text": "May I help you today?",
+    "timestamp": 1774676278.8335428
+  },
+  {
+    "speaker": "patient",
+    "text": "Yes, I'm trying to schedule a follow-up appointment. Can we get that set up?",
+    "timestamp": 1774676279.754018
+  },
+  {
+    "speaker": "agent",
+    "text": "Let's get your follow-up appointment scheduled.",
+    "timestamp": 1774676299.757231
+  },
+  {
+    "speaker": "patient",
+    "text": "Great! What dates and times do you have available?",
+    "timestamp": 1774676301.3148391
+  },
+  {
+    "speaker": "agent",
+    "text": "Do you have a preferred provider or day and time for your visit?",
+    "timestamp": 1774676305.272695
+  },
+  {
+    "speaker": "patient",
+    "text": "I don\u2019t have a specific provider, but I\u2019m flexible with dates. How about sometime next week?",
+    "timestamp": 1774676306.3547158
+  },
+  {
+    "speaker": "agent",
+    "text": "We have oak",
+    "timestamp": 1774676312.432391
+  },
+  {
+    "speaker": "patient",
+    "text": "Could you repeat that? It sounded like you said \"oak.\" Are you referring to a specific provider or location?",
+    "timestamp": 1774676313.98057
+  },
+  {
+    "speaker": "agent",
+    "text": "I can check openings with any provider at Pivot Point Orthopedics",
+    "timestamp": 1774676329.448881
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, that works. Can you check for available openings at any provider for next week?",
+    "timestamp": 1774676332.2784672
+  },
+  {
+    "speaker": "agent",
+    "text": "for a follow-up appointment next week. Do you prefer mornings or afternoon?",
+    "timestamp": 1774676338.119147
+  },
+  {
+    "speaker": "patient",
+    "text": "Afternoons would be best for me. What do you have available?",
+    "timestamp": 1774676339.254703
+  },
+  {
+    "speaker": "agent",
+    "text": "The next available afternoon slot is Monday,",
+    "timestamp": 1774676350.6856441
+  },
+  {
+    "speaker": "patient",
+    "text": "That works for me. What time on Monday do you have?",
+    "timestamp": 1774676351.6129038
+  },
+  {
+    "speaker": "agent",
+    "text": "March thirtieth at one PM with doctor Doovie Hauser.",
+    "timestamp": 1774676355.5225751
+  },
+  {
+    "speaker": "patient",
+    "text": "Perfect! So that\u2019s March 30th at 1 PM with Dr. Doovie Hauser. Do I need to bring any paperwork or anything?",
+    "timestamp": 1774676357.651111
+  },
+  {
+    "speaker": "agent",
+    "text": "I have an opening on Monday, March",
+    "timestamp": 1774676366.159136
+  },
+  {
+    "speaker": "patient",
+    "text": "Just to clarify, is that still for March 30th? Because I think I have that scheduled already.",
+    "timestamp": 1774676367.173122
+  },
+  {
+    "speaker": "agent",
+    "text": "Yes.",
+    "timestamp": 1774676379.317649
+  },
+  {
+    "speaker": "patient",
+    "text": "Great! Thanks for confirming. Is there any paperwork I need to fill out before the appointment?",
+    "timestamp": 1774676380.1749818
+  },
+  {
+    "speaker": "agent",
+    "text": "The available slot is for Monday, March thirtieth,",
+    "timestamp": 1774676386.1764271
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, I understand. So, I\u2019m all set for March 30th at 1 PM with Dr. Doovie Hauser. Thanks for your help!",
+    "timestamp": 1774676389.3863602
+  }
+]

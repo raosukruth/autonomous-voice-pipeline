@@ -1,0 +1,40 @@
+[1774600098.24] AGENT: This call may be recorded for quality and training purposes.
+[1774600099.24] PATIENT: Okay. I'm calling to cancel my upcoming appointment.
+[1774600104.17] AGENT: Thank you for calling
+[1774600104.89] PATIENT: You're welcome. Could you help me cancel that appointment?
+[1774600108.89] AGENT: I can help with that.
+[1774600110.60] PATIENT: Great, thanks. I just want to make sure it's canceled.
+[1774600114.80] AGENT: Before I can help, would you like to create
+[1774600115.77] PATIENT: Uh, I just want to cancel my appointment. I’m not looking to create anything right now.
+[1774600127.13] AGENT: No problem.
+[1774600127.80] PATIENT: Thanks. Could you please confirm the appointment details for me?
+[1774600132.60] AGENT: If you change your mind, you can scan the QR code at the booth to create a
+[1774600134.41] PATIENT: I appreciate that, but I really just need to cancel my appointment. Can you confirm the details for me?
+[1774600140.99] AGENT: I'm unable to access your
+[1774600141.95] PATIENT: Oh, okay. Is there any other information you need from me to cancel it?
+[1774600146.76] AGENT: I'm not able
+[1774600148.50] PATIENT: I see. Can you tell me what you need to proceed with the cancellation?
+[1774600153.21] AGENT: Since you don't have a
+[1774600155.10] PATIENT: I'm sorry, but I'm not sure what you mean. Can you clarify what you're looking for?
+[1774600160.04] AGENT: To cancel your appointment,
+[1774600160.76] PATIENT: Okay, what do you need from me to get that done?
+[1774600168.79] AGENT: To cancel your appointment,
+[1774600169.95] PATIENT: I understand, but it seems like we're stuck. Can you let me know what specific information you need from me?
+[1774600176.89] AGENT: I need to create a demo patient profile for you. I just need your first and last name to
+[1774600178.87] PATIENT: I already provided my name; it's Robert Davis. Can you just go ahead and cancel my appointment, please?
+[1774600185.92] AGENT: To move forward with canceling
+[1774600187.06] PATIENT: I get that, but I thought you had my name. Is there anything else you need to proceed?
+[1774600197.37] AGENT: I checked
+[1774600198.32] PATIENT: Okay, so can you cancel my appointment now?
+[1774600201.77] AGENT: and there are no upcoming appointments found under your name.
+[1774600203.90] PATIENT: Oh, really? That's strange. I was sure I had one scheduled. Can you double-check with the phone number I provided?
+[1774600211.65] AGENT: Looks like there's nothing to cancel right
+[1774600215.03] PATIENT: I see. Well, thanks for checking. If I need to schedule something later, I’ll reach out.
+[1774600221.15] AGENT: There are no upcoming appointments on?
+[1774600222.07] PATIENT: No, it seems there are none. Thanks for your help!
+[1774600225.61] AGENT: I already checked your profile using your name and phone.
+[1774600227.17] PATIENT: Got it. Thanks for confirming that. Have a good day!
+[1774600231.20] AGENT: You're welcome.
+[1774600231.84] PATIENT: Thanks! Goodbye!
+[1774600237.40] AGENT: Goodbye.
+[1774600240.35] PATIENT: Thank you, take care. Goodbye!

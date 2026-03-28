@@ -1,0 +1,14 @@
+[1774681638.68] AGENT: This call may be recorded for quality and training purposes.
+[1774681639.84] PATIENT: Oh, that's fine! I'm just looking to find out your office hours, um, especially if you're open on Saturdays.
+[1774681647.61] AGENT: Thank you for calling PivotPoint
+[1774681648.66] PATIENT: You're welcome! I just wanted to check if you're open on Saturdays. Could you let me know your office hours?
+[1774681655.90] AGENT: I can help
+[1774681658.24] PATIENT: Great! So, are you open on Saturdays? What are your hours?
+[1774681663.10] AGENT: I don't have the ability
+[1774681664.10] PATIENT: Oh, okay. Um, could you transfer me to someone who might have that information?
+[1774681669.61] AGENT: I don't
+[1774681671.38] PATIENT: Um, I see. That's a bit confusing. Is there a way I can find out the office hours, maybe through your website or something?
+[1774681679.93] AGENT: Connecting you to a representative. Please wait.
+[1774681681.78] PATIENT: Sure, I'll wait. Thanks!
+[1774681684.51] AGENT: Hello. You've reached the Pretty Good AI test line. Goodbye.
+[1774681685.59] PATIENT: Uh, wait! I really need to find out about the office hours. Can you connect me to someone who can help?

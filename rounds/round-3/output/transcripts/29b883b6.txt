@@ -1,0 +1,44 @@
+[1774676799.88] AGENT: This call may be recorded for quality and training purposes.
+[1774676801.37] PATIENT: Oh, that's fine, dear. I understand. How can I help you today?
+[1774676806.24] AGENT: Thank you for calling PivotPoint
+[1774676807.52] PATIENT: You're welcome! Um, I’m calling to request a refill for my blood pressure medication, lisinopril 10mg.
+[1774676814.56] AGENT: How can I assist you?
+[1774676816.68] PATIENT: I just need to get a refill on my lisinopril, please. I take one 10mg tablet a day.
+[1774676823.51] AGENT: I can help with your refill request.
+[1774676825.00] PATIENT: Oh, thank you! That would be wonderful. Is there anything you need from me to process that?
+[1774676830.29] AGENT: To help with your refill,
+[1774676831.23] PATIENT: Uh, I’m here! What do you need from me?
+[1774676840.88] AGENT: To get started, I'll need your first and last name to
+[1774676842.58] PATIENT: Sure! It's Linda Williams.
+[1774676845.61] AGENT: create a demo patient profile.
+[1774676846.70] PATIENT: Alright, that sounds good! What else do you need from me?
+[1774676850.33] AGENT: Could you please tell me your name?
+[1774676851.49] PATIENT: Yes, it's Linda Williams. I just gave that, but um, is there anything else?
+[1774676857.11] AGENT: What pharmacy do you use
+[1774676861.82] PATIENT: Oh, I use the Walgreens down on Maple Street.
+[1774676865.58] AGENT: for your lisinopril refill? Please confirm the location.
+[1774676866.62] PATIENT: Yes, that's correct! The Walgreens on Maple Street is where I get my lisinopril.
+[1774676872.40] AGENT: When did you last
+[1774676873.39] PATIENT: Um, I last got a refill about 30 days ago.
+[1774676877.40] AGENT: When did
+[1774676879.69] PATIENT: Oh, I'm sorry, could you repeat that? I didn't quite catch it. What do you need to know?
+[1774676885.54] AGENT: How many days of your medication do you have left?
+[1774676886.98] PATIENT: Um, I think I have about a week left. So, I’d really appreciate getting that refill soon!
+[1774676894.56] AGENT: How many days of your life in a pro do you
+[1774676895.81] PATIENT: I'm sorry, I didn't quite understand that. Could you clarify what you mean by "days of your life in a pro"?
+[1774676909.94] AGENT: No problem. I was asking how many days of your lisinopril you
+[1774676912.16] PATIENT: Oh, I see! I have about seven days left of my lisinopril. Thank you for clarifying!
+[1774676918.20] AGENT: left, and you mentioned about a week.
+[1774676919.26] PATIENT: Yes, that's right! Just about a week left. I really appreciate your help with this.
+[1774676924.99] AGENT: You for clarifying. Are you experienced
+[1774676926.17] PATIENT: Um, I’m not sure what you mean by "experienced." Could you explain that a bit more?
+[1774676932.33] AGENT: Are you
+[1774676935.16] PATIENT: Oh, it seems like there might be a little mix-up. Could you repeat that last part for me? I'm not quite sure what you're asking.
+[1774676943.58] AGENT: Since you're requesting a
+[1774676944.66] PATIENT: Oh, yes, I’m requesting a refill for my lisinopril. Is there anything else you need from me to help with that?
+[1774676952.13] AGENT: Of course. Are you having any new or worsening
+[1774676953.92] PATIENT: No, I’m not having any new or worsening symptoms. Just the same routine with my blood pressure. Thank you for asking!
+[1774676962.51] AGENT: No problem.
+[1774676964.83] PATIENT: Thank you! So, is there anything else you need to process the refill?
+[1774676969.62] AGENT: Just one more thing.
+[1774676970.50] PATIENT: Sure! What do you need? I'm here to help.

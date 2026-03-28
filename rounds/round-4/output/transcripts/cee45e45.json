@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774489079.311033
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, that\u2019s fine. I\u2019m just calling to check if you accept Blue Cross Blue Shield insurance.",
+    "timestamp": 1774489080.2346828
+  },
+  {
+    "speaker": "agent",
+    "text": "I can help with that.",
+    "timestamp": 1774489090.797864
+  },
+  {
+    "speaker": "patient",
+    "text": "Great, thank you! I recently switched to Blue Cross Blue Shield, and I want to make sure I'm covered before scheduling an appointment.",
+    "timestamp": 1774489091.827122
+  },
+  {
+    "speaker": "agent",
+    "text": "Before we continue, would you like to create a demo patient profile?",
+    "timestamp": 1774489100.141325
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, I\u2019m not sure what you mean by a demo patient profile. I just want to know about my insurance coverage. Do I need to provide any specific information?",
+    "timestamp": 1774489101.340159
+  },
+  {
+    "speaker": "agent",
+    "text": "Would you like to",
+    "timestamp": 1774489110.9270358
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, um, no, I think I\u2019d prefer to just stick with checking my insurance coverage. Can you help me with that?",
+    "timestamp": 1774489111.866519
+  },
+  {
+    "speaker": "agent",
+    "text": "You don't need to create a profile just to ask about insurance.",
+    "timestamp": 1774489126.934101
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay, that\u2019s good to know! So, can you tell me if you accept Blue Cross Blue Shield?",
+    "timestamp": 1774489128.17119
+  },
+  {
+    "speaker": "agent",
+    "text": "I'll check if Blue Cross Blue Shield is accepted. One moment.",
+    "timestamp": 1774489134.102619
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure, take your time!",
+    "timestamp": 1774489134.948479
+  },
+  {
+    "speaker": "agent",
+    "text": "You don't need to create a profile. Just",
+    "timestamp": 1774489137.354568
+  },
+  {
+    "speaker": "patient",
+    "text": "I\u2019m sorry, could you repeat that? I didn\u2019t catch what you said.",
+    "timestamp": 1774489138.3356311
+  },
+  {
+    "speaker": "agent",
+    "text": "Yeah.",
+    "timestamp": 1774489142.9797492
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay. So, do you have any information on whether you accept Blue Cross Blue Shield?",
+    "timestamp": 1774489143.795063
+  },
+  {
+    "speaker": "agent",
+    "text": "I'll have direct access to insurance plan details.",
+    "timestamp": 1774489156.579554
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, that's helpful! So, can you confirm if my plan is accepted?",
+    "timestamp": 1774489157.636621
+  },
+  {
+    "speaker": "agent",
+    "text": "But most clinics do accept Blue Cross Blue Shield.",
+    "timestamp": 1774489162.6904871
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, that\u2019s reassuring! But just to be sure, can you check if my specific plan is accepted?",
+    "timestamp": 1774489163.5331688
+  },
+  {
+    "speaker": "agent",
+    "text": "For the most accurate answer, I recommend",
+    "timestamp": 1774489169.570143
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, recommend what? Sorry, I didn\u2019t catch that.",
+    "timestamp": 1774489170.346663
+  },
+  {
+    "speaker": "agent",
+    "text": "I don't have access to your specific insurance plan details.",
+    "timestamp": 1774489183.382833
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, I see. So, what should I do then to find out if my specific plan is accepted?",
+    "timestamp": 1774489186.799045
+  },
+  {
+    "speaker": "agent",
+    "text": "To confirm if your Blue Cross Blue Shield plan is accepted,",
+    "timestamp": 1774489192.835068
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, I\u2019m listening. What do I need to do?",
+    "timestamp": 1774489193.6343198
+  },
+  {
+    "speaker": "agent",
+    "text": "please check with the clinic's front desk or scan the QR code at the booth for more.",
+    "timestamp": 1774489197.241834
+  },
+  {
+    "speaker": "patient",
+    "text": "Got it! I\u2019ll check with the front desk or scan the QR code. Thank you for the help!",
+    "timestamp": 1774489198.120179
+  },
+  {
+    "speaker": "agent",
+    "text": "You're welcome. If you have any other questions,",
+    "timestamp": 1774489209.789243
+  },
+  {
+    "speaker": "patient",
+    "text": "I think that\u2019s all for now. Thanks again for your help! Have a great day!",
+    "timestamp": 1774489210.927493
+  },
+  {
+    "speaker": "agent",
+    "text": "feel free to ask.",
+    "timestamp": 1774489216.148399
+  },
+  {
+    "speaker": "patient",
+    "text": "I will, thank you! Bye!",
+    "timestamp": 1774489216.889642
+  }
+]

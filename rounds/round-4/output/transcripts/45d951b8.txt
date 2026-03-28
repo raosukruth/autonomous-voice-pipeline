@@ -1,0 +1,32 @@
+[1774677449.37] AGENT: This call may be recorded for quality and training purposes.
+[1774677450.74] PATIENT: Oh, okay, that's fine! Um, my name is Jennifer Garcia, and I’m calling to find out if you accept Blue Cross Blue Shield insurance.
+[1774677461.05] AGENT: Thank you for calling Pivot Point Orthopaedics. Would you like to create
+[1774677462.35] PATIENT: Oh, um, I just want to check if you accept Blue Cross Blue Shield insurance. I’m not looking to create an appointment right now.
+[1774677470.30] AGENT: Thanks for sharing your name.
+[1774677472.28] PATIENT: Sure! So, can you let me know if you accept Blue Cross Blue Shield? It’s kind of important for me to know before I make any plans.
+[1774677480.50] AGENT: No problem.
+[1774677481.75] PATIENT: Um, great! So, do you accept Blue Cross Blue Shield insurance?
+[1774677487.19] AGENT: I understand how
+[1774677488.03] PATIENT: Sorry, I didn't quite catch that. Could you repeat what you just said?
+[1774677493.13] AGENT: I don't
+[1774677495.38] PATIENT: Oh, um, okay. Could you let me know if you accept Blue Cross Blue Shield? It’s really important for me to know.
+[1774677502.82] AGENT: I don't have access to insurance details right now.
+[1774677504.92] PATIENT: Oh, I see. Um, is there someone else I could speak to about that, or maybe you could take my number and have them call me back?
+[1774677513.47] AGENT: I'm not able to check-in.
+[1774677514.62] PATIENT: Okay, I understand. Um, is there any way you can help me find out about the insurance acceptance later? I just want to make sure I'm covered before I come in.
+[1774677524.80] AGENT: I can document your request.
+[1774677526.91] PATIENT: That would be great, thank you! Um, can I give you my phone number so someone can follow up with me?
+[1774677534.20] AGENT: I'll let our clinic support team know you need to
+[1774677535.52] PATIENT: Perfect, thank you! Um, my phone number is 555-012-3456. I really appreciate your help with this!
+[1774677545.43] AGENT: I have your number as eight
+[1774677547.16] PATIENT: Oh, it’s actually 555-012-3456. Just to clarify, that’s 555, zero one two, three four five six. Thank you for noting that!
+[1774677560.29] AGENT: Let me
+[1774677562.19] PATIENT: Sure, take your time!
+[1774677570.95] AGENT: Let me confirm. I have your number as five five five
+[1774677571.84] PATIENT: Yes, that's right! It should be 555-012-3456. Thanks for confirming!
+[1774677580.20] AGENT: zero one two three four five six.
+[1774677581.33] PATIENT: Yes, exactly! Thank you for getting that right. Just to recap, I’m waiting for someone to call me back about the Blue Cross Blue Shield coverage, right?
+[1774677598.46] AGENT: Connecting you to a representative. Please wait.
+[1774677600.32] PATIENT: Okay, sure! I'll hold.
+[1774677603.16] AGENT: Hello. You've reached the Pretty Good AI test line. Goodbye.
+[1774677603.87] PATIENT: Oh, um, okay! Thanks for your help today. Goodbye!

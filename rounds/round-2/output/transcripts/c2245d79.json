@@ -1,0 +1,172 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774588487.4411361
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay, that\u2019s fine. I just need to find out if you\u2019re open on Saturdays. Can you help me with that?",
+    "timestamp": 1774588488.7694862
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling PivotPoint",
+    "timestamp": 1774588495.946823
+  },
+  {
+    "speaker": "patient",
+    "text": "You're welcome! I'm Patricia Brown, and I was just wondering about your office hours, specifically if you're open on Saturdays.",
+    "timestamp": 1774588497.5416389
+  },
+  {
+    "speaker": "agent",
+    "text": "I can help with that.",
+    "timestamp": 1774588505.458625
+  },
+  {
+    "speaker": "patient",
+    "text": "Great! So, are you open on Saturdays?",
+    "timestamp": 1774588507.6968052
+  },
+  {
+    "speaker": "agent",
+    "text": "Thanks for sharing your name,",
+    "timestamp": 1774588511.2969038
+  },
+  {
+    "speaker": "patient",
+    "text": "Uh, sure! So, about those Saturday hours... are you open that day?",
+    "timestamp": 1774588512.17818
+  },
+  {
+    "speaker": "agent",
+    "text": "I don't have the exact Saturday hours right now,",
+    "timestamp": 1774588524.0212119
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay. Um, can you check that for me, or do I need to call back later?",
+    "timestamp": 1774588525.501256
+  },
+  {
+    "speaker": "agent",
+    "text": "Would you like to create a demo patient profile?",
+    "timestamp": 1774588531.316709
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, no thanks, I just need to know about the Saturday hours. If you can\u2019t check now, can you let me know when I might be able to get that info?",
+    "timestamp": 1774588535.6263301
+  },
+  {
+    "speaker": "agent",
+    "text": "That way, I can help you with more detail.",
+    "timestamp": 1774588544.2336378
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, I see. So, can you check the Saturday hours and get back to me? I just really need to know if I can come in then.",
+    "timestamp": 1774588545.6419961
+  },
+  {
+    "speaker": "agent",
+    "text": "You don't need to call back. If you'd like, I can help you set up",
+    "timestamp": 1774588554.195147
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, I appreciate that, but I really just need to find out if you're open on Saturdays first. Can you help with that?",
+    "timestamp": 1774588555.290121
+  },
+  {
+    "speaker": "agent",
+    "text": "I",
+    "timestamp": 1774588562.6371882
+  },
+  {
+    "speaker": "patient",
+    "text": "Are you there? Sorry, I didn't catch that. Can you tell me about the Saturday hours?",
+    "timestamp": 1774588564.86721
+  },
+  {
+    "speaker": "agent",
+    "text": "I understand you just",
+    "timestamp": 1774588571.2816231
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay. Can you please just confirm if you're open on Saturdays? That's really what I need to know.",
+    "timestamp": 1774588572.497191
+  },
+  {
+    "speaker": "agent",
+    "text": "I don't",
+    "timestamp": 1774588578.9794822
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, I think I\u2019m getting a bit confused here. Can you just tell me if you\u2019re open on Saturdays, please?",
+    "timestamp": 1774588580.125967
+  },
+  {
+    "speaker": "agent",
+    "text": "I'm sorry for the confusion.",
+    "timestamp": 1774588593.458261
+  },
+  {
+    "speaker": "patient",
+    "text": "No problem! I appreciate your help. So, could you let me know if you're open on Saturdays?",
+    "timestamp": 1774588595.71424
+  },
+  {
+    "speaker": "agent",
+    "text": "I don't have the exact Saturday hours available right now,",
+    "timestamp": 1774588601.670291
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, I understand. Can you let me know when I might be able to get that information, or is there someone else I can talk to about it?",
+    "timestamp": 1774588603.014733
+  },
+  {
+    "speaker": "agent",
+    "text": "You can scan the QR code at the booth later to",
+    "timestamp": 1774588611.041579
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, I see. So, I can find the Saturday hours there? That sounds good. Thank you for the info!",
+    "timestamp": 1774588612.266777
+  },
+  {
+    "speaker": "agent",
+    "text": "You can",
+    "timestamp": 1774588619.253406
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, great! I\u2019ll do that. Thanks for your help, and have a good day! Bye!",
+    "timestamp": 1774588621.697026
+  },
+  {
+    "speaker": "agent",
+    "text": "You're welcome. Have a great",
+    "timestamp": 1774588626.858241
+  },
+  {
+    "speaker": "patient",
+    "text": "Thank you! You too! Bye!",
+    "timestamp": 1774588627.637194
+  },
+  {
+    "speaker": "agent",
+    "text": "Take care.",
+    "timestamp": 1774588630.497173
+  },
+  {
+    "speaker": "patient",
+    "text": "Thank you, take care. Goodbye!",
+    "timestamp": 1774588633.369993
+  }
+]

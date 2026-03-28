@@ -1,0 +1,26 @@
+[1774588852.48] AGENT: This call may be recorded for quality and training purposes.
+[1774588853.90] PATIENT: Oh, okay! That's fine. Um, I just wanted to check if your office accepts my Blue Cross Blue Shield insurance plan.
+[1774588862.10] AGENT: Thank you for calling PivotPoint Ortho
+[1774588863.17] PATIENT: You're welcome! Um, I just want to confirm if you accept Blue Cross Blue Shield insurance.
+[1774588869.44] AGENT: I
+[1774588871.48] PATIENT: I'm sorry, I didn't catch that. Could you repeat what you said?
+[1774588876.21] AGENT: To help you with that, would you like to create a demo?
+[1774588878.67] PATIENT: Uh, I'm not really looking to create a demo. I just want to know if you accept Blue Cross Blue Shield insurance. Can you help me with that?
+[1774588888.08] AGENT: No problem. To check if we accept Blue Cross
+[1774588888.91] PATIENT: Okay, great! Thanks! What do you need from me to check?
+[1774588900.20] AGENT: Since you don't wanna create a demo patient profile,
+[1774588903.08] PATIENT: Um, yeah, I'm just trying to find out about the insurance. Do you need my name or anything to check if you accept Blue Cross Blue Shield?
+[1774588911.29] AGENT: I'm unable to check insurance details directly.
+[1774588912.57] PATIENT: Oh, I see. That’s a bit confusing. So, what should I do to find out if you accept my insurance?
+[1774588919.34] AGENT: You can scan the QR code at the booth later to create a
+[1774588920.50] PATIENT: Um, I’m not really at a booth right now. Is there another way I can find out if you accept Blue Cross Blue Shield? Like a website or number to call?
+[1774588930.59] AGENT: I under
+[1774588933.37] PATIENT: Sorry, I didn't quite catch that. Could you say it again?
+[1774588937.97] AGENT: You can visit our clinic's website.
+[1774588938.76] PATIENT: Okay, great! What's the website I should go to?
+[1774588949.34] AGENT: I don't have the website address to share by phone.
+[1774588950.80] PATIENT: Oh, that’s okay! I can look it up online. Thanks for your help! Have a great day!
+[1774588956.20] AGENT: Insurance questions
+[1774588959.56] PATIENT: Um, yeah, I have a question about insurance. I just want to know if you accept Blue Cross Blue Shield.
+[1774588966.69] AGENT: can also call the clinic directly
+[1774588967.89] PATIENT: Got it! So I can call the clinic directly for insurance questions. Thanks for the info! I'll do that. Have a good day!

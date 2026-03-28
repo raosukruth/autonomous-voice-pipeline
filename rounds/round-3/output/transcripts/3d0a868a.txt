@@ -1,0 +1,40 @@
+[1774484088.46] AGENT: This call may be recorded for quality and training purposes.
+[1774484089.58] PATIENT: Okay, that's fine. Um, my name is James Martinez, and I'm calling to request a refill for my Adderall prescription.
+[1774484097.75] AGENT: Thank you for calling PivotPoint Orthopedic.
+[1774484098.84] PATIENT: Oh, um, I think I might have the wrong office. I'm looking for my doctor’s office for my Adderall prescription refill.
+[1774484106.63] AGENT: Thanks for
+[1774484107.90] PATIENT: Uh, can you help me with that? I need to refill my Adderall prescription.
+[1774484112.77] AGENT: No problem.
+[1774484113.69] PATIENT: Great! Um, so what do you need from me to get that refill sorted out?
+[1774484125.84] AGENT: To help with your refill request,
+[1774484126.66] PATIENT: Sure, what do you need?
+[1774484129.91] AGENT: I'll need to create a demo patient profile for you. May I have your first
+[1774484131.21] PATIENT: Uh, yeah, my first name is James.
+[1774484134.36] AGENT: I just need your first and last name to get
+[1774484135.48] PATIENT: Oh, right! Sorry about that. It's James Martinez.
+[1774484148.96] AGENT: Your patient profile set up?
+[1774484150.45] PATIENT: Um, I think I already have a profile since I’m a patient there. Do you need any other info?
+[1774484157.56] AGENT: And your date of birth is July fourth two thousand for demo purposes.
+[1774484158.58] PATIENT: Um, actually, it’s April 9, 1990. Just wanted to clarify that!
+[1774484165.06] AGENT: May I help you today?
+[1774484165.96] PATIENT: Yeah, I'm calling to request a refill for my Adderall XR 20mg prescription.
+[1774484179.18] AGENT: Let me check your medication list.
+[1774484180.01] PATIENT: Okay, thanks! I appreciate it.
+[1774484183.14] AGENT: Moment.
+[1774484183.91] PATIENT: Sure, take your time.
+[1774484191.88] AGENT: What dosage of Adderall XR do you take, and how often do
+[1774484192.92] PATIENT: I take 20mg of Adderall XR, and I take it once a day.
+[1774484197.97] AGENT: take it?
+[1774484198.82] PATIENT: Oh, sorry! I take it once a day in the morning.
+[1774484209.95] AGENT: When was the last time you had your Adderall XR refilled?
+[1774484210.74] PATIENT: Um, it was about 60 days ago.
+[1774484220.37] AGENT: How many days of Adderall XR do you have left?
+[1774484221.37] PATIENT: I think I have about a week left.
+[1774484231.15] AGENT: Which pharmacy do you use, and can you confirm the location?
+[1774484232.08] PATIENT: I use the CVS on Main Street. It's, um, the one right across from the grocery store.
+[1774484245.02] AGENT: Can you confirm the full address or
+[1774484246.20] PATIENT: Sure! It's 123 Main Street, Anytown, USA.
+[1774484251.44] AGENT: city for the CVS on Main Street?
+[1774484252.32] PATIENT: Oh, right! The city is Anytown. Sorry about that!
+[1774484257.55] AGENT: This helps make sure your refund goes to the right
+[1774484258.45] PATIENT: Oh, okay, that makes sense! Thanks for clarifying. What's the next step?

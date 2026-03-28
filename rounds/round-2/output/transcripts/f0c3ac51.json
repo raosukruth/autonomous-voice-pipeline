@@ -1,0 +1,227 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774586529.506838
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, that\u2019s fine. I\u2019d like to schedule an appointment and also request a refill for my metformin, please.",
+    "timestamp": 1774586530.680052
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling Pivot Point",
+    "timestamp": 1774586537.386289
+  },
+  {
+    "speaker": "patient",
+    "text": "You're welcome! I'm Susan Taylor, and I\u2019d like to schedule my annual physical and also request a refill for my metformin.",
+    "timestamp": 1774586538.459261
+  },
+  {
+    "speaker": "agent",
+    "text": "Susan, would you like to create a demo patient",
+    "timestamp": 1774586551.7481952
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, I\u2019m not really interested in creating a demo patient. I just want to schedule my appointment and get my medication refill, please.",
+    "timestamp": 1774586554.548967
+  },
+  {
+    "speaker": "agent",
+    "text": "profile so I can help with your appointment and refill request?",
+    "timestamp": 1774586563.520482
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure! My date of birth is May 8, 1960, and my phone number is 555-345-6780. What else do you need?",
+    "timestamp": 1774586564.80624
+  },
+  {
+    "speaker": "agent",
+    "text": "I just need your first and last name to get started.",
+    "timestamp": 1774586575.833107
+  },
+  {
+    "speaker": "patient",
+    "text": "I\u2019m Susan Taylor.",
+    "timestamp": 1774586576.58388
+  },
+  {
+    "speaker": "agent",
+    "text": "No problem.",
+    "timestamp": 1774586578.552089
+  },
+  {
+    "speaker": "patient",
+    "text": "Great! So, can we go ahead and schedule that annual physical and get my metformin refill sorted out?",
+    "timestamp": 1774586581.4920619
+  },
+  {
+    "speaker": "agent",
+    "text": "Thanks, Susan.",
+    "timestamp": 1774586587.958296
+  },
+  {
+    "speaker": "patient",
+    "text": "You're welcome! Just let me know when we can set up that appointment.",
+    "timestamp": 1774586588.854922
+  },
+  {
+    "speaker": "agent",
+    "text": "To schedule your appointment and request your Met",
+    "timestamp": 1774586598.627372
+  },
+  {
+    "speaker": "patient",
+    "text": "Yes, exactly! I\u2019d like to get my annual physical scheduled and request a refill for my metformin.",
+    "timestamp": 1774586599.460602
+  },
+  {
+    "speaker": "agent",
+    "text": "form and refill, you'll need a demo patient profile,",
+    "timestamp": 1774586606.418394
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, I understand. What do I need to do to set up that profile?",
+    "timestamp": 1774586608.654353
+  },
+  {
+    "speaker": "agent",
+    "text": "To help with scheduling",
+    "timestamp": 1774586613.057101
+  },
+  {
+    "speaker": "patient",
+    "text": "Alright, I\u2019m ready to help with whatever you need to get that profile set up. What do you need from me?",
+    "timestamp": 1774586614.022617
+  },
+  {
+    "speaker": "agent",
+    "text": "All I",
+    "timestamp": 1774586619.77014
+  },
+  {
+    "speaker": "patient",
+    "text": "Uh, it seems like the line got cut off. What were you saying?",
+    "timestamp": 1774586620.799625
+  },
+  {
+    "speaker": "agent",
+    "text": "I just need your first",
+    "timestamp": 1774586625.365696
+  },
+  {
+    "speaker": "patient",
+    "text": "I already provided my first name, Susan, and my last name, Taylor. Do you need anything else?",
+    "timestamp": 1774586627.652875
+  },
+  {
+    "speaker": "agent",
+    "text": "I just need your first and last name to set",
+    "timestamp": 1774586634.227267
+  },
+  {
+    "speaker": "patient",
+    "text": "I see! I already gave you my full name, Susan Taylor. Do you need me to repeat it, or is there anything else you need for the profile?",
+    "timestamp": 1774586635.368875
+  },
+  {
+    "speaker": "agent",
+    "text": "Your patient profile has been created six",
+    "timestamp": 1774586644.212086
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, great! So, can we go ahead and schedule my annual physical now?",
+    "timestamp": 1774586645.033052
+  },
+  {
+    "speaker": "agent",
+    "text": "successfully, and your date of birth is July fourth two thousand for demo purposes.",
+    "timestamp": 1774586650.409003
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, um, I think there might have been a mix-up. My date of birth is actually May 8, 1960. Can we use that instead?",
+    "timestamp": 1774586655.79133
+  },
+  {
+    "speaker": "agent",
+    "text": "How may I help you today?",
+    "timestamp": 1774586665.078607
+  },
+  {
+    "speaker": "patient",
+    "text": "I\u2019d like to schedule my annual physical and request a refill for my metformin, please.",
+    "timestamp": 1774586666.0733068
+  },
+  {
+    "speaker": "agent",
+    "text": "We can get started with scheduling your annual",
+    "timestamp": 1774586671.77035
+  },
+  {
+    "speaker": "patient",
+    "text": "Awesome! What dates do you have available for the appointment?",
+    "timestamp": 1774586672.775934
+  },
+  {
+    "speaker": "agent",
+    "text": "physical.",
+    "timestamp": 1774586676.654155
+  },
+  {
+    "speaker": "patient",
+    "text": "Got it! What dates do you have available for my annual physical?",
+    "timestamp": 1774586680.721906
+  },
+  {
+    "speaker": "agent",
+    "text": "You have a preferred day or time of day for your appointment?",
+    "timestamp": 1774586684.989415
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, I\u2019m pretty flexible, but I\u2019d prefer a weekday morning if possible. How does that sound?",
+    "timestamp": 1774586685.972638
+  },
+  {
+    "speaker": "agent",
+    "text": "Let me check available dates for your annual physical.",
+    "timestamp": 1774586692.17603
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure, take your time! I\u2019ll be here.",
+    "timestamp": 1774586694.3028538
+  },
+  {
+    "speaker": "agent",
+    "text": "Just",
+    "timestamp": 1774586696.974163
+  },
+  {
+    "speaker": "patient",
+    "text": "It sounds like the line cut out again. What were you going to say?",
+    "timestamp": 1774586698.97397
+  },
+  {
+    "speaker": "agent",
+    "text": "Weekday mornings work.",
+    "timestamp": 1774586703.15239
+  },
+  {
+    "speaker": "patient",
+    "text": "Great! So, do you have any specific dates available for a weekday morning?",
+    "timestamp": 1774586704.064411
+  },
+  {
+    "speaker": "agent",
+    "text": "Let me check the next available weekday morning appointments for your",
+    "timestamp": 1774586709.5315928
+  }
+]

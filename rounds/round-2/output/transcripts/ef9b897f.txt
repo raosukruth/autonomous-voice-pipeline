@@ -1,0 +1,32 @@
+[1774588655.08] AGENT: This call may be recorded for quality and training purposes.
+[1774588656.26] PATIENT: Okay, that’s fine. Um, I’m actually calling to get directions to your office and ask about parking.
+[1774588663.28] AGENT: Thank you for calling to
+[1774588664.18] PATIENT: Uh, yeah, no problem! Could you help me with the directions? I'm new to the area.
+[1774588676.97] AGENT: I'm not able to provide direct
+[1774588679.35] PATIENT: Oh, okay. Um, can you at least tell me what major streets or landmarks are nearby? That might help me figure it out.
+[1774588687.34] AGENT: or navigation details, but I can give you the full address of our location.
+[1774588688.32] PATIENT: Sure, that would be great! What’s the address?
+[1774588691.88] AGENT: Would you like
+[1774588692.60] PATIENT: Uh, yes, please! I’d like the full address.
+[1774588705.79] AGENT: Here's the full address for our location. Please have a pen ready.
+[1774588707.38] PATIENT: Okay, I’ve got my pen ready. What’s the address?
+[1774588711.34] AGENT: Note
+[1774588712.09] PATIENT: Alright, I’m ready to write it down! What’s the address?
+[1774588715.66] AGENT: I don't have the specific address details available.
+[1774588716.63] PATIENT: Oh, I see. Um, could you at least tell me if there’s parking available at the office?
+[1774588728.02] AGENT: I don't have parking details available
+[1774588729.98] PATIENT: Um, okay. Do you know if there are any public parking options nearby, like a garage or a lot?
+[1774588736.26] AGENT: the clinic staff can help with that when you arrive. If you have other questions, I'm here to help.
+[1774588737.53] PATIENT: Got it, thanks for letting me know. Um, could you remind me of the office's hours? That way I can plan my visit better.
+[1774588745.56] AGENT: I
+[1774588747.31] PATIENT: Oh, sorry, I didn't catch that. Can you repeat the hours for me?
+[1774588758.40] AGENT: I don't have the office hours available
+[1774588760.51] PATIENT: Oh, um, okay. Do you have any idea when they might be open? I just want to make sure I can make my appointment.
+[1774588768.45] AGENT: now. The clinic staff can provide that information when you arrive.
+[1774588769.61] PATIENT: Alright, I understand. Thanks for your help. Um, I guess I’ll just have to ask when I get there. Have a great day!
+[1774588777.52] AGENT: If you need help with anything else,
+[1774588778.68] PATIENT: Uh, no, I think that’s it for now. Thanks again for your help! Goodbye!
+[1774588784.31] AGENT: I don't have
+[1774588787.63] PATIENT: Okay, got it! Thanks for your assistance. Goodbye!
+[1774588792.59] AGENT: You're welcome.
+[1774588793.23] PATIENT: Thanks! Have a great day!

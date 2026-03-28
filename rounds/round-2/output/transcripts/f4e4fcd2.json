@@ -1,0 +1,232 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774488360.779135
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, that's just fine, dear. I understand. How can I help you today?",
+    "timestamp": 1774488361.872946
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling.",
+    "timestamp": 1774488367.175643
+  },
+  {
+    "speaker": "patient",
+    "text": "You're welcome! Uh, I'm calling to request a refill for my blood pressure medication, lisinopril 10mg.",
+    "timestamp": 1774488368.090128
+  },
+  {
+    "speaker": "agent",
+    "text": "I'm here",
+    "timestamp": 1774488375.765934
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, great! Thank you. I just need a refill on my lisinopril, if that's possible.",
+    "timestamp": 1774488376.7043998
+  },
+  {
+    "speaker": "agent",
+    "text": "I can help with your refill request. Before we continue, would you like",
+    "timestamp": 1774488389.81922
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure, what do you need from me?",
+    "timestamp": 1774488390.575871
+  },
+  {
+    "speaker": "agent",
+    "text": "to create a demo patient profile? I just need your",
+    "timestamp": 1774488393.3552692
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, I think I\u2019m all set with my information. I can give you my details if you need them for the refill.",
+    "timestamp": 1774488394.288117
+  },
+  {
+    "speaker": "agent",
+    "text": "To request",
+    "timestamp": 1774488400.758946
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, I see! Yes, please let me know what you need to request the refill.",
+    "timestamp": 1774488401.7099252
+  },
+  {
+    "speaker": "agent",
+    "text": "Perfect.",
+    "timestamp": 1774488406.635822
+  },
+  {
+    "speaker": "patient",
+    "text": "Alright then! What do you need from me?",
+    "timestamp": 1774488407.3814762
+  },
+  {
+    "speaker": "agent",
+    "text": "I just need your first and last name to create your demo patient profile.",
+    "timestamp": 1774488418.216251
+  },
+  {
+    "speaker": "patient",
+    "text": "It's Linda Williams. Do you need anything else?",
+    "timestamp": 1774488419.507116
+  },
+  {
+    "speaker": "agent",
+    "text": "Could you please tell me your first and last name?",
+    "timestamp": 1774488423.448127
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure! It's Linda Williams.",
+    "timestamp": 1774488424.4954119
+  },
+  {
+    "speaker": "agent",
+    "text": "Thanks, Linda.",
+    "timestamp": 1774488431.341227
+  },
+  {
+    "speaker": "patient",
+    "text": "You're welcome! What's next?",
+    "timestamp": 1774488432.397917
+  },
+  {
+    "speaker": "agent",
+    "text": "What medication do you need refilled?",
+    "timestamp": 1774488435.150281
+  },
+  {
+    "speaker": "patient",
+    "text": "I need a refill for my lisinopril, 10mg.",
+    "timestamp": 1774488436.3469682
+  },
+  {
+    "speaker": "agent",
+    "text": "What's the dosage?",
+    "timestamp": 1774488440.286593
+  },
+  {
+    "speaker": "patient",
+    "text": "It's 10mg, and I take one a day.",
+    "timestamp": 1774488441.511165
+  },
+  {
+    "speaker": "agent",
+    "text": "What's the dosage and how?",
+    "timestamp": 1774488444.852486
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh! It's 10mg, and I take it once a day.",
+    "timestamp": 1774488446.193378
+  },
+  {
+    "speaker": "agent",
+    "text": "Thanks.",
+    "timestamp": 1774488450.008061
+  },
+  {
+    "speaker": "patient",
+    "text": "You're welcome! Is there anything else you need from me?",
+    "timestamp": 1774488451.1352708
+  },
+  {
+    "speaker": "agent",
+    "text": "When did you last have your Licinopro refilled?",
+    "timestamp": 1774488460.4999092
+  },
+  {
+    "speaker": "patient",
+    "text": "I last had my lisinopril refilled about 30 days ago.",
+    "timestamp": 1774488461.732895
+  },
+  {
+    "speaker": "agent",
+    "text": "Which pharmacy do you use?",
+    "timestamp": 1774488471.777418
+  },
+  {
+    "speaker": "patient",
+    "text": "I use the local pharmacy, um, the one on Maple Street. It's called Maple Pharmacy.",
+    "timestamp": 1774488473.222582
+  },
+  {
+    "speaker": "agent",
+    "text": "Please confirm the location.",
+    "timestamp": 1774488479.929286
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, it's located at 123 Maple Street, right in town.",
+    "timestamp": 1774488480.9926531
+  },
+  {
+    "speaker": "agent",
+    "text": "How many days?",
+    "timestamp": 1774488486.629919
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, it should be about 30 days since my last refill.",
+    "timestamp": 1774488488.7768362
+  },
+  {
+    "speaker": "agent",
+    "text": "How many days of your",
+    "timestamp": 1774488493.240572
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, I have about a week's worth left, I think.",
+    "timestamp": 1774488494.3627489
+  },
+  {
+    "speaker": "agent",
+    "text": "how many",
+    "timestamp": 1774488497.946805
+  },
+  {
+    "speaker": "patient",
+    "text": "I have about seven days left of my medication.",
+    "timestamp": 1774488498.7061539
+  },
+  {
+    "speaker": "agent",
+    "text": "Connecting you to a representative.",
+    "timestamp": 1774488512.573428
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, thank you! I'll hold.",
+    "timestamp": 1774488513.563297
+  },
+  {
+    "speaker": "agent",
+    "text": "Please wait.",
+    "timestamp": 1774488516.52354
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure, I can wait. Thank you!",
+    "timestamp": 1774488517.35638
+  },
+  {
+    "speaker": "agent",
+    "text": "Hello. You've reached the Pretty Good AI test line. Goodbye.",
+    "timestamp": 1774488520.090027
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, um, wait! I think there\u2019s been a mistake. I was calling for a medication refill.",
+    "timestamp": 1774488521.171639
+  }
+]

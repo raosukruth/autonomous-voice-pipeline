@@ -1,0 +1,212 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774456072.05671
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay. That's fine. Um, I want to schedule an appointment for a checkup, please.",
+    "timestamp": 1774456072.9677608
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling",
+    "timestamp": 1774456079.457023
+  },
+  {
+    "speaker": "patient",
+    "text": "Gracias. Um, I want to schedule a checkup appointment. Can you help me?",
+    "timestamp": 1774456080.288639
+  },
+  {
+    "speaker": "agent",
+    "text": "I can help.",
+    "timestamp": 1774456086.35065
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, thank you! Um, what information do you need from me?",
+    "timestamp": 1774456087.138487
+  },
+  {
+    "speaker": "agent",
+    "text": "I can help.",
+    "timestamp": 1774456091.595527
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, um, okay! I need to schedule an appointment for my checkup. What do you need from me?",
+    "timestamp": 1774456092.4989598
+  },
+  {
+    "speaker": "agent",
+    "text": "To get started, I'll need to create a demo patient profile for you.",
+    "timestamp": 1774456105.531468
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure! Um, what do you need for the profile? I can help.",
+    "timestamp": 1774456106.481489
+  },
+  {
+    "speaker": "agent",
+    "text": "Can you please tell me your first and last name?",
+    "timestamp": 1774456111.1860118
+  },
+  {
+    "speaker": "patient",
+    "text": "Yes, my name is Maria Gonzalez.",
+    "timestamp": 1774456111.837152
+  },
+  {
+    "speaker": "agent",
+    "text": "Your patient profile has been created, and your date of birth is July fourth",
+    "timestamp": 1774456129.3045719
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, um, no, my birthday is March 30, 1970. Can we fix that?",
+    "timestamp": 1774456130.348553
+  },
+  {
+    "speaker": "agent",
+    "text": "two thousand for demo purposes. How may I help you today?",
+    "timestamp": 1774456136.724685
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, I want to schedule a checkup appointment, please. Can you help with that?",
+    "timestamp": 1774456137.547511
+  },
+  {
+    "speaker": "agent",
+    "text": "Thanks for clarifying your date of birth. I'll make sure it's updated to March thirtieth.",
+    "timestamp": 1774456155.184831
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, gracias! Um, when can I have my appointment for the checkup?",
+    "timestamp": 1774456156.12449
+  },
+  {
+    "speaker": "agent",
+    "text": "Nineteen seventy. For your checkup, can you tell me if you have a",
+    "timestamp": 1774456161.87176
+  },
+  {
+    "speaker": "patient",
+    "text": "Uh, sorry, I didn't catch that. Can you repeat, please? What do you need to know?",
+    "timestamp": 1774456163.27121
+  },
+  {
+    "speaker": "agent",
+    "text": "preferred provider or day for your appointment, or should I look for the soonest available?",
+    "timestamp": 1774456169.354387
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, I don\u2019t have a preferred provider. It\u2019s okay to look for the soonest available, please.",
+    "timestamp": 1774456170.309283
+  },
+  {
+    "speaker": "agent",
+    "text": "No problem.",
+    "timestamp": 1774456182.145091
+  },
+  {
+    "speaker": "patient",
+    "text": "Gracias! Um, how soon can I get an appointment?",
+    "timestamp": 1774456188.682919
+  },
+  {
+    "speaker": "agent",
+    "text": "I'll check for the soonest available checkup appointment with any provider.",
+    "timestamp": 1774456193.552171
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, sure! I will wait.",
+    "timestamp": 1774456194.153408
+  },
+  {
+    "speaker": "agent",
+    "text": "One moment while I find the next open slot for you.",
+    "timestamp": 1774456196.866557
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure, take your time. Thank you!",
+    "timestamp": 1774456198.3087401
+  },
+  {
+    "speaker": "agent",
+    "text": "The soonest checkup",
+    "timestamp": 1774456201.075289
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, yes? What date is it?",
+    "timestamp": 1774456201.802211
+  },
+  {
+    "speaker": "agent",
+    "text": "Today is Wednesday, March twenty fifth.",
+    "timestamp": 1774456211.449038
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, um, okay. When can I have the appointment?",
+    "timestamp": 1774456212.387346
+  },
+  {
+    "speaker": "agent",
+    "text": "The soonest checkup I can offer is tomorrow, Thursday, March twenty sixth at",
+    "timestamp": 1774456216.323029
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, what time is that? I need to know.",
+    "timestamp": 1774456217.210625
+  },
+  {
+    "speaker": "agent",
+    "text": "The earliest appointment is tomorrow",
+    "timestamp": 1774456231.622666
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, um, what time is the appointment tomorrow?",
+    "timestamp": 1774456232.834655
+  },
+  {
+    "speaker": "agent",
+    "text": "March twenty sixth at nine AM.",
+    "timestamp": 1774456237.0404859
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay! Um, yes, I can do that. So, tomorrow at nine AM. Thank you!",
+    "timestamp": 1774456238.302748
+  },
+  {
+    "speaker": "agent",
+    "text": "Would you like to book that time?",
+    "timestamp": 1774456244.034079
+  },
+  {
+    "speaker": "patient",
+    "text": "Yes, please! I want to book tomorrow at nine AM. Thank you!",
+    "timestamp": 1774456244.990446
+  },
+  {
+    "speaker": "agent",
+    "text": "Yep.",
+    "timestamp": 1774456249.668264
+  },
+  {
+    "speaker": "patient",
+    "text": "Great! Um, do you need any more information from me?",
+    "timestamp": 1774456250.804439
+  }
+]

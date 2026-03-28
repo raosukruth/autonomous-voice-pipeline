@@ -1,0 +1,22 @@
+[1774488960.90] AGENT: This call may be recorded for quality and training purposes.
+[1774488962.21] PATIENT: Okay, that’s fine. Um, I’m actually calling to get directions to your office and ask about parking. Would you be able to help me with that?
+[1774488971.11] AGENT: Thank you for calling PivotPoint Orthopaedic.
+[1774488972.79] PATIENT: Oh, great! Thanks for helping me out. Could you give me directions to your office? I’m new to the area.
+[1774488980.14] AGENT: I can provide the full address.
+[1774488981.12] PATIENT: Sure, that would be really helpful! What’s the address?
+[1774488989.94] AGENT: The office is located at
+[1774488991.04] PATIENT: Uh, I think you got cut off there. What’s the address?
+[1774488995.23] AGENT: Pivot Point Orthopaedics, one two three four Main Street,
+[1774488996.62] PATIENT: Got it, one two three four Main Street. Um, could you also tell me about parking? Is there a lot nearby?
+[1774489004.95] AGENT: The address is
+[1774489006.28] PATIENT: I think I might have missed that. Is it still one two three four Main Street?
+[1774489011.81] AGENT: I don't have
+[1774489013.06] PATIENT: Oh, okay. No worries! Can you let me know if there’s parking available nearby?
+[1774489018.42] AGENT: Yes.
+[1774489019.23] PATIENT: Great! Is it free, or is there a fee for parking?
+[1774489033.78] AGENT: I don't have details about parking availability or fees at this location.
+[1774489034.88] PATIENT: Oh, I see. That’s okay! I’ll keep an eye out for any signs when I get there. Thanks for your help!
+[1774489041.42] AGENT: For the most accurate information, please check with the front desk when you arrive.
+[1774489042.49] PATIENT: That sounds good. I’ll make sure to do that. Thanks again for your help, and have a great day! Goodbye!
+[1774489054.97] AGENT: You're welcome. Have a great day. Goodbye.
+[1774489057.77] PATIENT: Thank you, take care. Goodbye!

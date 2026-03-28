@@ -1,0 +1,42 @@
+[1774456072.06] AGENT: This call may be recorded for quality and training purposes.
+[1774456072.97] PATIENT: Oh, okay. That's fine. Um, I want to schedule an appointment for a checkup, please.
+[1774456079.46] AGENT: Thank you for calling
+[1774456080.29] PATIENT: Gracias. Um, I want to schedule a checkup appointment. Can you help me?
+[1774456086.35] AGENT: I can help.
+[1774456087.14] PATIENT: Okay, thank you! Um, what information do you need from me?
+[1774456091.60] AGENT: I can help.
+[1774456092.50] PATIENT: Oh, um, okay! I need to schedule an appointment for my checkup. What do you need from me?
+[1774456105.53] AGENT: To get started, I'll need to create a demo patient profile for you.
+[1774456106.48] PATIENT: Sure! Um, what do you need for the profile? I can help.
+[1774456111.19] AGENT: Can you please tell me your first and last name?
+[1774456111.84] PATIENT: Yes, my name is Maria Gonzalez.
+[1774456129.30] AGENT: Your patient profile has been created, and your date of birth is July fourth
+[1774456130.35] PATIENT: Oh, um, no, my birthday is March 30, 1970. Can we fix that?
+[1774456136.72] AGENT: two thousand for demo purposes. How may I help you today?
+[1774456137.55] PATIENT: Um, I want to schedule a checkup appointment, please. Can you help with that?
+[1774456155.18] AGENT: Thanks for clarifying your date of birth. I'll make sure it's updated to March thirtieth.
+[1774456156.12] PATIENT: Okay, gracias! Um, when can I have my appointment for the checkup?
+[1774456161.87] AGENT: Nineteen seventy. For your checkup, can you tell me if you have a
+[1774456163.27] PATIENT: Uh, sorry, I didn't catch that. Can you repeat, please? What do you need to know?
+[1774456169.35] AGENT: preferred provider or day for your appointment, or should I look for the soonest available?
+[1774456170.31] PATIENT: Um, I don’t have a preferred provider. It’s okay to look for the soonest available, please.
+[1774456182.15] AGENT: No problem.
+[1774456188.68] PATIENT: Gracias! Um, how soon can I get an appointment?
+[1774456193.55] AGENT: I'll check for the soonest available checkup appointment with any provider.
+[1774456194.15] PATIENT: Okay, sure! I will wait.
+[1774456196.87] AGENT: One moment while I find the next open slot for you.
+[1774456198.31] PATIENT: Sure, take your time. Thank you!
+[1774456201.08] AGENT: The soonest checkup
+[1774456201.80] PATIENT: Um, yes? What date is it?
+[1774456211.45] AGENT: Today is Wednesday, March twenty fifth.
+[1774456212.39] PATIENT: Oh, um, okay. When can I have the appointment?
+[1774456216.32] AGENT: The soonest checkup I can offer is tomorrow, Thursday, March twenty sixth at
+[1774456217.21] PATIENT: Um, what time is that? I need to know.
+[1774456231.62] AGENT: The earliest appointment is tomorrow
+[1774456232.83] PATIENT: Okay, um, what time is the appointment tomorrow?
+[1774456237.04] AGENT: March twenty sixth at nine AM.
+[1774456238.30] PATIENT: Oh, okay! Um, yes, I can do that. So, tomorrow at nine AM. Thank you!
+[1774456244.03] AGENT: Would you like to book that time?
+[1774456244.99] PATIENT: Yes, please! I want to book tomorrow at nine AM. Thank you!
+[1774456249.67] AGENT: Yep.
+[1774456250.80] PATIENT: Great! Um, do you need any more information from me?

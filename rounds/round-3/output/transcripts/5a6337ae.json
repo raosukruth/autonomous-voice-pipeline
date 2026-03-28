@@ -1,0 +1,177 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774676637.521516
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, that's fine. I\u2019d like to cancel my upcoming appointment, please.",
+    "timestamp": 1774676638.6307259
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling PivotPoint",
+    "timestamp": 1774676643.347908
+  },
+  {
+    "speaker": "patient",
+    "text": "You're welcome. I\u2019d like to cancel my appointment, if that\u2019s possible.",
+    "timestamp": 1774676644.111776
+  },
+  {
+    "speaker": "agent",
+    "text": "I can help with that. Would you like to create a demo patient",
+    "timestamp": 1774676665.7752478
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, no, I just want to cancel my appointment. Can you help me with that?",
+    "timestamp": 1774676668.3623621
+  },
+  {
+    "speaker": "agent",
+    "text": "profile first? I just need your first and last name to get started.",
+    "timestamp": 1774676673.847039
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure, it's Robert Davis.",
+    "timestamp": 1774676674.574817
+  },
+  {
+    "speaker": "agent",
+    "text": "Let me check your upcoming",
+    "timestamp": 1774676686.421052
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, thanks.",
+    "timestamp": 1774676687.460119
+  },
+  {
+    "speaker": "agent",
+    "text": "appointment so we can cancel the right one.",
+    "timestamp": 1774676689.224201
+  },
+  {
+    "speaker": "patient",
+    "text": "Sounds good. What details do you have?",
+    "timestamp": 1774676690.850858
+  },
+  {
+    "speaker": "agent",
+    "text": "I don't see any upcoming",
+    "timestamp": 1774676694.518739
+  },
+  {
+    "speaker": "patient",
+    "text": "Really? I thought I had an appointment scheduled. Can you check again?",
+    "timestamp": 1774676695.233491
+  },
+  {
+    "speaker": "agent",
+    "text": "You're all set?",
+    "timestamp": 1774676700.209546
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, I\u2019m not sure what you mean. Are you saying I don\u2019t have any upcoming appointments?",
+    "timestamp": 1774676701.016487
+  },
+  {
+    "speaker": "agent",
+    "text": "That's right. I checked your records, and there are no upcoming appointments scheduled for you at this",
+    "timestamp": 1774676713.7583501
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, got it. Can you tell me if there was a previous appointment that might have been canceled?",
+    "timestamp": 1774676716.439667
+  },
+  {
+    "speaker": "agent",
+    "text": "time. If you think there should be one, I can document this",
+    "timestamp": 1774676722.931247
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, yeah, I think there was one scheduled. Can you help me figure out if it was canceled?",
+    "timestamp": 1774676723.8753972
+  },
+  {
+    "speaker": "agent",
+    "text": "for the Cluix support team to review.",
+    "timestamp": 1774676730.191752
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, that sounds good. What do you need from me to document this?",
+    "timestamp": 1774676731.063244
+  },
+  {
+    "speaker": "agent",
+    "text": "I don't have that.",
+    "timestamp": 1774676735.7712011
+  },
+  {
+    "speaker": "patient",
+    "text": "Alright, no problem. Just let me know if there's anything else I can do.",
+    "timestamp": 1774676737.9968152
+  },
+  {
+    "speaker": "agent",
+    "text": "I don't have",
+    "timestamp": 1774676742.761814
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, I understand. Can you just confirm that there's no appointment and no cancellation needed?",
+    "timestamp": 1774676743.6627681
+  },
+  {
+    "speaker": "agent",
+    "text": "I have your name and detail.",
+    "timestamp": 1774676750.429405
+  },
+  {
+    "speaker": "patient",
+    "text": "Great, thanks for confirming that. So, there\u2019s nothing I need to worry about?",
+    "timestamp": 1774676751.470001
+  },
+  {
+    "speaker": "agent",
+    "text": "I checked your",
+    "timestamp": 1774676756.714745
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, thanks for checking. I appreciate your help!",
+    "timestamp": 1774676758.599581
+  },
+  {
+    "speaker": "agent",
+    "text": "that's correct.",
+    "timestamp": 1774676762.616349
+  },
+  {
+    "speaker": "patient",
+    "text": "Alright, thanks for confirming. Have a great day!",
+    "timestamp": 1774676764.858641
+  },
+  {
+    "speaker": "agent",
+    "text": "Happy to help. If you need",
+    "timestamp": 1774676769.00835
+  },
+  {
+    "speaker": "patient",
+    "text": "I appreciate it! I think I\u2019m all set for now. Goodbye!",
+    "timestamp": 1774676769.737845
+  },
+  {
+    "speaker": "agent",
+    "text": "you too. Take care.",
+    "timestamp": 1774676776.369666
+  }
+]

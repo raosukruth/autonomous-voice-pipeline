@@ -1,0 +1,32 @@
+[1774682233.71] AGENT: This call may be recorded for quality and training purposes.
+[1774682234.80] PATIENT: Oh, okay, that's fine. Um, I want to schedule an appointment for a checkup.
+[1774682240.43] AGENT: Thank you for calling Pivot.
+[1774682241.27] PATIENT: Gracias! I want to schedule a checkup. Can you help me?
+[1774682252.96] AGENT: Would you like me to connect you to a Spanish speaking agent?
+[1774682254.78] PATIENT: Sí, por favor. I need someone who speaks Spanish. Thank you!
+[1774682315.80] AGENT: Connecting you now to a Spanish speaking agent.
+[1774682317.47] PATIENT: Okay, thank you! I will wait.
+[1774682320.79] AGENT: Please stay on the line.
+[1774682321.58] PATIENT: Sure, I will wait. Thank you!
+[1774682330.45] AGENT: Please stay on the line while I connect you to a Spanish speaking agent.
+[1774682332.38] PATIENT: Okay, gracias! I will hold.
+[1774682342.57] AGENT: Thank you for your patience. Please stay on the line while I connect you.
+[1774682343.42] PATIENT: Gracias! I'm here, I will wait.
+[1774682351.67] AGENT: Thank you for waiting.
+[1774682352.54] PATIENT: De nada! I appreciate it. Can I schedule my checkup now?
+[1774682357.09] AGENT: You'll get connected shortly.
+[1774682359.30] PATIENT: Okay, thank you! I will wait.
+[1774682362.74] AGENT: A Spanish speaking agent will assist you with
+[1774682363.47] PATIENT: Great! Thank you! I’m ready to schedule my appointment.
+[1774682368.11] AGENT: thank
+[1774682369.03] PATIENT: Um, gracias! I’m here. Can I schedule my checkup now?
+[1774682380.51] AGENT: A Spanish speaking agent will help you schedule your checkup.
+[1774682382.83] PATIENT: Perfecto! I’m ready to schedule. Thank you!
+[1774682386.91] AGENT: Please stay on the line.
+[1774682387.64] PATIENT: Okay, I will wait. Thank you!
+[1774682395.80] AGENT: Thank you for your patience.
+[1774682396.73] PATIENT: De nada! Thank you! I’m ready to schedule my checkup.
+[1774682401.04] AGENT: You'll be connected to a Spanish speaking agent soon.
+[1774682402.73] PATIENT: Okay, gracias! I will wait for them.
+[1774682406.75] AGENT: A Spanish speaking
+[1774682412.84] PATIENT: Um, I'm waiting for a Spanish speaking agent. Can you please connect me?

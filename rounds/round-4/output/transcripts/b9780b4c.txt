@@ -1,0 +1,52 @@
+[1774672634.67] AGENT: This call may be recorded for quality and training purposes.
+[1774672635.71] PATIENT: Sure, that’s fine. I’d like to schedule a follow-up appointment, please.
+[1774672640.56] AGENT: Thank you for calling.
+[1774672641.32] PATIENT: You're welcome! I’d like to schedule a follow-up appointment.
+[1774672645.55] AGENT: Before
+[1774672647.37] PATIENT: Oh, sorry! What do you need from me before we get that scheduled?
+[1774672651.97] AGENT: To help you schedule your follow-up, would
+[1774672652.72] PATIENT: Sure, what information do you need from me?
+[1774672656.20] AGENT: no problem.
+[1774672656.87] PATIENT: Great! What do you need to know?
+[1774672659.79] AGENT: I just need
+[1774672661.79] PATIENT: Okay, what do you need?
+[1774672664.82] AGENT: I just need your first and last name.
+[1774672665.41] PATIENT: It's Michael Torres.
+[1774672668.28] AGENT: I need
+[1774672669.13] PATIENT: Um, could you clarify what you need?
+[1774672677.22] AGENT: Your patient profile is set up, and your date of birth is July fourth two thousand.
+[1774672679.29] PATIENT: Actually, my date of birth is July 22, 1975. Can we correct that?
+[1774672686.34] AGENT: How may I help you today?
+[1774672687.20] PATIENT: I’d like to schedule a follow-up appointment, please.
+[1774672699.15] AGENT: Let me check available times for a follow-up consultation.
+[1774672699.93] PATIENT: Sure, that sounds good!
+[1774672702.76] AGENT: You have a preferred provider day or time of day?
+[1774672704.37] PATIENT: Um, I usually prefer mornings if possible.
+[1774672708.13] AGENT: Do you have a
+[1774672708.88] PATIENT: Could you repeat that? I didn’t catch the full question.
+[1774672713.90] AGENT: One moment.
+[1774672714.72] PATIENT: Sure, take your time.
+[1774672727.54] AGENT: The next available morning follow-up
+[1774672729.52] PATIENT: Okay, what’s the next available morning?
+[1774672732.83] AGENT: is Monday, March thirtieth at ten AM with doctor Judy Hauser.
+[1774672733.60] PATIENT: That works for me! Please go ahead and schedule that.
+[1774672737.53] AGENT: Would you like to book that?
+[1774672738.21] PATIENT: Yes, please book that appointment for me.
+[1774672747.45] AGENT: I'm having trouble with a visit reason
+[1774672749.58] PATIENT: Oh, what’s the issue with the visit reason?
+[1774672752.66] AGENT: required for booking.
+[1774672753.70] PATIENT: Got it. I think it was for a routine follow-up. Does that work?
+[1774672758.58] AGENT: Me try again to get your follow-up appointment scheduled.
+[1774672759.42] PATIENT: Okay, sounds good! Let me know what you need from me.
+[1774672772.66] AGENT: It looks like the system isn't accepting any visit reason for booking right now.
+[1774672776.43] PATIENT: Oh, that’s a bit frustrating. Is there any other way we can get this appointment scheduled?
+[1774672782.04] AGENT: Which is preventing me from scheduling your appointment.
+[1774672783.26] PATIENT: I understand. Is there someone else I can talk to, or can you suggest what I should do next?
+[1774672789.86] AGENT: I'll document this issue for the clinic support team so they can follow
+[1774672790.76] PATIENT: Okay, I appreciate that. Thank you for your help!
+[1774672794.62] AGENT: Connecting you to a representative.
+[1774672796.50] PATIENT: Sure, thank you!
+[1774672798.25] AGENT: Please wait.
+[1774672798.83] PATIENT: Okay, I’ll wait.
+[1774672800.67] AGENT: Hello. You've reached the Pretty Good AI test line. Goodbye.
+[1774672801.35] PATIENT: Oh, um, okay. Thank you for your time! Goodbye!

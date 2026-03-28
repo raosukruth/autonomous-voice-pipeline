@@ -1,0 +1,30 @@
+[1774585905.65] AGENT: This call may be recorded for quality and training purposes.
+[1774585907.46] PATIENT: Oh, okay! I understand. Um, my name is Jennifer Garcia, and I’m calling to find out if you guys accept Blue Cross Blue Shield insurance.
+[1774585917.09] AGENT: Thank you for calling PivotPoint.
+[1774585918.44] PATIENT: You're welcome! Um, I just wanted to check if your office accepts Blue Cross Blue Shield insurance.
+[1774585925.13] AGENT: Hi, Jennifer.
+[1774585927.05] PATIENT: Hi there! So, do you accept Blue Cross Blue Shield insurance?
+[1774585931.99] AGENT: Jennifer, would you like to create a demo?
+[1774585933.09] PATIENT: Oh, um, I’m actually just looking to confirm if you accept Blue Cross Blue Shield insurance. Can you help me with that?
+[1774585941.13] AGENT: Jeff, before I
+[1774585942.15] PATIENT: Uh, I think you might have mixed up my name. It's Jennifer. But, um, could you let me know about the insurance?
+[1774585949.38] AGENT: I
+[1774585951.25] PATIENT: I'm sorry, I didn't catch that. Can you repeat what you said?
+[1774585955.78] AGENT: Thanks for clarifying.
+[1774585956.86] PATIENT: No problem! So, do you have any information on whether you accept Blue Cross Blue Shield insurance?
+[1774585968.78] AGENT: I don't have access to insurance details yet.
+[1774585969.82] PATIENT: Oh, okay. Um, is there someone else I can speak to who might have that information? Or when would you have access to it?
+[1774585978.14] AGENT: Would you like to create a demo patient profile? That way, I can help you check
+[1774585980.30] PATIENT: Um, sure, I guess that could work. What do you need me to provide for the demo patient profile?
+[1774585986.77] AGENT: I can connect you to our clinic support team who can answer your insurance question.
+[1774585987.65] PATIENT: That sounds great! Can you connect me to them, please?
+[1774585992.24] AGENT: Please stay on the line while I transfer you.
+[1774585992.93] PATIENT: Okay, I’ll hold. Thanks!
+[1774585996.03] AGENT: Connecting you to a representative.
+[1774585997.53] PATIENT: Thank you!
+[1774585999.00] AGENT: Please wait.
+[1774585999.65] PATIENT: Sure, I'll wait.
+[1774586001.47] AGENT: Hello. You've reached the Pretty Good AI test line.
+[1774586002.64] PATIENT: Um, hi! I think I was supposed to get transferred to someone who can help with my insurance question.
+[1774586009.72] AGENT: Goodbye.
+[1774586011.42] PATIENT: Oh, okay. Thank you anyway! Goodbye!

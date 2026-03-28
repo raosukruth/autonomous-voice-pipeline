@@ -1,0 +1,48 @@
+[1774680782.38] AGENT: This call may be recorded for quality and training purposes.
+[1774680783.76] PATIENT: Sure, that's fine. I'm just looking to schedule a follow-up appointment.
+[1774680788.85] AGENT: Thank you for calling.
+[1774680789.80] PATIENT: You're welcome! I’d like to schedule a follow-up appointment, if that’s possible.
+[1774680801.64] AGENT: I can help with that. Would you like to create a demo patient
+[1774680803.78] PATIENT: Yeah, that sounds good. What do you need from me to create the demo patient?
+[1774680809.13] AGENT: profile first? I just need your first and last name to get started.
+[1774680809.82] PATIENT: Sure! It’s Michael Torres.
+[1774680812.76] AGENT: Great.
+[1774680813.43] PATIENT: Awesome! What do you need next?
+[1774680819.87] AGENT: Your patient profile has been created.
+[1774680821.69] PATIENT: Perfect! Now, can we go ahead and schedule that follow-up appointment?
+[1774680827.12] AGENT: And your date of birth is
+[1774680827.98] PATIENT: It's July 22, 1975.
+[1774680832.89] AGENT: July fourth two thousand for demo purposes.
+[1774680833.84] PATIENT: Oh, got it! So, July 4, 2000, for the demo. What's next?
+[1774680839.48] AGENT: How may I help you today?
+[1774680841.78] PATIENT: I’d like to schedule a follow-up appointment, please.
+[1774680845.36] AGENT: Let me check available times for a follow-up consultation.
+[1774680846.18] PATIENT: Sure, take your time!
+[1774680848.29] AGENT: Do you have a preferred provider, day, or time of day?
+[1774680850.22] PATIENT: Um, I usually see Dr. Smith, and I’m pretty flexible with days. Mornings work best for me, though.
+[1774680857.82] AGENT: I'll look for open follow-up appoint.
+[1774680859.99] PATIENT: Okay, thanks!
+[1774680863.74] AGENT: I don't see Oxford Smith.
+[1774680864.84] PATIENT: Oh, it's Dr. Smith—just a regular name. Do you need me to spell it or anything?
+[1774680871.24] AGENT: The next available follow-up is Monday,
+[1774680872.28] PATIENT: That works for me! What time do you have available on Monday?
+[1774680882.19] AGENT: The next available times on Monday are ten
+[1774680884.67] PATIENT: Great! Let's go ahead and schedule that for 10 AM on Monday.
+[1774680889.00] AGENT: AM and eleven AM with doctor Doovie Houser.
+[1774680889.93] PATIENT: Oh, I meant 10 AM with Dr. Smith. Can we do that instead?
+[1774680896.36] AGENT: Would you like to book one of those?
+[1774680897.48] PATIENT: Uh, no, I really prefer to stick with Dr. Smith. Is 10 AM with him still available?
+[1774680903.85] AGENT: I don't
+[1774680906.22] PATIENT: I see. Can you let me know when the next appointment with Dr. Smith is available?
+[1774680911.85] AGENT: I'm sorry, but I don't see a provider.
+[1774680912.87] PATIENT: Oh, okay. Well, can you check again to see when Dr. Smith might have an opening?
+[1774680919.10] AGENT: I don't have Arthur Smith.
+[1774680920.24] PATIENT: It seems there's some confusion. Could you clarify if Dr. Smith is no longer available?
+[1774680933.61] AGENT: Oxford Smith is not listed as a provider at Pivot Point Orthopaedics.
+[1774680935.63] PATIENT: Got it, thanks for clarifying. Can you help me find another doctor for my follow-up then?
+[1774680941.36] AGENT: The available providers for follow-up appointments are
+[1774680942.16] PATIENT: Sure, who do you have available?
+[1774680944.81] AGENT: doctor Judy
+[1774680945.62] PATIENT: Okay, I can work with that. What times do you have available with Dr. Judy?
+[1774680956.33] AGENT: I don't see a doctor Judy listed.
+[1774680958.38] PATIENT: Alright, I apologize for the mix-up. Can you tell me which providers are available for follow-up appointments?

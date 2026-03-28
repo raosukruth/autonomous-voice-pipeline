@@ -1,0 +1,232 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774488559.252148
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, okay! That\u2019s fine. I\u2019m just calling to request a refill for my Adderall prescription.",
+    "timestamp": 1774488560.4852211
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling Pivot.",
+    "timestamp": 1774488566.5570922
+  },
+  {
+    "speaker": "patient",
+    "text": "You're welcome! Um, I\u2019d like to request a refill for my Adderall XR 20mg prescription, please.",
+    "timestamp": 1774488567.598006
+  },
+  {
+    "speaker": "agent",
+    "text": "Would",
+    "timestamp": 1774488573.898867
+  },
+  {
+    "speaker": "patient",
+    "text": "Uh, could you repeat that? I didn\u2019t catch what you said.",
+    "timestamp": 1774488575.014936
+  },
+  {
+    "speaker": "agent",
+    "text": "I can help with",
+    "timestamp": 1774488580.1115909
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, great! Um, I just need a refill on my Adderall XR 20mg prescription. What do you need from me?",
+    "timestamp": 1774488581.288815
+  },
+  {
+    "speaker": "agent",
+    "text": "I can help with your adder",
+    "timestamp": 1774488588.405993
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, could you clarify what you mean by that? I just want to make sure I understand.",
+    "timestamp": 1774488589.567136
+  },
+  {
+    "speaker": "agent",
+    "text": "To get started, I'll need",
+    "timestamp": 1774488595.047164
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure, what do you need from me?",
+    "timestamp": 1774488595.984586
+  },
+  {
+    "speaker": "agent",
+    "text": "To help with your refill request,",
+    "timestamp": 1774488605.275771
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay! What information do you need from me to process that?",
+    "timestamp": 1774488606.2452369
+  },
+  {
+    "speaker": "agent",
+    "text": "I'll need to create a demo patient profile for you.",
+    "timestamp": 1774488610.056791
+  },
+  {
+    "speaker": "patient",
+    "text": "Uh, a demo patient profile? I\u2019m not sure what that means. Do you need my information to set that up?",
+    "timestamp": 1774488611.261441
+  },
+  {
+    "speaker": "agent",
+    "text": "May I have your first and last name?",
+    "timestamp": 1774488618.218048
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure! It\u2019s James Martinez.",
+    "timestamp": 1774488618.917109
+  },
+  {
+    "speaker": "agent",
+    "text": "I just need",
+    "timestamp": 1774488621.655665
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, I didn\u2019t catch that. What else do you need?",
+    "timestamp": 1774488622.430414
+  },
+  {
+    "speaker": "agent",
+    "text": "Thanks, James. What medication do you need refilled?",
+    "timestamp": 1774488630.623245
+  },
+  {
+    "speaker": "patient",
+    "text": "I need a refill for my Adderall XR 20mg.",
+    "timestamp": 1774488631.6064131
+  },
+  {
+    "speaker": "agent",
+    "text": "What's",
+    "timestamp": 1774488640.482336
+  },
+  {
+    "speaker": "patient",
+    "text": "Sorry, could you repeat that? I missed what you said.",
+    "timestamp": 1774488641.32732
+  },
+  {
+    "speaker": "agent",
+    "text": "the dosage and how often do you take it?",
+    "timestamp": 1774488645.065761
+  },
+  {
+    "speaker": "patient",
+    "text": "I take Adderall XR 20mg once a day.",
+    "timestamp": 1774488645.882659
+  },
+  {
+    "speaker": "agent",
+    "text": "When did you last have it refilled?",
+    "timestamp": 1774488655.378162
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, my last refill was about 60 days ago.",
+    "timestamp": 1774488656.49067
+  },
+  {
+    "speaker": "agent",
+    "text": "Which pharmacy do you use?",
+    "timestamp": 1774488666.337209
+  },
+  {
+    "speaker": "patient",
+    "text": "I use the Walgreens on Main Street.",
+    "timestamp": 1774488667.165431
+  },
+  {
+    "speaker": "agent",
+    "text": "Please confirm the location.",
+    "timestamp": 1774488670.274103
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure! It\u2019s Walgreens located at 123 Main Street.",
+    "timestamp": 1774488671.140706
+  },
+  {
+    "speaker": "agent",
+    "text": "Let me",
+    "timestamp": 1774488676.246618
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure, take your time!",
+    "timestamp": 1774488676.976044
+  },
+  {
+    "speaker": "agent",
+    "text": "I'm sending your refill request now.",
+    "timestamp": 1774488691.478998
+  },
+  {
+    "speaker": "patient",
+    "text": "Great, thank you! Um, how long will it take for the pharmacy to have it ready?",
+    "timestamp": 1774488692.658004
+  },
+  {
+    "speaker": "agent",
+    "text": "One moment while I process it.",
+    "timestamp": 1774488698.5231738
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, sure! I'll wait.",
+    "timestamp": 1774488699.876517
+  },
+  {
+    "speaker": "agent",
+    "text": "I'm having trouble submitting your refill",
+    "timestamp": 1774488712.143884
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh no, um, what seems to be the issue?",
+    "timestamp": 1774488713.46926
+  },
+  {
+    "speaker": "agent",
+    "text": "request right now. Let me document this for our clinic support team so they can follow-up and",
+    "timestamp": 1774488717.19246
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, that sounds good. Um, is there anything else I need to do while you document that?",
+    "timestamp": 1774488718.786946
+  },
+  {
+    "speaker": "agent",
+    "text": "I'm unable to process your refill due to a",
+    "timestamp": 1774488732.2988591
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, due to a what? I just want to understand what's going on.",
+    "timestamp": 1774488733.19553
+  },
+  {
+    "speaker": "agent",
+    "text": "I'll connect you to our clinic support team so they can help you directly.",
+    "timestamp": 1774488738.178153
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, that sounds good. Thank you for your help!",
+    "timestamp": 1774488738.968155
+  }
+]

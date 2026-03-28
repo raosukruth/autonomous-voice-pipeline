@@ -1,0 +1,56 @@
+[1774676006.51] AGENT: This call may be recorded for quality and training purposes.
+[1774676007.86] PATIENT: Oh, okay! That’s fine. Um, I’m actually calling to schedule my first appointment as a new patient.
+[1774676014.53] AGENT: Thank you for calling PivotPoint.
+[1774676016.27] PATIENT: You're welcome! I’m really excited to be calling. I’d like to set up an appointment, if that’s okay?
+[1774676022.55] AGENT: I can help with that.
+[1774676024.42] PATIENT: Great! Um, what do I need to do to get started?
+[1774676028.67] AGENT: Great to hear you're excited.
+[1774676030.03] PATIENT: Thanks! I really appreciate that. So, um, what do you need from me to schedule the appointment?
+[1774676036.97] AGENT: To get started, I'll need to create
+[1774676038.15] PATIENT: Oh, okay! Um, what do you need to create?
+[1774676041.95] AGENT: To schedule your
+[1774676043.90] PATIENT: Oh, sorry, I didn’t catch that. You said to schedule my...?
+[1774676049.26] AGENT: to schedule your appointment, I'll need to create a
+[1774676050.10] PATIENT: A profile? Got it! What information do you need from me to create that?
+[1774676055.17] AGENT: a no problem.
+[1774676056.13] PATIENT: Okay, thanks! Um, what should I provide for the profile?
+[1774676060.61] AGENT: I just
+[1774676062.58] PATIENT: I'm sorry, I didn't quite catch that. Could you repeat it, please?
+[1774676067.75] AGENT: I just need your first name and last
+[1774676068.82] PATIENT: Sure! It’s Sarah Johnson. What else do you need?
+[1774676072.56] AGENT: Sure.
+[1774676073.36] PATIENT: Great! So, what’s the next step?
+[1774676081.20] AGENT: Your patient profile is set up
+[1774676083.77] PATIENT: Awesome! Thank you! When can I schedule my appointment?
+[1774676088.05] AGENT: and your date of birth is July fourth two thousand.
+[1774676089.35] PATIENT: Oh, actually, my date of birth is March 15, 1988. Can we update that?
+[1774676096.35] AGENT: May I help you today?
+[1774676097.18] PATIENT: Yes, I’d like to schedule my first appointment as a new patient.
+[1774676101.75] AGENT: We can get you scheduled for your first visit.
+[1774676103.29] PATIENT: That's great to hear! Do you have any available times for me?
+[1774676108.07] AGENT: What type of appointment would you like?
+[1774676109.03] PATIENT: Um, I’m not really sure. Maybe just a general check-up? What do you recommend for a first visit?
+[1774676115.41] AGENT: New patient consultation, procedure, or physical therapy?
+[1774676116.60] PATIENT: Oh, um, I think a new patient consultation would be best for my first visit. Can we schedule that?
+[1774676123.70] AGENT: If you're not sure, I can explain the options.
+[1774676125.63] PATIENT: Oh, yes, please! That would be really helpful. What’s the difference between those options?
+[1774676131.35] AGENT: Let me
+[1774676132.04] PATIENT: Okay, sure! I'm listening.
+[1774676134.75] AGENT: For your first
+[1774676135.55] PATIENT: Okay, got it! What’s the first one about?
+[1774676138.98] AGENT: Perfect.
+[1774676141.11] PATIENT: Great! So, um, can we go ahead and schedule that new patient consultation?
+[1774676146.64] AGENT: I'll check if
+[1774676147.34] PATIENT: Sure, sounds good! I'm waiting.
+[1774676150.24] AGENT: Here's a
+[1774676150.90] PATIENT: Okay, what do you have for me?
+[1774676159.18] AGENT: Let me check available times
+[1774676160.82] PATIENT: Sure, take your time!
+[1774676162.98] AGENT: for a new patient consultation.
+[1774676163.72] PATIENT: Thank you! Do you have any specific dates or times available?
+[1774676168.74] AGENT: Moment.
+[1774676169.63] PATIENT: Okay, no problem! I’ll wait.
+[1774676172.39] AGENT: We have opening
+[1774676174.40] PATIENT: Great! What days and times do you have available?
+[1774676178.16] AGENT: The next available
+[1774676179.03] PATIENT: Um, what is the next available date?

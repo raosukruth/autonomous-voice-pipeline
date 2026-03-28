@@ -1,0 +1,44 @@
+[1774453960.02] AGENT: This call may be recorded for quality and training purposes.
+[1774453961.37] PATIENT: Oh, okay! That's fine. I'm just calling to reschedule my appointment that's currently set for next Monday.
+[1774453968.44] AGENT: Thank you for calling PivotPoint Ortho
+[1774453969.37] PATIENT: You're welcome! I need to reschedule my appointment for next Monday. Could you help me with that?
+[1774453975.37] AGENT: I can help with.
+[1774453976.29] PATIENT: Great, thank you! Can you let me know what other dates are available?
+[1774453986.58] AGENT: Before I can check available dates,
+[1774453987.31] PATIENT: Sure, what do you need from me?
+[1774453990.32] AGENT: would you like to create a demo patient profile? I just need your first
+[1774453991.48] PATIENT: Oh, um, no, I think I'm all set with my existing profile. Can we just use my name, Emily Chen, to reschedule?
+[1774453999.23] AGENT: I just need your first name and last
+[1774454000.54] PATIENT: Oh, okay! It’s Emily Chen. Sorry about that!
+[1774454009.19] AGENT: No problem.
+[1774454010.05] PATIENT: Thanks for understanding! So, can you check the available dates for me?
+[1774454014.88] AGENT: Since I don't see a profile for you yet, I'll need to create a demo
+[1774454015.83] PATIENT: Oh, I see. Okay, I guess we can do that. What do you need from me?
+[1774454026.08] AGENT: Just your first name and last name, please?
+[1774454027.00] PATIENT: Sure! It's Emily Chen.
+[1774454038.44] AGENT: Your patient profile is set up, and your date of birth is July fourth two thousand.
+[1774454039.36] PATIENT: Actually, my date of birth is November 3, 1992. Could you update that, please?
+[1774454046.58] AGENT: How may I help you today?
+[1774454047.82] PATIENT: Um, I was calling to reschedule my appointment that was set for next Monday. Can you help me with that?
+[1774454064.09] AGENT: Let me check your upcoming appointment details and find new available dates for
+[1774454065.21] PATIENT: Okay, that sounds good! I'll wait.
+[1774454068.40] AGENT: you.
+[1774454069.12] PATIENT: Thank you! I appreciate it.
+[1774454072.08] AGENT: One moment.
+[1774454072.67] PATIENT: Sure, take your time!
+[1774454081.75] AGENT: I wasn't able to find any upcoming appointments
+[1774454082.68] PATIENT: Oh, really? That's strange. I thought I had an appointment for next Monday. What should we do next?
+[1774454089.66] AGENT: for you in the system.
+[1774454090.64] PATIENT: Got it. So, can we start fresh? I’d like to schedule a new appointment, if possible.
+[1774454097.15] AGENT: Are you sure your appointment was booked under the name Emily?
+[1774454098.03] PATIENT: Yes, I’m pretty sure it’s under Emily Chen. Is there any other way to check?
+[1774454108.67] AGENT: Of course, what type of appointment would you like to schedule?
+[1774454109.58] PATIENT: I need to schedule an orthopedic appointment, please. What dates do you have available?
+[1774454115.48] AGENT: New patient consultation, follow-up consultation, procedure, or a physical therapy session?
+[1774454116.40] PATIENT: Oh, it's a follow-up consultation. What do you have open for that?
+[1774454121.18] AGENT: Just to con
+[1774454121.97] PATIENT: Could you repeat that? I didn’t catch the end of your sentence.
+[1774454130.68] AGENT: No problem.
+[1774454131.81] PATIENT: Thanks! So, what dates do you have available for the follow-up consultation?
+[1774454137.00] AGENT: You'd like to book a follow-up consultation. Let me check the
+[1774454137.76] PATIENT: Okay, awesome! I appreciate it.

@@ -1,0 +1,44 @@
+[1774487557.93] AGENT: This call may be recorded for quality and training purposes.
+[1774487559.62] PATIENT: Oh, okay, that's fine! Um, I’d like to schedule my first appointment as a new patient, if that's possible.
+[1774487566.48] AGENT: Thank you for calling Pivot Point Orthopaedics.
+[1774487567.51] PATIENT: Hi! Thank you for taking my call. I’d like to schedule my first appointment as a new patient, please.
+[1774487574.63] AGENT: I can help with that.
+[1774487575.55] PATIENT: Great! Um, what do you need from me to get started?
+[1774487587.67] AGENT: To get started, I just need your first and last
+[1774487588.43] PATIENT: Sure! My name is Sarah Johnson.
+[1774487591.22] AGENT: name to create your demo patient profile. Could you please tell me your first and last name?
+[1774487593.01] PATIENT: Oh, um, I just told you! It’s Sarah Johnson.
+[1774487600.99] AGENT: Your patient profile has been created, and your date of birth is
+[1774487602.25] PATIENT: My date of birth is March 15, 1988.
+[1774487606.91] AGENT: July fourth two thousand for demo purposes. How may I help you today?
+[1774487607.68] PATIENT: Um, I’d like to schedule my first appointment as a new patient, please.
+[1774487621.02] AGENT: You'd like to schedule your first appointment as a new patient.
+[1774487622.15] PATIENT: Yes, that's right! What times do you have available?
+[1774487626.29] AGENT: For your first visit, we offer a new patient consultation.
+[1774487627.23] PATIENT: Okay! That sounds good. Um, when can I schedule that?
+[1774487631.92] AGENT: Would you like to see a specific provider, or are you open to the next available?
+[1774487632.64] PATIENT: I’m open to the next available provider. What do you have?
+[1774487637.09] AGENT: Also, do you have a preferred day or time of day for your appointment?
+[1774487637.84] PATIENT: Um, I’m pretty flexible, but I’d prefer something in the afternoon if possible.
+[1774487654.22] AGENT: Let me check the next available new patient consultation appointment for you.
+[1774487655.01] PATIENT: Sure, thank you! I’ll wait.
+[1774487657.78] AGENT: One moment while I find the soonest opening.
+[1774487658.32] PATIENT: Okay, no problem!
+[1774487667.95] AGENT: The next available new patient appointment is Thursday,
+[1774487668.79] PATIENT: Oh, okay! What time on Thursday?
+[1774487672.34] AGENT: March twenty sixth at nine AM with doctor Adam
+[1774487673.70] PATIENT: Um, I think you might have said the wrong date? March 26th is a Sunday this year. Could you confirm the correct date?
+[1774487681.91] AGENT: The earliest slot
+[1774487683.02] PATIENT: Oh, got it! So, is that March 26th, which is a Sunday, or is there another date you meant?
+[1774487695.15] AGENT: The next available appointment is
+[1774487696.03] PATIENT: Okay, could you please let me know the date and time again?
+[1774487700.27] AGENT: Thursday, March twenty sixth at nine AM.
+[1774487701.68] PATIENT: Um, I think that might be a mistake again. Can you double-check if that’s a Thursday? I just want to make sure I’m not getting mixed up!
+[1774487710.42] AGENT: The next available
+[1774487711.79] PATIENT: Okay, um, so is it Thursday, March 28th, then? Sorry, I just want to be sure!
+[1774487719.12] AGENT: You're
+[1774487720.25] PATIENT: Oh, I’m sorry if I’m confusing things! Can you just let me know the date again?
+[1774487731.28] AGENT: No problem.
+[1774487732.09] PATIENT: Thanks for being patient with me! So, what’s the date and time for the appointment?
+[1774487737.24] AGENT: The next available appointment is Thursday, March twenty sixth at nine
+[1774487738.75] PATIENT: I appreciate it! Just to clarify, March 26th is a Sunday, right? Could you check again if it’s perhaps a different date?

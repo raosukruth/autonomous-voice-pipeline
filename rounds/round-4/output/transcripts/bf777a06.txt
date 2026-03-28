@@ -1,0 +1,36 @@
+[1774682513.59] AGENT: This call may be recorded for quality and training purposes.
+[1774682514.88] PATIENT: Oh, okay! That's fine. Um, hi, my name is Ashley White, and I’m calling to check on my lab results. Do I need to come in for them?
+[1774682524.14] AGENT: Thank you for calling PivotPoint Worth.
+[1774682525.40] PATIENT: Um, thank you! I just wanted to ask about my lab results. I'm feeling a bit anxious and want to know if I need to come in to get them.
+[1774682534.49] AGENT: Hi, Ashley.
+[1774682536.97] PATIENT: Hi! Um, I’m really hoping to get some information about my lab results. Could you help me with that?
+[1774682544.17] AGENT: Ashley, I don't see a patient profile for you yet.
+[1774682545.54] PATIENT: Oh, really? Um, I thought I was registered. My date of birth is October 19, 1985. Is there anything else you need to find my profile?
+[1774682557.02] AGENT: I'd be happy to help with your lab results.
+[1774682558.41] PATIENT: Oh, thank you! That’s a relief. So, do I need to come in to get them, or can you tell me over the phone?
+[1774682566.07] AGENT: Thank
+[1774682568.41] PATIENT: Uh, I think the call got cut off. Could you repeat that? What do I need to do to get my lab results?
+[1774682575.17] AGENT: To check your lab result,
+[1774682576.25] PATIENT: Okay, great! Um, what do I need to do next? Do I need to provide any more information or something?
+[1774682588.48] AGENT: I'll need to create a demo patient profile for you
+[1774682589.41] PATIENT: Oh, okay! That makes sense. What do you need from me to create that profile?
+[1774682594.83] AGENT: first. Can you please confirm your first and last name?
+[1774682597.01] PATIENT: Sure! My name is Ashley White.
+[1774682599.74] AGENT: I just need your
+[1774682600.73] PATIENT: Um, what else do you need? I'm a bit nervous, so I just want to make sure I get it right.
+[1774682607.70] AGENT: your patient profile has been
+[1774682608.83] PATIENT: Wait, I’m sorry, I didn’t catch that. Can you repeat what you just said?
+[1774682614.46] AGENT: created successfully, and your date of birth is July fourth two thousand for demo purposes.
+[1774682617.41] PATIENT: Oh, okay! So, um, I guess I understand it's just for demo purposes. Can we move on to my lab results now? I'm really anxious to know!
+[1774682627.10] AGENT: How may I help you today?
+[1774682628.74] PATIENT: Um, I just want to check on my lab results. I’m feeling really worried and just want to know if everything's okay.
+[1774682636.08] AGENT: Your patient profile is set up, Ashley, with
+[1774682637.40] PATIENT: Got it! Thank you! So, um, can you check my lab results now? Do you have any information for me?
+[1774682653.23] AGENT: I don't have access to lab results directly.
+[1774682655.58] PATIENT: Oh, okay, um, that’s a bit disappointing. So, what do I need to do to get my lab results then? Do I need to speak to someone else?
+[1774682664.65] AGENT: I can let the clinic support team know you're anxious and want to review your lab results.
+[1774682666.22] PATIENT: That would be really helpful! Thank you. Um, how long do you think it will take for them to get back to me?
+[1774682673.48] AGENT: They'll get back to you as soon as possible.
+[1774682674.67] PATIENT: Okay, that’s reassuring. Thank you so much for your help! Um, I really appreciate it.
+[1774682680.95] AGENT: You don't
+[1774682683.73] PATIENT: Oh, sorry, I didn't catch that. Could you repeat what you just said?

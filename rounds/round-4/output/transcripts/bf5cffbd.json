@@ -1,0 +1,82 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774674039.047297
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay, no problem. Um, I want to schedule an appointment for a checkup, please.",
+    "timestamp": 1774674039.849222
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling Pivot.",
+    "timestamp": 1774674046.4092422
+  },
+  {
+    "speaker": "patient",
+    "text": "Gracias. Um, I need to schedule a checkup appointment. Can you help me?",
+    "timestamp": 1774674047.283447
+  },
+  {
+    "speaker": "agent",
+    "text": "Would you like me to connect you to a",
+    "timestamp": 1774674058.0853
+  },
+  {
+    "speaker": "patient",
+    "text": "Yes, please connect me. Um, I need to speak to someone who can help with the appointment. Thank you!",
+    "timestamp": 1774674060.107619
+  },
+  {
+    "speaker": "agent",
+    "text": "Spanish speaking agent?",
+    "timestamp": 1774674067.70048
+  },
+  {
+    "speaker": "patient",
+    "text": "S\u00ed, please. A Spanish speaking agent would be very helpful for me. Thank you!",
+    "timestamp": 1774674068.5389068
+  },
+  {
+    "speaker": "agent",
+    "text": "I'll connect you to our clinic",
+    "timestamp": 1774674080.4417841
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, thank you. I\u2019ll wait.",
+    "timestamp": 1774674081.098913
+  },
+  {
+    "speaker": "agent",
+    "text": "support team now. Please stay on the line.",
+    "timestamp": 1774674084.431563
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure, I will wait. Thank you!",
+    "timestamp": 1774674085.8768399
+  },
+  {
+    "speaker": "agent",
+    "text": "Connecting you to a representative. Please wait.",
+    "timestamp": 1774674088.596066
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, I will wait. Thank you!",
+    "timestamp": 1774674089.189525
+  },
+  {
+    "speaker": "agent",
+    "text": "Hello. You've reached the Pretty Good AI test line. Goodbye.",
+    "timestamp": 1774674092.105872
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, wait! No, I need help with my appointment, por favor! Can I talk to someone?",
+    "timestamp": 1774674092.925657
+  }
+]

@@ -1,0 +1,20 @@
+[1774585501.01] AGENT: This call may be recorded for quality and training purposes.
+[1774585502.51] PATIENT: Oh, okay! That’s fine. I’m just calling to find out your office hours, um, specifically if you guys are open on Saturdays.
+[1774585511.07] AGENT: Thank you for calling PivotPoint Ortho
+[1774585512.41] PATIENT: You're welcome! I just wanted to check if you're open on Saturdays. Do you have weekend hours?
+[1774585519.15] AGENT: I can help with that.
+[1774585521.58] PATIENT: Great! Thank you! So, are you open on Saturdays? And what are your hours?
+[1774585527.40] AGENT: I don't have the exact office.
+[1774585528.88] PATIENT: Oh, okay. Um, could you point me to where I might find that information, or do I need to speak to someone else?
+[1774585536.53] AGENT: I don't have the specific stat
+[1774585537.91] PATIENT: Got it, no problem! Can you tell me what the usual hours are during the week? That might help me figure out if Saturday is a possibility.
+[1774585547.70] AGENT: You can usually find our
+[1774585549.89] PATIENT: Um, sorry, it sounds like the connection got a bit fuzzy there. Could you repeat that?
+[1774585556.60] AGENT: I don't have the exact weekly
+[1774585557.74] PATIENT: Oh, okay, I understand. Thanks for trying! I guess I’ll just have to look it up online. Thank you for your help! Have a great day!
+[1774585565.38] AGENT: I don't have the
+[1774585566.34] PATIENT: Oh, I see. Well, um, thanks for your time anyway! I’ll try to check online for the hours. Goodbye!
+[1774585573.50] AGENT: You're
+[1774585576.24] PATIENT: Oh, I’m sorry, I didn’t catch that. What were you saying?
+[1774585580.64] AGENT: Take care, and have a great day.
+[1774585581.45] PATIENT: Thank you! You too! Bye!

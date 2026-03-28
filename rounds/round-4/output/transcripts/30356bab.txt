@@ -1,0 +1,38 @@
+[1774586732.77] AGENT: This call may be recorded for quality and training purposes.
+[1774586734.32] PATIENT: Okay, that's fine. I'm just really worried about my lab results and wanted to check on them.
+[1774586739.93] AGENT: Thank you for calling PivotPoint Orthopaedic.
+[1774586740.76] PATIENT: Um, hi! This is Ashley White. I’m calling to ask about my lab results and if I need to come in for anything.
+[1774586748.40] AGENT: I understand.
+[1774586750.44] PATIENT: Okay, great! Can you tell me if my lab results are ready? I'm feeling really anxious about it.
+[1774586757.47] AGENT: Ashley, would you like
+[1774586758.29] PATIENT: Um, sorry, could you repeat that? I didn't catch the whole thing.
+[1774586770.52] AGENT: No problem.
+[1774586771.29] PATIENT: Thanks! I appreciate it. So, can you let me know if my lab results are ready?
+[1774586776.67] AGENT: Ashley, would you like to create a demo patient profile so I can check on your lab
+[1774586778.65] PATIENT: Oh, um, I thought you already had my information on file? What do you need for the demo profile?
+[1774586784.70] AGENT: To check your lab results
+[1774586785.65] PATIENT: Okay, um, what do you need from me to create that profile? I just want to make sure I get my results.
+[1774586792.28] AGENT: I just need
+[1774586792.99] PATIENT: Sorry, could you finish that? I didn't catch what you need.
+[1774586804.70] AGENT: No problem. I just need your first name and last name to
+[1774586806.52] PATIENT: Oh, I already gave you my name, but just in case, it's Ashley White. Is there anything else you need?
+[1774586813.29] AGENT: create your demo patient profile.
+[1774586814.25] PATIENT: Um, okay, I just want to make sure I get my results. Is there anything else you need from me, like my date of birth or something?
+[1774586822.54] AGENT: You please provide those?
+[1774586823.87] PATIENT: Sure! My date of birth is October 19, 1985. Is that everything you need to check my lab results?
+[1774586831.60] AGENT: Your patient profile is set up
+[1774586833.81] PATIENT: Great! Thank you! So, are my lab results ready now? I’m really anxious to hear them.
+[1774586839.92] AGENT: and your date of birth is July fourth two thousand. How may I help you today?
+[1774586841.22] PATIENT: Oh, um, that’s not my date of birth. It's actually October 19, 1985. Can we check on my lab results now? I'm really worried about them.
+[1774586852.25] AGENT: Thanks, Ashley.
+[1774586853.22] PATIENT: You're welcome! So, do you have my lab results, or do I need to come in for anything?
+[1774586866.06] AGENT: I'm having trouble submitting your request
+[1774586868.21] PATIENT: Oh no, that makes me really anxious. Is there something I can do to help? What’s going wrong with the request?
+[1774586875.14] AGENT: right now, but I'll try again to make sure your question about your lab result
+[1774586876.23] PATIENT: Okay, um, thank you for trying again. I just really want to know what's going on with my results. Is there a way to speed this up?
+[1774586884.78] AGENT: gets to the
+[1774586885.82] PATIENT: I'm sorry, I didn't catch that. Can you repeat what you just said?
+[1774586890.80] AGENT: Connecting you to a representative. Please wait.
+[1774586892.57] PATIENT: Okay, sure. Thank you! I'm just really hoping to get some good news.
+[1774586897.70] AGENT: Hello. You've reached the Pretty Good AI test line. Goodbye.
+[1774586898.63] PATIENT: Oh, wait! I think I got disconnected. Is there a way to get back to my lab results? I'm really anxious here.

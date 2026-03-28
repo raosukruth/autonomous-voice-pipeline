@@ -1,0 +1,33 @@
+[1774602005.86] AGENT: This call may be recorded for quality and training purposes.
+[1774602008.23] PATIENT: Oh, uh, that's fine. I just wanted to see if I reached Dr. Patterson’s office. Is this the right place?
+[1774602016.03] AGENT: Thank you for calling PivotPoint Orthopedics.
+[1774602017.76] PATIENT: Oh, um, PivotPoint Orthopedics? I might've dialed the wrong number then. I was trying to reach Dr. Patterson. Do you know if he's there?
+[1774602027.47] AGENT: Yes. You've reached pivot point
+[1774602030.34] PATIENT: Okay, um, so is Dr. Patterson available for an appointment? I just need to check on that.
+[1774602036.80] AGENT: I don't have a list of all providers.
+[1774602039.81] PATIENT: Oh, I see. Um, could you tell me if Dr. Patterson is part of your office then? I'm a bit confused, you see.
+[1774602047.64] AGENT: I can help check on appointments. But first, would
+[1774602048.74] PATIENT: Sure, um, what do you need from me? I'm here to help figure this out.
+[1774602061.41] AGENT: To check if Oscar Patterson is part of our office and help with appointments,
+[1774602064.22] PATIENT: Oh, okay! Uh, what do you need me to do? I just want to make sure I get the right information.
+[1774602070.31] AGENT: I'll need to create a demo patient profile for you.
+[1774602071.45] PATIENT: Oh, um, alright. What do you need for that? Just let me know and I’ll help however I can.
+[1774602077.18] AGENT: Can I get your first and last name?
+[1774602078.41] PATIENT: Sure! It's George Miller.
+[1774602088.19] AGENT: Your patient profile has been created.
+[1774602090.69] PATIENT: Oh, that’s good to hear! Um, what’s next? Can you check if Dr. Patterson is available?
+[1774602097.11] AGENT: And your date of birth is July fourth two thousand for demo purposes.
+[1774602098.21] PATIENT: Um, I think that's not quite right. My date of birth is February 14, 1950. Is that okay?
+[1774602106.39] AGENT: May I help you today?
+[1774602107.73] PATIENT: Well, yes, I was hoping to check if Dr. Patterson is available for an appointment. Can you help me with that?
+[1774602114.99] AGENT: Thanks.
+[1774602118.24] PATIENT: Oh, um, you're welcome! So, can you check on Dr. Patterson's availability?
+[1774602123.56] AGENT: Oscar Patterson is not listed as a provide.
+[1774602125.09] PATIENT: Oh, I see. Um, do you know if he works somewhere else? I really need to see him.
+[1774602137.85] AGENT: I don't have information about where
+[1774602139.74] PATIENT: Oh, okay. Um, do you have any suggestions on how I might find him? I just want to make sure I can get in touch.
+[1774602146.89] AGENT: doctor Patterson might work outside of Pivot Point Orthopedics.
+[1774602149.41] PATIENT: Oh, I understand now. Um, do you know how I could find out where he might be practicing? I’m a bit lost here.
+[1774602157.48] AGENT: You may want to try searching online or contact
+[1774602158.77] PATIENT: Oh, right! So, I should look online for his information? That makes sense. Thank you for that suggestion!
+[1774603178.52] AGENT: I recommend searching

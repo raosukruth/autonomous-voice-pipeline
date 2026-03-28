@@ -1,0 +1,72 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774682435.789118
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, that\u2019s fine. I\u2019d like to schedule an appointment for an annual physical and also request a refill for my metformin, please.",
+    "timestamp": 1774682437.0367
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling PivotPoint Orthopaede.",
+    "timestamp": 1774682445.525981
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, um, I think I might have the wrong number. I\u2019m looking for my primary care physician\u2019s office.",
+    "timestamp": 1774682446.564395
+  },
+  {
+    "speaker": "agent",
+    "text": "This is Pivot Point Orthopedics. We're an orthopedic clinic",
+    "timestamp": 1774682461.172082
+  },
+  {
+    "speaker": "patient",
+    "text": "Got it, thanks for clarifying. Can you help me find the right number for my primary care physician's office?",
+    "timestamp": 1774682463.88699
+  },
+  {
+    "speaker": "agent",
+    "text": "not a primary care office. If you need your primary care physician,",
+    "timestamp": 1774682470.751152
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, understood. Thanks for your help! I\u2019ll look up the right number. Have a good day!",
+    "timestamp": 1774682471.9979572
+  },
+  {
+    "speaker": "agent",
+    "text": "you may want to contact their office direct",
+    "timestamp": 1774682477.05224
+  },
+  {
+    "speaker": "patient",
+    "text": "Absolutely, I\u2019ll do that. Thanks again for your assistance! Goodbye!",
+    "timestamp": 1774682477.975819
+  },
+  {
+    "speaker": "agent",
+    "text": "I don't have",
+    "timestamp": 1774682482.975847
+  },
+  {
+    "speaker": "patient",
+    "text": "That's okay! I can look it up myself. Thanks for letting me know. Bye!",
+    "timestamp": 1774682485.304498
+  },
+  {
+    "speaker": "agent",
+    "text": "a",
+    "timestamp": 1774682490.318341
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, it seems like you might have been cut off. Did you need to say something else?",
+    "timestamp": 1774682491.4628348
+  }
+]

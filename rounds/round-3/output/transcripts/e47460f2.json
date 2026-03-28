@@ -1,0 +1,212 @@
+[
+  {
+    "speaker": "agent",
+    "text": "This call may be recorded for quality and training purposes.",
+    "timestamp": 1774678050.766643
+  },
+  {
+    "speaker": "patient",
+    "text": "Okay, that's fine! I\u2019m calling to schedule an appointment for an annual physical and to request a refill for my metformin.",
+    "timestamp": 1774678052.157794
+  },
+  {
+    "speaker": "agent",
+    "text": "Thank you for calling Pivot Point Orthopedics.",
+    "timestamp": 1774678060.5560372
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, I think I may have called the wrong number. I\u2019m looking for my doctor's office for an appointment and a medication refill.",
+    "timestamp": 1774678061.901191
+  },
+  {
+    "speaker": "agent",
+    "text": "I can help with that.",
+    "timestamp": 1774678069.5570822
+  },
+  {
+    "speaker": "patient",
+    "text": "Great, thank you! I\u2019d like to schedule an annual physical and request a refill for my metformin, please.",
+    "timestamp": 1774678072.061054
+  },
+  {
+    "speaker": "agent",
+    "text": "No problem.",
+    "timestamp": 1774678078.907179
+  },
+  {
+    "speaker": "patient",
+    "text": "Awesome! Could you let me know when the next available appointment is for my physical?",
+    "timestamp": 1774678080.292726
+  },
+  {
+    "speaker": "agent",
+    "text": "Before we get started, would you like to create a demo patient profile?",
+    "timestamp": 1774678092.4454222
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, I think I already have a profile with my doctor. Can we just use that? My name is Susan Taylor, and my date of birth is May 8, 1960.",
+    "timestamp": 1774678093.9613
+  },
+  {
+    "speaker": "agent",
+    "text": "I just need your first and last name to set it up.",
+    "timestamp": 1774678104.292403
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure, it\u2019s Susan Taylor.",
+    "timestamp": 1774678108.6468291
+  },
+  {
+    "speaker": "agent",
+    "text": "Thanks, Susan.",
+    "timestamp": 1774678111.5562398
+  },
+  {
+    "speaker": "patient",
+    "text": "You're welcome! So, can you tell me about the next available appointment for my physical?",
+    "timestamp": 1774678113.29002
+  },
+  {
+    "speaker": "agent",
+    "text": "Since this is pivot point",
+    "timestamp": 1774678119.617088
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, I see! I need to hang up then. I\u2019m looking for my regular doctor's office. Thank you for your help!",
+    "timestamp": 1774678121.971375
+  },
+  {
+    "speaker": "agent",
+    "text": "Your patient profile is set up, and your date of birth is July fourth",
+    "timestamp": 1774678128.935632
+  },
+  {
+    "speaker": "patient",
+    "text": "Um, I think there\u2019s been a mix-up. My date of birth is actually May 8, 1960. Can we stick with that?",
+    "timestamp": 1774678131.6872718
+  },
+  {
+    "speaker": "agent",
+    "text": "two thousand for demo purposes.",
+    "timestamp": 1774678139.67172
+  },
+  {
+    "speaker": "patient",
+    "text": "Got it, but just to clarify, my real date of birth is May 8, 1960. So, can we get back to scheduling my physical and the medication refill?",
+    "timestamp": 1774678141.8033469
+  },
+  {
+    "speaker": "agent",
+    "text": "How may I help you today?",
+    "timestamp": 1774678152.746634
+  },
+  {
+    "speaker": "patient",
+    "text": "I\u2019d like to schedule an annual physical and also request a refill for my metformin, please.",
+    "timestamp": 1774678154.1573088
+  },
+  {
+    "speaker": "agent",
+    "text": "No problem. If you need ortho",
+    "timestamp": 1774678161.090085
+  },
+  {
+    "speaker": "patient",
+    "text": "I actually need my regular doctor's office, not orthopedic services. Can you help me find the right number?",
+    "timestamp": 1774678163.687286
+  },
+  {
+    "speaker": "agent",
+    "text": "I understand, Susan.",
+    "timestamp": 1774678170.915315
+  },
+  {
+    "speaker": "patient",
+    "text": "Thanks for understanding! Can you help me get the contact information for my regular doctor's office?",
+    "timestamp": 1774678172.045165
+  },
+  {
+    "speaker": "agent",
+    "text": "Let me check on",
+    "timestamp": 1774678178.893893
+  },
+  {
+    "speaker": "patient",
+    "text": "Sure, take your time!",
+    "timestamp": 1774678179.9753118
+  },
+  {
+    "speaker": "agent",
+    "text": "I'm not able to provide",
+    "timestamp": 1774678182.406817
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, okay. That's a bit unfortunate. Is there another way I can find the right number?",
+    "timestamp": 1774678184.6038249
+  },
+  {
+    "speaker": "agent",
+    "text": "That's not",
+    "timestamp": 1774678190.486717
+  },
+  {
+    "speaker": "patient",
+    "text": "I\u2019m sorry, I didn\u2019t catch that. Could you clarify what you meant?",
+    "timestamp": 1774678191.49538
+  },
+  {
+    "speaker": "agent",
+    "text": "I'm here if you need",
+    "timestamp": 1774678196.548359
+  },
+  {
+    "speaker": "patient",
+    "text": "Thanks! I appreciate your help, but it seems like I might need to call another number for my regular doctor. Thank you for your time!",
+    "timestamp": 1774678199.030277
+  },
+  {
+    "speaker": "agent",
+    "text": "you might type",
+    "timestamp": 1774678207.828605
+  },
+  {
+    "speaker": "patient",
+    "text": "I\u2019m sorry, I didn't quite hear that. Could you repeat it?",
+    "timestamp": 1774678210.48319
+  },
+  {
+    "speaker": "agent",
+    "text": "You can try searching online for your doctor's",
+    "timestamp": 1774678215.297502
+  },
+  {
+    "speaker": "patient",
+    "text": "Oh, that's a good idea! I\u2019ll do that. Thank you for your help today! Goodbye!",
+    "timestamp": 1774678216.550123
+  },
+  {
+    "speaker": "agent",
+    "text": "You're welcome. If you ever need",
+    "timestamp": 1774678222.20116
+  },
+  {
+    "speaker": "patient",
+    "text": "I appreciate it! Thanks again, and have a great day! Goodbye!",
+    "timestamp": 1774678223.171465
+  },
+  {
+    "speaker": "agent",
+    "text": "if you ever need",
+    "timestamp": 1774678228.211162
+  },
+  {
+    "speaker": "patient",
+    "text": "I\u2019m sorry, I didn\u2019t catch that last part. What were you saying?",
+    "timestamp": 1774678230.4262679
+  }
+]
