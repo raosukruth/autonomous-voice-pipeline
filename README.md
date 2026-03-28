@@ -3,6 +3,11 @@
 A voice bot that calls Pretty Good AI's test line, simulates realistic patient
 conversations, and identifies bugs in their AI agent.
 
+The repository contains both the active app and archived run snapshots. The
+live program writes its current run outputs under `output/`, and the helper
+script snapshots each completed run under `rounds/round-N/output/` for later
+comparison.
+
 ## Quick Start
 
 1. Clone the repo and install dependencies:
@@ -22,10 +27,20 @@ conversations, and identifies bugs in their AI agent.
    python main.py
    ```
 
+   A direct run writes the current bug report and any generated call artifacts
+   into `output/`.
+
 4. Run the automated pipeline script (tests + program + snapshot + round ranking):
    ```bash
    bash run_tests_and_program.sh
    ```
+
+   This script:
+   - runs tests
+   - runs the program
+   - copies the current `output/` directory into a new `rounds/round-N/output/`
+     snapshot
+   - generates `rounds/round_ranking.md`
 
 ## Required API Keys
 
@@ -52,9 +67,20 @@ The bot uses a streaming pipeline with six components:
 
 ## Output
 
-- `output/recordings/` — MP3 files (one per call)
-- `output/transcripts/` — JSON + TXT transcripts for each call
-- `output/bug_report.md` — LLM analysis of issues found
+Current-run files:
+- `output/bug_report.md` — latest bug report
+- `output/recordings/` — current run MP3 files when a run produces fresh call audio
+- `output/transcripts/` — current run JSON + TXT transcripts when a run produces fresh transcripts
+
+Archived snapshots:
+- `rounds/round-N/output/recordings/` — MP3 files captured for that archived round
+- `rounds/round-N/output/transcripts/` — JSON + TXT transcripts for that archived round
+- `rounds/round-N/output/bug_report.md` — bug report generated for that round
+- `rounds/round_ranking.md` — cross-round comparison report
+
+If you are inspecting historical results already committed in the repo, the most
+complete artifacts are typically under `rounds/` rather than the top-level
+`output/` directory.
 
 ## Running Tests
 
@@ -69,9 +95,30 @@ Or use the project script:
 bash run_tests_and_program.sh
 ```
 
+To force the helper script to run the full test suite instead of the smoke
+suite:
+
+```bash
+FULL_TESTS=1 bash run_tests_and_program.sh
+```
+
+## Repository Layout
+
+```text
+.
+├── main.py
+├── src/                     # application code and tests
+├── scenarios/               # scenario JSON input
+├── output/                  # latest run reports and call artifacts
+├── rounds/                  # archived run snapshots and ranking report
+├── STATUS.md
+├── ARCHITECTURE.md
+└── run_tests_and_program.sh
+```
+
 ## Scenarios
 
-The bot ships includes 14 patient scenarios covering:
+The bot ships with 14 patient scenarios covering:
 - New and returning patient scheduling
 - Rescheduling and cancellations
 - Simple and medication refills
