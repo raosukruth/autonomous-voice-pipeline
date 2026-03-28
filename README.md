@@ -95,13 +95,6 @@ Or use the project script:
 bash run_tests_and_program.sh
 ```
 
-To force the helper script to run the full test suite instead of the smoke
-suite:
-
-```bash
-FULL_TESTS=1 bash run_tests_and_program.sh
-```
-
 ## Repository Layout
 
 ```text
