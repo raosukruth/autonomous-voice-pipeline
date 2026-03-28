@@ -19,9 +19,21 @@ STAMP="$(date +"%Y%m%d_%H%M%S")"
 TEST_LOG="output/tests_${STAMP}.log"
 RUN_LOG="output/run_${STAMP}.log"
 
-echo "[1/2] Running full test suite..."
-echo "      Log: $TEST_LOG"
-python -m pytest src/ . -v 2>&1 | tee "$TEST_LOG"
+if [[ "${FULL_TESTS:-0}" == "1" ]]; then
+	echo "[1/2] Running full test suite..."
+	echo "      Log: $TEST_LOG"
+	python -m pytest src/ . -v 2>&1 | tee "$TEST_LOG"
+else
+	echo "[1/2] Running smoke test suite..."
+	echo "      Log: $TEST_LOG"
+	python -m pytest \
+		src/test_config.py \
+		src/test_audio_utils.py \
+		src/test_logger.py \
+		src/test_call_recorder.py \
+		src/test_orchestrator.py \
+		-q 2>&1 | tee "$TEST_LOG"
+fi
 
 echo "[2/2] Running full program..."
 echo "      Log: $RUN_LOG"
