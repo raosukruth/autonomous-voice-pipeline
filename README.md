@@ -117,5 +117,3 @@ The bot ships with 14 patient scenarios covering:
 - Simple and medication refills
 - Office hours, location, insurance questions
 - Edge cases: interruptions, language barriers, wrong numbers, multiple requests, emotional patient/speaker
-
-Loom recording in loom-workflow.mp4
